@@ -1,0 +1,40 @@
+22 EUCLIDIS ELEMENTORUM
+
+ne& BC bifariam seua, ostendetur etiarn BCG angulus, hoc est ACD
+d· 15· 1· angulus d angulo ΑΒΕ major. Omnis igitur trianguli &c. Q E. D.
+
+PROP. XVII. THEOR.
+OMNIS trianguli duo anguli duobus reffls minores ⁷
+
+sunt, quomodocunque sumpti.
+
+Sit triangulum ABC; dico ipsius ΑΒΕ trianguli duos angulos quo³²
+modocunque sumptos duobus reffis minores
+
+effe. A
+Producatur enim 'BC ad D; et quo-
+niam trianguli ABC exterior angulus est
+ACD, erit ACD major interiore et oppo-
+ι. 16.1.s1t0ABC³; communis apponatur ACB; an- B C D
+
+guli igitur ACD, ACB angulis ΑΒΕ, ΑΕΒ
+b. 13- 1· majores sunt. scd ACD, ACB sunt aequales duobus refflsb; angull
+igitur ΑΒΕ, ΒΕΑ duobus reffis sunt minores. fimiliter ostendemus an·-
+
+gulos quoque ΒΑΕ, ΑΕΒ, itemque ΕΑΒ, ΑΒΕ duobus reetis minores
+effe. Omnis igitur trIanguli ἃς. Q E. D.
+
+PROP. XVIII. THEOR.
+OMNIS trianguli majus latus majorem angulum sub-2
+
+tendit.
+A
+Sit triangulum ΑΒΕ habens latus AC
+latere AB majus; dico ct ΑΒΕ angulum D
+angulo BCA majorem effe.
+Qoniam enim AC major est quam AB, B C
+
+a. 3·1 ponatur ipsi AB aequalis AD, et BD
+
+j ungatur.
+

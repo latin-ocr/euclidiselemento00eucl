@@ -1,0 +1,40 @@
+LIBER QUINTUS. 143
+
+PROP. B. THEOR.
+
+SI quatuor magnitudines proportionales fuerint, et in·
+verse proportionales erunt.
+
+Sit A ad Β, ut C ad D3 erit inverse B ad A, ut D ad C.
+
+Sumantur euim ipsarum Β, Ι), aeque multiplices quaecunque E, F ;
+et ipsarum A, C, aliae utcunque aeque multiplices
+G, H. et primum fit E major G; erit igiturG mi-
+nor E ; et quoniam est A ad B, ut C ad D, et
+ipsarum A, C aeque multIplices simxptae sunt G,
+H,· et ipsarum B, D aliae aeque multiplices E,
+
+ 
+
+ 
+
+ 
+
+ 
+
+F; et est G minor Ε, erit H minor ΙΝ, quare est G li& B E D f ⁸
+F major H. fi igitur E major fit G, et F quam Η 0 D F ις’ ⁰ '5‘
+H major erit. similiter, fi E aequalis fuerit ipsl G, Ι Ι
+
+ostendetur F aequalis ipsi H; et fi minor, minor.
+
+suntque E, F ipsarum B, D, utcunque aeque multi-
+
+ 
+
+plices; et G, H ipsarum A, C, aliae utcunque ae-
+que multiplices. Ergo ut Β ad A, ita est D ad ΟΞ. Si igitur quatuor
+magnitudines proportionales fuerint, et inverse proportionales erunt.
+
+PROP. C.
+

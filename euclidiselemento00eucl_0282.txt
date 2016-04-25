@@ -1,0 +1,48 @@
+268
+
+a. 24. 11.
+b. C.11.
+
+e.1.6.
+
+«imag. 11.
+
+EUCLIDIS ELEMENTORUM
+
+lelogrammis solidi CD aequalia et similia sunt. sed tria tribus op-
+positis aequalia sunt et slmilia ³. solidum igitur ΚΟ aequale est et si-
+mile solido CD b. compleatur GK parallelogrammum, et a bafibus qui-
+dem GK, KL parallelogrammis, altitudine vero eadem cum ipso ΆΒ, so·
+lida compleantur EX, LP ita scilicet utreffta ΕΗ fit una ex earum redjis
+
+insistentibus. et quonlam ob similitudinem solidorum AB, CD, et per-
+mutando, est ut ΑΕ ad CF ‚ ita EG ad FN, et ΕΗ ad FR; aequa·
+
+lis autem FC ipfi EK, ct FN ipsi EL, et FR ipsi EM; erit igitur ut ,
+
+AE ad ΕΚ, ita EG ad EL, et HE ad EM. sed ut AE quidem ad
+ΕΚ, ita Ε AG parallelogrammum ad parallelogrammum GK; ut au-
+tem GE ad EL, ita GK ad KL; et ut HE ad EM, ita PE ad ΚΜ.
+et ut igitur AG parallelogrammum ad parallelogrammum GK, ita GK,
+ad KL, et PE ad ΚΜ. scd ut
+AG quidem ad GK, ita AB soli-
+dum ad solidum EXd3 ut au-
+tern GK ad KL, ita solidum EX
+ad PL solidum ; et ut PE ad
+KM, ita PL solidum ad solidum
+ΚΟ. et ut igitur solidum AB
+ad solidum EX, ita EX ad PL,
+et PL ad ΚΟ. sl ⁴autem fint
+quatuor magnitudines deinceps proportionales, prima ad quartam tripli-
+catam rationem habere dicitur ejus quam habet ad secundam. ergo et
+AB solidum ad solidum ΚΟ triplicatam habet rationem ejus, quam AB
+ad EX. sed ut AB ad EX, ita AG parallelogrammum ad parallelo-
+grammum GK, ct AE reita linea ad ipsam EK. quare et AB solidum
+ad solidum ΚΟ triplicatam rationem habebit ejus, quam AE habet ad'
+EK. aequale autem est solidum ΚΟ solido CD, et refia linea ΕΚ rec·
+tae CF est aequalis. Ergo ct AB solidum ad solidum CD triplicatam ha-
+
+bet.
+
+ 
+

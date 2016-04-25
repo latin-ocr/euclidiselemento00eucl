@@ -1,0 +1,43 @@
+LIBER PRIMUS. 23
+
+jungatur. et quoniam trianguli BDC exterior angulus est ADB, erit
+' ADB major interiore et opposito DCB b. aequalis autem est ADBipfib-16. 1.
+ABD, quod et latus AB lateri AD fit aequale⁰; major igitur est et c. 5. 1.
+ABD angulus angulo ACB ; quare ABC ipso ACB multo major erit.
+
+Omnis igitur trianguli &c. Q E. D.
+PROP. XIX. THEOR.
+
+MNIS trianguli major angulus a majore latere sub-
+tenditur.
+
+Sit triangulum ABC habens ABC angulum majorem angulo ΒΕΑ.
+
+dico et latus AC latere AB majus esse.
+Si enim non est majus, vel AC est aequale ipsi AB, vel ipso minus.
+
+aequale autem non est, nam et angulus ABC A
+
+angulo ACB aequalis essct³3 non est autem ; a· ς, L,
+non igitur AC ipsi AB est aequale. sed nc-
+que minus est latus AC Ipso AB; effet enim ΔΑ
+
+b.
+
+et angulus ΑΒΕ angulo ΑΕΒ minor at- Β b. 18.1;
+qui non est; non igitur AC latus minus est
+
+ipso AB. ostensum autem est neque aequale esse; est igitur AC ipso
+
+AB majus. Omnis igitur trianguli &a Q E. D.
+
+PROP. XX. THEOR.
+
+MNIS trianguli duo latera reliquo majora sunt,
+quomodocunque sumpta.
+
+Sit enim triangulum AB& dieo ipsius ΑΒΕ trianguli duo latera re-
+
+liquo majora effe, quomodocunque sumpta3 videlieet latera quidem BA,
+AC
+

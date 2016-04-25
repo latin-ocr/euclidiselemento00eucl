@@ -1,0 +1,38 @@
+10 EUCLIDIS ELEMENTORUM
+
+circuli, crit AE ipfi AD aequalis. sed et rec‘ta C aequalis est ipsi AD;
+utraque igitur ipsarum AE, C ipfi AD aequalis erit. quare et secla ΑΕ
+c. Ax. 1.ipfi C est aequalis& Duabus igitur datis renis lineis inaequalibus AB
+et C, a majore AB minori C aequalis absciffa est. Qod erat faciendum,
+
+PROP. N„ THE OREM A.
+
+SI duo triangula duo latera duobus'lateribus aequalia
+habeant, alterum alteri3 habeant autem et angulum
+angulo aequalem, qui aequalibus seclis lineis continetur:
+et gbafim bafi aequalem habebunt3 et t1iangulum trian-
+gulo aequale erit3 et reliqui anguli reliquis angulis aequa-
+les, alter alteli, quibus aequalia latera subtenduntur.
+
+Sint duo triangula ABC, DEF, quae duo latera AB, AC duobus
+lateribus DE, DF aequalia habeant, alterum alteri, videlicet latus qui-
+dem AB lateri DE aequale, latus vero AC ipfi DF 3 et angulum BAC
+angulo EDF aequalem. dico, et bafim BC basi EF aequalem effe, et
+triangulum ABC aequale triangulo DEF; et reliquos angulos reliquls
+
+angulis aequales, alterum alteri, qui· A D
+bus aequalia latera subtenduntur3
+nempe angulum ΑΒΕ angulo DEF,
+et angulum ACB angulo DFE.
+Triangulo enim ABC applicato
+ipfi DEF, ct punfto quidem A poslto Β C E F
+
+'m D, secla vcro lInea AB in ipsa DE 3
+
+congruet ct punctum B punfflo E, quod AB ipfi DE fit aequalis.
+congruente autem AB ipsi DE, congruet et AC reela linea rectae li-
+neae DF, quia BAC angulus aequalis est angulo EDF. quare etpunc-
+
+tum C congruet punssto F, quia resta AC est aequalis rectae lineae DF .
+sed
+

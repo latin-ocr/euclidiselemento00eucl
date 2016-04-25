@@ -1,0 +1,40 @@
+392
+
+NOTAE.
+
+at major exceffu earundem; sumatur, erit igitur E major excessu ip-
+sarum A, 13; quare B et E simul majores sunt quam A ; est autem A
+non minor B, ergo A et E fimul majores sunt B. et, ex hypothesi,
+A una cum Β, non minor est quam C una curn D, C autem cum D
+major est quam E, igitur et A una cum Β major est quam E.
+
+Sit autem excessus ipsarum A, B major excessu ipsarum C, D ; et
+quonlam, ex hypothesi, tres Β, C, D fimul majores sunt quart& A,
+erunt C et D simul majores excessu ipsarum A, B; igitur sumi potest
+quaedam E quae minor est ipfis C ct D simul, at major excessu ip-
+sarum A, B. sumatur, ct quoniam E major est excessu ipsarum A,
+B, erunt Β et E fimul majores quam A. et, ut in praecedente casu, os-
+tendetur A una cum E major Β, et A una cum B major quam E. igi-
+tur in utroque casu ostensum est duas ex Ipsis A, B, E quomodocun-
+que sumptas, majores effe reliqua.
+
+Et quoniam in utroque casu E major est excessu ipsarum C, D,
+erit E una cum D major quam C; et, ex hypothesi, C non minor est
+D, ergo E una cum C major erit quam D ; est autem ex construetione
+C una curn D, major quam E. igitur ipsarum C, D, E duae quomo-
+docunque sumptae majores sunt reliqufi. Q E. F.
+
+PROP. ΙΙΙ. THEOREMA.
+
+Fieri potest ut ex iisdem quatuor angulis planis constituantur innu-
+meri anguli solidi inter se inaequales.
+
+Sumantur tres anguli* plani A, B, C quorum A non minor fit utro·
+vis ex ipsis B, C ; sint autem A et Β fimul minores duobus reffis5 et,
+ope Problematis 1 . et Corollarii ejusdcm, inveniatur quartus angulus D,
+ita ut tres cx ipsis A, B, C, D majores sint reliquo, quomodocunque
+sumpti, et ut A et Β simul non minores sint ipsis C et D simul. ope
+vero Problematis 2. inveniatur quintus angulus E, ita ut duo ex angu-
+
+lis
+

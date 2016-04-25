@@ -1,0 +1,54 @@
+⁷ 232]
+
+a.4.11.
+
+b.8.11.
+
+c.6.11.
+
+EUCLIDIS ELEMENTORUM ·
+
+PROP. IX. THEOR.
+
+UAE eidem metae lineae sunt parallelae, non exis-
+tentes in eodem in quo ipsa plano, etiam inter se
+parallelae erunt.
+
+Sit utraque ipsarum AB, CD parallela ipsi EF, non existentes in
+eodem in quo ipsa plano. Dico AB ipsi CD parallelam effe.
+
+Sumatur in EF punftum quodvis G, a quo ipfi EF in plano qui-
+dem per EF, AB transeunte, ad renos angulos ducatur GH ; in plano
+autem transeunte per EF, CD rursus ducatur A H
+
+ipsi EF ad ret‘tos angulos GK. et quoniam
+EF ad utramque ipsarum GH, GK est per- Ε ἒ G F
+pendimlaris, erit etiam EF ad reetos angulos
+plano per GH, GK transeunte ³. atque est EF
+
+ipsi AB parallela ; ergo et AB plano per HGK C K D
+
+ad rectos angulos est b. eadem ratione et CD plano per HGK est ad refros
+angulos. utraque igitur ipsarum AB, CD plano perHGK ad ret‘tOS angulos
+
+ 
+
+erit. Si autem duae senae lineae eidem plano ad renos angulos fuerint,
+
+parallelae erunt inter se ⁶. Ergo AB ipsi CD parallela est. QE. D. ⁷
+
+PROP. X. THEOR.
+
+I duae reetae lineae sese tangente8‚ duabus reffis li-
+neis sese tangentibus fint parallelae, non autem in
+eodem plan03 aequales angulos continebunt.
+
+Duae rectae lineae sese tangentes AB, BC, duabus rec‘fis lineis DE,
+
+EF sese tangentibus sint parallelae, non autern in eodem plano· Dico ’
+
+angulum ABC angulo DEF aequalem effe.
+Affumantur
+
+ 
+

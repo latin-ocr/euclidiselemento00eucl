@@ -1,0 +1,40 @@
+8 EUCLIDIS ELEMENTORUM
+
+PROPOSITIO Ι. PROBLEMA.
+
+UPER data Υεὲὶέι line& terminat& triangulum aequi·
+Ἀ laterum constituere.
+
+Sit data rer-”ta linea terminata AB, oportet vero super reste} AB tri-
+
+angulum aequilaterum constituere.
+2-3-P0stu12· Centro quidem A intervallo autem AB circulus describatur ³BCD5
+tum. et rursus centro B, intervallo BA describatur circulus ACE 3 et a puntsto
+
+C, in quo circuli se invicem secant ad punc- C
+
+b. 2.Post. ta A, B ducantur b roffae CA, CB. erit
+ABC triangulum aequilaterum.
+Qoniam igitur punc‘mm A centrum D A
+cst circuli BCD, erit AC ipfi AB aequa-
+- e.15.Definit. lis& rursus quonlam punffirum B centrum ks
+est circuli CAE, erit BC aequalis reRae
+BA. ostensa autem est rcfta CA aequalis ipfi AB; utraque igitur ip-
+sarum CA, CB, ipfi AB est aequalis. quac autem eidem sunt aequalia,
+d. 1.Ax10ma. et inter sc aequalia sunt& ι’ςέῖα igitur CA ipsi CB est aequalis. tres
+
+igitur CA, AB, BC inter se sunt aequales. aequilaterum propterea est
+triangulum ABC, ct constitutum est super dat& resta linea terminata
+
+AB. Qod erat faciendum.
+
+PROP. II. PROB.
+
+D datum punftum, datae Υεξὶειε lineae aequalem rec-
+tam lineam ponere.
+
+Sit datum quidem punfium A, dara vero recsta linea BC; oportet ad
+
+punftum A, refrae BC aequalem rectam lineam ponere.
+Ducatur
+

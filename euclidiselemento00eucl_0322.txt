@@ -1,0 +1,47 @@
+308
+
+ι’2-32. 11.
+
+EUCLIDIS ELEMENTORUM
+
+PROP. X. THEOR.
+
+OMNJS conus tertia pars est cylindri, qui eandem basim
+habet et altitudinem aequalem.
+
+Habeat conus eandem bafim quam cylindrus, videlicet circulum
+ABCQ et altitudinem aequalem. Dico conum tertiam partem effe
+cylindri, hoc est cylindrum coni triplum effe.
+
+Si enim cylindrus non fit trIplus coni, vel major erit quam triplus,
+vel minor. Sit primo major quam trIplus; et describatur in ABCD
+circulo quadratum ABCD ; ergo quadratum ABCD majus est quam di-
+midium ABCD circuli. ct a quadrato ABCD A·
+
+erigatur prifina aeque altum cylindro ; prisma Ε
+
+    
+
+vero hoc majus erit quam cylindri dimidium 3
+quoniam s1 circa circulum ABCD quadratum B
+describatur, et ab ipso erigatur prifina acque Χ
+altum cylindr0‚ crit inscripttun quadratum di- F R
+C
+
+midium circumscripti. et sunt ab iis basibus
+
+   
+
+quadratis erecta solida parallelepipeda acque
+alta, nimirum prismata5 prisma igitur a quadrato ABCD dirmidium est
+prismatis cneii a quadrato quod circa circulum ABCD describitur. ete-
+nim inter sc sunt ut bases Π. atque est cylindrus minor prismate erecto
+a quadrato quod describitur circa circulum ABCD. prisma igitur erec-
+tum a quadrato ABCD aeque altum cylindr0‚ dimidio cylindri est ma.-
+jm. stcentur circumferentiae AB, BC, CD, DA bifariam in punctis E,
+F.r QH, ctAE. RB, BF, FC, CG, GD, DH, HA jungantur. unum-
+quodque igitur triangulorum AER, BFC, CGD, DHA majus est di-
+midio portionis circuli ABCD, in qua consistit, ut prius ostensum in
+Prop. 2. hujus, Erigantur ab unoquoque triangulorum ΑΕΒ, BFC,
+CGD,
+

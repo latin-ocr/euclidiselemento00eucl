@@ -1,0 +1,37 @@
+376 NOTAE.
+
+*plures fuerint rectam rationem hanc primae ad ultimam dixerunt ra-
+tionem compositam ex rationibus primae ad secundam, et secundae ad
+tertiam restam, hoc est, in praesenti casu, ex rationibus quae eaedem
+sunt rationibus laterum. atque ita brevius Propositionem enuntiaverunt,
+viz. Si fuerint duo aequiangula parallelogramma, habebunt inter se ra-
+tionem eandem ei quae composita est ex rationibus quae eaedem sunt
+rationibus laterum. quae quidem paucioribus verbis effertur quam prae-
+cedens enuntiatio, eodem autem sensu. Vel adhuc brevius 3 aequiangula
+parallelogramma inter se rationem habent eandem ei quae composita
+rest ex rationibus laterum. atque hae duae enuntiationes ultimae, prima
+praesertim, conveniunt demonstrationi quae nunc in textu Graeco ha-
+betur. potest autem Propositio brevius demonstrari, ut apud F rancis-
+rcum Candallam hoc modo, viz. smt aequiangula parallelogramma ABCD,
+
+CEF G, et compleatur parallelogrammum CDHG; quoniam igitur tria
+sunt parallelogramma AC, CH, CF, habebit
+
+(ex definitione rationis compositae) primum AC A D Η
+ad tertium CF, rationem quae composita est ex ῃ G
+ratione AC ad CH, et ratione CH ad CF; est D C< ζ
+
+autem parallelogrammum AC ad ipsum CH, Ε Γ
+
+ut reela BC ad ipsam CG 3 et parallelogrammum
+CH est ad ipsum CF, ut recta DC ad renam CE; ergo habet pa-
+rallelogrammum AC acl ipsum CF rationem quae composita est ex ra-
+tionibus quae eaedem sunt rationibus laterum. et huic demonstrationi
+convenit enuntiatio quae nunc habetur, viz. parallelogramma aequian-
+rgula inter se habent rationem cx laterum rationibus compositam. nam
+vulgaris lectio “ ex lateribus compositam'’ absurda est. retinuimus au-
+tem in hac Editione demonstrationem quae habetur in textu Graeco,
+quamvis prolixiorem ca quam tradit Candalla, quoniam in illa, non au-
+um in hac, ostenditur quomodo ex datis rationibus laterum, inveniatur
+Yath
+

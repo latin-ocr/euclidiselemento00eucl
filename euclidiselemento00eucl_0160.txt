@@ -1,0 +1,50 @@
+146 EUCLIDIS ELEMENTORUM
+
+C. Dico utramque A, B ad C candem rationem habere3 et C ad u- ,
+
+tramque A, B similiter eandem habere rationem.
+Sumantur enim ipsarum A, B uteunque aeque multiplices D, E, et
+
+ipsius C alia utcunque multIplex F. quoniam igitur ae-
+
+que multiplex est D ipsius A, atque E ipsius B, estque
+
+a· 1· Ax. 5 · A ipfi B aequalis 5 erit et D aequalis ipsl Ea. Ergo si
+
+ 
+
+ 
+
+D superat F, et E ipsam F superabit ; et fi aequalis, ¹
+
+aequalis; et siminor, mitior. et sunt D, E quidem ip-
+
+sarum A, Β utcunque aeque multiplices 3 F vero alia D Α ¹
+
+utcunque multiplex ipsius C. crit igitur ut A ad C, E B C F
+Dico insuper C ad utramque ipsarum A, B ean· l
+
+b.5.Def.5.ita B ad Cb.
+dem habere rationem. iisdem enim construffis fimi-
+liter ostendemus D ipsi E aequalem esse. si igitur F su-
+perat D, ipsum quoque E superabit 3 et fi aequalis, aequalis 3 et si mi-
+nor, minor. atque est F quidem ipsius C uteunque nmltiplex; D, E
+
+vero aliae utcunque aeque multiplices ipsarum A, B: Ergo b ut C ad
+
+A, ita erit C ad B. Aequales igitur ἃς. Q E. D.
+
+PROP. VIII. THEOR.
+
+INAEQUAMUM magnitudinum major ad eandem, majo-
+rem habet rationem quam minor. et eadem ad mino-
+rem, majorem habet rationem quam acl majorem.
+
+Sint inaequales magnitudines AB, BC, et sit AB major; alia vero
+uteunque fit D. habebit AB ad D majorem rationem quam BC ad
+D. et D ad BC majorem rationem habebit quam ad AB.
+
+Si ea quae non major est ipsarum AC, CB non minor fit quam D;
+
+sumantur
+

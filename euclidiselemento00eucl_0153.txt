@@ -1,0 +1,50 @@
+LIBER QUINTUS. ” 139
+
+tia C ad ,quartam D 3 et sumantur ipsarum quidem A, C utcun-
+que aeque multiplices E, F; Ipsarum vero B, D aliae utcunque aeque
+multiplices G, H. Dico E ad G, ita csse ut F ad H.
+
+Sumantur ipsarum E, F utcunque aeque multiplices K, L, et ipsa⁴
+rum G, H aliae utcunque aeque multiplices
+M, N. quoniam igitur E aeque multiplex
+est ipsius A, atque F ipsius C, sumuntur au— ¹
+tem ipsarum E, F aeque multiplices K, L;
+erit K aeque multiplex ²³ ipsius A, atque L
+ipsius C. eadem ratione M aeque multiplex
+erit ipsius B, atque N ipfius D. et quoniam
+Ι est ut A ad B, itaC ad D ; sumptae autem
+sunt ipsarum A, C aeque multiplices quaedam
+K, L; et ipsarum B, D aliae quaedam ae-
+que multiplices M, N: s1 K superat M, su-
+perabit et L ipsam N; et fi aequalis, aequa-
+lis; et fi minor, minor b. suntque K, L qui-
+dem ipsarum E, F utcunque aeque multipli-
+ces; M, N vcro ipsarum G, H aliae utcun-
+que acque multiplices· ut igitur E ad G, ita
+
+b erit F ad H. Qare fi &a Q E„D.
+
+COR. Et similiter, fi prima ad secundam eandem habeat rationem,
+quam tertia ad quartam; et aeque multiplices primae et tertiae, juxta
+quamvis multiplicationem, ad secundam et quartam eandem rationem
+habebunt. et similiter prima et tertia, ad aeque multiplices quasvis se-
+cundae et quartae eandem habebunt rationem.
+
+Prima enim A ad secundam Β eandem rationem habeat quam ter-
+tia C ad quartam D, et sumantur ipsarum A, C utcunque aeque mul-
+
+tiplices E, F; erit E ad B, ut F ad D. >
+S 2 Sumantur
+
+a. 3. ς.
+
+ 
+
+ 
+
+ 
+
+ 
+
+b. Def.5.5¹.
+

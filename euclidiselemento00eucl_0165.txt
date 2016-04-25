@@ -1,0 +1,64 @@
+LIBER QUINTUS.
+
+A, E uteunque aeque multiplices3 L, N vero ipsarum B, F aliae ut-
+
+cunque aeque multiplices. Ergo ut A ad B, ita erit E ad F. Qae
+igitur eidem &o Q E. D.
+
+PROP. XII. THEOR.
+
+SI quotcunque magnitudines proportionales fuerint3 ut
+una antecedentium ad unam consequentium, ita e-
+runt antecedentes omnes simul ad omnes consequentes
+fimul.
+
+Sint quotcunque magnitudines proportionales A, Β, C, D, E, F 3 et
+ut A ad B, ita sit C ad D, et E ad F. Dico ut A ad Β, ita effe A,
+C, E ad B, D, F.
+
+K·Sumantm enim ipsarum A, C, E utcunque aeque multiplices G, H,
+
+,et ipsarum B, D, Faliae utcunque aeque multiplices L, M, N. Quo-
+niam igitur ut A ad B, ita est C ad D, et E ad F; et sumptae sunt ipsa-
+
+G H K
+A——— C μέ Ε
+Β--α Β
+L„
+
+ 
+
+ 
+
+ 
+
+ 
+
+ἱ», ,-..-.-.
+
+ 
+
+N
+
+ 
+
+ 
+
+ 
+
+M
+
+rum quidem A, C, E aeque multIpliees G, H, K, ipsarum vero B, D,
+F aliae aeque multiplices L, M, N 3 fi ²¹ G superat L, et H ipsam M
+superabit, et K ipsam N ; et fi aequalis, aequalis, et fi minor, mi-
+nor. Qare et ss G superat L, superabunt et.G‚ H, Kipsas L, M, N3
+et sl aequalis, aequales; et fi minor, minores. suntque G, et G, H, K
+ipsarum A, et A, C, E uteunque aeque multipliceS, quoniam fi fuerint
+quotcunque magnitudines quotcunque magnitudinmn, aequalium numero,
+
+singulae
+
+151
+
+a.5.Def.5.
+

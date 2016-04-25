@@ -1,0 +1,65 @@
+LIBER QUINTUS. 169
+
+PROP. F. THEOR.
+
+RA-ronsss ex rationibus inter se iisdem compositae,
+sunt mter se eaedem
+
+Sit enim ut A ad Β, ita D ad E; ut vcro B ad C, ita E ad F.
+erit ratio compofita ex rationibus A ad Β, et B ad C,
+
+ 
+
+ 
+
+hoc est, per definitionem rationis compositae, ratio A ad A. B. C.
+C, eadem rationi D ad F, quae sc. compofita est ex ra— D. E. F.
+tionibus D ad E, et E ad F.
+
+Qoniam enim tres sunt magnitudines A, Β, C et aliae ipsis numero
+
+ 
+
+ 
+
+ 
+
+ 
+
+aequales D, E, F quae binae sumptae in eadem sunt ratione, erit ³²· 22· 5-
+ex aequali A ad C, ut D ad F.
+Rursus fit ut A ad B, ita E ad F; ut vero B ad C, ita D ad E3
+
+erit igitur ex aequali in proportione perturbata b, A ad
+C, ut D ad F, hoc est ratio A ad C, quae sc. compo· A. Β. C.
+fita est ex rationibus A ad B, et B ad C, eadem est ra· D. E. F,
+tioni D ad F, quae composita est ex rationibus D ad i
+E, et E ad F. et similiter fi fuerint plures rationes in utroque casu. -
+
+Rationes igitur &c. Q E. D.
+
+b. 23. ς.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROP. G. THEOR.
+
+SI rationes quaedam eaedem fint quibusdam rationibus,
+fingulae singulis, ratio quae ¹composita est ex rationi-
+bus quae eaedem sunt rationibus prioribus, singulae fin-
+gulis, eadem erit rationi quae composita est ex rationibus
+quae eaedem sunt posterioribus, singulae singulis.
+
+Sit ut A ad B, ita E ad F3 ut vero C ad D, ita G ad H. fitque
+Y ut
+

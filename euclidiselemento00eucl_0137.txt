@@ -1,0 +1,50 @@
+LIBER QUARTUS. 123
+
+qualis. et circumferentiae quidem ABCD infistit angulus AED, cir-⁴
+cumferentiae vero EDCB infistit angulus BAE; igitur et BAE angu-
+
+lus est aequalis ipfi AED f. eadem ratione et unusquisque angulorum f. 27- 3.
+ABC, BCD, CDE utrique ipsorum BAE, AED est aequalis. aequian-
+gulum igitur est ABCDE pentagonum; ostensum autem est et aequila-
+
+terum effe. In dato igitur circulo pentagonum aequilaterum et aequi-
+angulum inscriptum est. Q E. F.
+
+PROP. XII. PROB.
+
+CIRCA datum circulum pentagonum aequilaterum et
+⁷ aequiangulum circumscribere.
+
+Sit datus circulus ABCDE; oportet circa circulum ABCDE penta-
+gonum aequilaterum et aequiangulum circumscribere.
+
+Intelligantur pentagoni in circulo inscripti angulorum puncta esse A,
+B, C, D, E, ita ut circumferentiae AB, BC, CD, DE, EA sint aequa-
+
+lcs³; et per punfta A, B, C, D, E du· G a. 11. 4.
+A
+
+    
+  
+
+cantur circulum contingentes b GH, HK,
+KL, LM, MG 5 sumaturquc circuli ABCDE
+centrum F, et jungantur FB, FK, FC, FL, H
+FD. Qoniam igitur reeta linea KL con- B
+
+b. 17.3.
+
+tingit circulum ABCDE in C, et a centro
+F ad tanum qui est ad C duna est FC, Ιζ. C L
+erit FC ad ipsam KL perpendicularisc; c‘13¹3'
+
+    
+
+rectus igitur est uterque angulorum qui sunt ad C. eadem ratione et
+anguli ad punfta B, D, recti sunt. et quoniam renus angulus est F CK,
+quadratum ex F K aequale est quadratis ex FC, CK d. eadem ratione qua· d. 47· ι.
+dratis ex FB, ΒΚ aequale est ex F K quadratum. quadrata igitur ex
+FC, CK quadratis ex FB, ΒΚ aequalia lunt, quorum cx FC ei quod
+
+Q.2 ex
+

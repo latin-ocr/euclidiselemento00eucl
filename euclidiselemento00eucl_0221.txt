@@ -1,0 +1,45 @@
+LIBER SEXTUS. ²07
+
+secl EF parallelogrammum aequale est restilineo D. ergo et teetilineum
+
+KGH ipsi D est aequale; est autem KGH fimile reffllineo ABC.
+
+Dato igitur reftilineo ABC simile, etalteri datoD aequale idem consti-
+tutum est KGH. QE. F.
+
+PROP. XXVI. THEOR.
+
+SI a parallelogrammo parallelogrammum auferatur fi-
+, mile toti, et fimiliter positum, communem ipfi angu-
+lum habens; circa eandem diametrum est cum toto.
+
+A parallelograffuno enim ABCD :parallelogrammum AEF G aufera-
+tur, snnile ipfi ABCD, similiterque positum, communemque ipfi angu-
+lum habens ΕΑΒ. Dico parallelogrammum ABCD circa eandem esse
+diametrum mam parallelogrammo AEF G.
+
+Non enim, sed fi fieri potest, fit parallelogrammi BD diameter AHC,
+et occurrat GF ipfi AHC in H ; ducaturque per H alterutri ipsarum AD,
+
+BC parallela HK. Quoniam igitur circa ean· A
+dem diametrum est ABCD parallelogram- s Χ G D
+mum cum parallelogrammo AKHG‚ erit pa- ΚΊΑᾉΤΗ
+
+rallelogrammum ABCD parallelogrammo E( Fi ἑ J
+
+AKHG fimilea. ergo ut DA ad AB, ita N ιι. 24-6·
+GA ad ΑΚ b. est autem et propter smilitu- Β C b. 1.Def.6‚
+dinem parallelogrammorum ABCD, AEF G, ut DA acl AB, ita GA
+
+ad ΑΕ. et igitur ut GA ad AE, ita GA ad ΛΚΕ. quare GA ade-1¹·5-
+utramque ipsarum AE, AK eandem rationem habet3 erit igitur ΑΕ
+
+ipsi ΑΚ aequalis ⁶¹, major minori, quod fieri non potest. non igitur d. 9. ς.
+circa eandem diametrum est ABCD parallelogrammum cum parallelo-
+
+grammo AKHG. quare circa eandem diametrum est cum ipso AEF G.
+
+Si igitur a parallelogrammo &c. Q E. D.
+
+‘Ut
+

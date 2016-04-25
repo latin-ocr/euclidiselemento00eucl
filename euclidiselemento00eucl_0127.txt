@@ -1,0 +1,39 @@
+LIBER QUARTUS. 11‘·
+
+3>
+circulo ABC aptata est BC 1·e&ae lineae D aequalis· fin minus, major
+
+est BC quam D, ponaturque ipfi D aequalis CE ³, et centro quidem C, a. 3. x,
+intervallo autem CE circulus describatur AEF, et CA jungatur. Qo-
+
+niam igitur punfkum C centrum est AEF circuli, erit CA ipfi CE ae-
+qualis 3 sed D est aequalis CE, ergo et D ipfi CA aequalis erit. In
+
+dato igitur circulo ABC datae reetae lineae D, non majori circuli dia-
+metro, aequalis aptata est AC( Q E. F.
+
+PROP. 11. p‘Ross. .
+
+IN dato circu10‚ triangulo dato aequiangulum triangu-
+lum inscribere.
+
+Sit datus circulus ABC, datum autem triangulum DEF; oportet
+in ABC circulo inscribere triangulum triangulo DEF aequiangulum.
+Ducatur refta linea GAH contingens circulum ³ ABC in punfto a· 17· 3³
+A, et ad reRam lineam AH, et ad punfmm in ea A, angulo DEF ae-
+qualis angulus constituatur b HAC ; ad reftam vero AG, et ad punc· b· 23· 12
+tum in ea A, angulo DFE aequa-
+lis constituatur angulus GAB, et
+BC jungatur. Qoniam igitur cir-
+culum ABC contingit redut linea Ε -
+HAG, a tastu autem duRa est
+AC, erit HAC angulus aequalis
+angulo in alterno circuli segmento Ε, 0. 32. 3.
+videlicet ipsi ABC. sed HAC aequalis est ipfi DEF, ergo et angulus
+ABC ipfi DEF est aequalis. eadem ratione et ACB est aequalis an-
+gulo DFE; reliquus igitur BAC reliquo EDF angulo est aequalis d· d· 32-1»
+ergo triangulum ABC triangulo DEF est aequiangulum, et inscriptum
+P est
+
+ 
+

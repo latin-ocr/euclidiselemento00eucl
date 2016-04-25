@@ -1,0 +1,38 @@
+374
+
+NOTAE.
+
+“ portionibus aequalibus, et fic deinceps: ita quoque si ponantur or-
+“ dine plures magnitudines ejusdem generis non proportionales, dice-
+“ tur prima ad ultimam habere proportionem compositam ex omnibus
+“ proportionibus intermediis,-.solum eam ob causam, quod illae pro-
+“ portiones intermediae sunt inter extremas duas magnitudines inter-
+“ jeftae5 quemadmodum Definitione 1 0⁰¹², Lib. 5. proportio primae
+“ ad tertiam dicebatur duplicata, hoc solo nomine, quia duae propor-
+“ tiones aequales interpositae sunt inter extremas duas magnitudines:
+“ adeo ut non fit aliud discrimen inter hanc compositionem proportio-
+“ num, et illam duplicationem, triplicationem &c. quae Libro 5ιο ex-
+“ plicata est, quam quod in duplicatione, triplicatione &o proportio-
+“ num, interjiciuntur proportiones omnes aequaleS‚ in compositione
+“ vero proportionum non necesse est interpositas aequales effe.” Ed-
+mundus vero Scarburgh in Euclide suo Anglioe, pagg. 2 38, 266,
+aperte affirmat Definitionem 5. Lib. 6. supposititiam esse, et veram
+rationis compositae Definitionem, in Definitione 1 0. Lib. 5. ratio-
+nis scilicet duplicatae, contineri, vel ex ea subintelligendam esse, eo vi-
+delicet modo quo Clavius eam in praecedente citatione explicavit. Hi
+autem et alii Recentiores definitionem istam 5tam’ Lib. 6. simul retinent,
+prolixisque Commentariis illustrant, quum potius eam ex Elementis
+
+sustulisse debuissent.
+
+Etenim, comparando Definitionem 5. Lib. 6. cum Propositione 5.
+Lib. 8. clare apparebit Definitionem istam supposititiam esse. Nam in
+Propositione illa demonstratur numerum planum cujus latera sunt C,
+D habere ad numerum planum cujus latera sunt E, Z (vid. Hervagii
+ant Gregorii Editionem) rationem compositam ex rationibus laterum,
+hoc est ex rationibus C ad E, et D ad Z. ratio vero composita ex ra-
+tionibus C ad E, et D ad Z, ex Def. 5. Lib. 6. et explicatione quarn
+ejusdem tradunt omnes CommentatoreS, est ratio numeri faeti ex mui-
+
+tiplicatione
+

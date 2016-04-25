@@ -1,0 +1,43 @@
+LIBER SECUNDUS.
+
+PROP. Ι. THEOR.
+
+I sint duae rectae lineae, altera autem ipsarum secta fue-
+
+rit in quotcunque parte83 reetangulum a duabus rec-
+. tis lineis contentum aequale est reetangulis, quae a reeta
+linea insecta, et singulis partibus continentur.
+
+¹ Sint duae rectae lineae A, BC; et sefta fit BC utcunque in punc-
+tis D, E; dico rectangulum reftis lineis A, BC contentum aequale esse
+
+reetangulo contento ab ipsis A, BD; et ei B D E C
+ab ipsis A, DE; et adhuc ei ab ipsis A, EC
+contento.
+Ducatur enim a puncto B ipsi BC ad G
+reftos angulos Bw, atque ipfi A ponatur K L H a. 11. 1.
+aequalis BG¹³; et per G quidem ipsi BC F A b·3- 1.
+
+ 
+
+parallela ducatur GH; per D, E, C vero
+
+ducantur DK, EL, CH parallelae ipsi BGC. rectangulum igitur 0-31-¹·
+BH est aequale reetangulis ΒΚ, DL, EH3 atque est BH quidem quod
+
+ipsis A, BC continetur, etenim continetur a GR, BC, et BG ipfi A est
+aequalis, ΒΚ autem continetur ab ipsis A, BD, continetur enim aGB,
+
+BD, quarum GB est aequalis A; ct DL cst contentum ab ipsis A, DE,
+quoniam DK, hoc cst BG d ipsi A cst aequalis 3 et similiter refftangu- d. 34. x.
+lum ΕΗ contentum est ab ipsis A, EC. rectangulun] igitur ab ipsis
+
+A, BC contentum est aequale refftangulo contento ab ipiis A, BD, ct
+contento ab A, DE, ct adhuc contento ab ipsis A, EC. si igitur sint
+
+duae rectae lineae &a Q E. D.
+
+PROP. Π.
+
+53
+

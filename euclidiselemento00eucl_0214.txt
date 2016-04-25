@@ -1,0 +1,54 @@
+200
+
+a. 1. Def. 6.
+
+d. 22. ς.
+
+” b. 6.6,
+
+c.4.6.
+
+f·¹¹·S·
+
+EUCLIDIS ELEMENTORUM
+
+similitudinem polygonorum. ergo reliquus EBC reliquo LGH est aequa-
+lis. et quoniam ob similitudinem triangulorum ABE, FGL, est ⁵¹ ut
+ΕΒ ad BA, ita LG ad GF ; sed et propter similitudinem polygonorum
+est ³ ut AB ad BC, ita FG ad GH ; erit ex aequali ut ΕΒ ad BC,
+ita LG ad GHd5 hoc est circtun aequales angulos EBC, LGH latera
+sunt proportionalia3 aequiangulum igitur b est EBC triangulum trian-
+gulo LGH; quare et simile ⁰. eadem ratione et ECD triangulum fi-
+mile est triangulo LHK. fimilia igitur polygona ABCDE, FGHKL
+
+in similia triangula dividuntur, et numero aequalia.
+
+Dico et homologa totis, hoc est ut proportionalia fint triangula fibi
+invicem et totis polygonis; et antecedentia quidem effe ABE, EBG,
+ECD, consequentia autem ipsorum FGL, LGH, LHK; et ABCDE
+polygonum ad polygonum FGHKL duplicatam rationem habere ejus
+quam latus homologum ha· Α
+
+ 
+
+bet ad homologum latus, hoc bf F
+est AB ad FG. E BL
+Qoniam enim smule est Ξ Ξ Ξ ” QG
+ABE triangulum triangulo
+FGL, habebit ABE trian- D C K— H
+
+gulum ad triangulum FGL duplicatam rationem ejus quam habet BE
+
+‚ad GLe. eadem ratione, et triangulum BEC ad GLH triangulum du-
+
+plicatam rationem habet ejus quam BE ad GLC. est igitur ut ABE
+triangulum ad triangulum FGL, ita triangulum BEC ad GLH trian-
+gulumf. rursm, quoniam simile est triangulum EBC triangulo LGH,
+habebit EBC triangulum ad triangulum LGH duplicatam rationem ejus
+quam reeta linea CE habet ad rectam HLe. eadem ratione et ECD
+triangulum ad triangulum LHK duplicatam rationem habet ejus quam
+CE ad HL. est igitur ut triangulum EBC ad triangulum LGH, ita
+ECD *trianguhun ad triangulum LHK. ostensum autem est et ut EBC
+
+triangulum
+

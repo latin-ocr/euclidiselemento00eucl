@@ -1,0 +1,42 @@
+[ABER SEXTUS, 179
+
+Sit triangulum ΑΒΕ, et secetur angulus BAC bifariam reeta linea
+AD. Dico ut BD ad DC, ita effe BA ad AC.
+
+Ducatur enim per C ipfi DA parallela aCE, et produ&a BA con· a.31.1‚
+veniat cuin ipsa in pun&o E.. Quoniam igitur in parallelas AD, EC
+:incidit reeta linea AC, erit ACE angulus angulo alterno CAD aequa-
+lis b. sed CAD angulus ponitur aequalis angulo BAD3 ergo et BAD b.29.1.
+
+ipfi ACE angulo aequalis erit. Rursus, Ε
+
+quoniam in parallelas AD, EC reeta li-
+
+·nea ³BAE incidit, exterior >angulus BAD A
+aequalis est binteriori et oppofito AEC. Ξ {N Ξ
+ostensus autem est et angulus ACE an-
+
+gulo BAD aequalis3 ergo et ACE ipsi
+
+AEC aequalis erit ς et propterea latus AE B D C
+
+aequale lateri AC ⁶. et quoniam uni laterum trianguli BCE‚ videlicet c. 6, χ,
+ipsi EC parallela dufta est AD 3 erit d ut BD ad DC, ita BA ad AE. d. 2, 6,
+aequalis autem est ΑΕ ipsi AC; est igitur ⁶ ut BD ad DC, ita BA e. 7. 5.
+ad AC. ⁷
+
+Sit autem ut BD ad DC, ita BA ad AC, et jungatur AD ς dico an-
+gulum BAC bifariam sestam effe reeta linea AD.
+
+Iisdem enim construffis, quoniam est ut BD acl DC, ita BA ad AC ;
+sed et ut BD ad DC, ita BA ad AEd‚ etenim uni laterum trianguli
+BCE‚ videlicet ipsi EC, parallela dufta est AD, erit f et ut BA ad AC, f. 11. ς.
+ita BA ad AE. ergo AC est aequalis AE g, et propterea et angulus AEC g. 9. 5.
+angulo ACE aequalish. sed angulus quidem AEC est aequalis angulo h. 5. 1.
+exteriori BADb; angulus vero ACE aequalis alterno CAD. quare et
+BAD angulus ipfi CAD aequalis erit. angulus igitur BAC bifariam
+
+festus est resta linea AD. Ergo fi trianguli &c. Q E. D.
+
+Z 2 PROP. A„
+

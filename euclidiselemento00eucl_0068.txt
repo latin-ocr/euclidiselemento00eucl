@@ -1,0 +1,49 @@
+54
+
+a. 46.1.
+
+b.31.1.
+
+zz.46. 1.
+
+EUCLIDIS ELEMENTORUM
+
+PROP. ΙΙ. ΤΗΕ OR.
+
+SI re6ta linea sefia fuerit utcunque, refflmgula quae a
+
+tota et fingulis partibus continentur, aequalia sunt
+quadrato ex tota.
+
+Rem enim linea AB secta fit utcunque in punGto C; dico reaqan-
+
+gulum ab AB, BC contentum, una cum redhmgulo contento ab AB,
+AC aequale esse quadrato ex AB.
+
+Describatur enim ex AB quadratum ADEB³‚ et per C ducatur al-
+terutri ipsarum AD, BE parallela CF b. aequale A C Β
+
+igitur est AE re&angulis AF, CE; atquc est AE
+quidem quadratum cx AB; AF vcro reftangulum
+a BA, AC contentum, etenim a DA, AC contine-
+tur, quarum AD ipfi AB est aequalis; et CE con-
+
+tinetur ab ipfis AB, BC, aequalis enim est BE ipfi D F Ε
+AB. reftangulum igitur ab AB, AC, una cum
+reStangulo ab ipfis AB, BC contento, aequale est quadrato ex AB. fi
+igitur refta linea festa fuerit &c. Q E. D.
+
+PROP. III. THEOR.
+
+SI reeb. linea utcunque [εὲὶει fuerit, reRangulum a tota
+et una ejus parte contentum aequale est et restangulo
+a partibus content0‚ et quadrato ex praedifflz parte.
+
+Refia enlm linea AB seffl fit utcunque in puncffo C; dico refian„
+gulum ab AB, BC contentum aequale effe reRangulo contento ab AC,
+CB una cum quadrato cx BC.
+
+Describam· enim ex BC quadratum CDEB ³, et producatur ED ln F,
+
+ct
+

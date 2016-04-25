@@ -1,0 +1,46 @@
+36
+
+n.2.C0r.15.1.
+
+Yb.13.1.
+
+EUCLIDIS ELEMENTORUM
+
+COR. 1. Omnes simul anguli interiores cujuscunque figurae reffiffi-
+neae, una curn quatuor reffis anguliS‚ confi-
+
+ciunt bis tot reaos quot sunt latera figurae. Ε D
+
+Nam figura quaevis reetilinea ABCDE «0
+dividi potest in tot triangula quot sunt ejus
+latera, ducendo scilicet reetas a punem F in-
+
+tra figuram ad omnes ejus angulos. trian- A B
+gulorum autem omnes anguli, per praece-
+dentem, fimul aequales sunt bis tot reetis quot sunt triangula, hoe est
+quot sunt latera figurae. onmes autem iidem anguli aequales sunt an-
+gulis figurae, una cum angulis ad F verticem communem triangulorum,
+hoc est una cum quatuor reetis ²¹. ergo omnes anguli figurae una cum
+quatuor reetis aequales sunt bis tot reetis quot sunt latera.
+
+CoR. 2. Omnes smml anguli exteriores cujuscunque figurae τεῶ-ξι·-
+lIneae aequales sunt quatuor reetis.
+
+Angulus enim interior ABC simul cum
+exteriore adjacente ABD, aequalis b est duo- A
+bus reffis ; ergo omnes interiores simul
+cum exterioribus aequales sunt bis tot rec-
+tis quot sunt latera figurae, hoc est, per Co· D B C
+rollarIum praecedens, omnibus interioribus
+angulis figurae una cum quatuor restis. Ergo exteriores aequales sum.
+quatuor reffis.
+
+PROP. XXXIII. THEOR.
+
+UAE aequales et parallelas ad easdem partes con-
+
+s jungunt tostae lineae, et ipsae aequales et parallelae
+unt.
+
+Sint*
+

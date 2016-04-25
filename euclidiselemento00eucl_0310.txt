@@ -1,0 +1,43 @@
+296
+
+EUCLID'IS ELEMENT‘ORUM
+
+PROP. IV. THEOR.
+
+SI sint duae pyramides aeque altae, quae triangulares
+bases habent, dividatur autem utraque ipsarum, et in
+duas pyramides aequales inter se, similesque toti, et in
+duo prismata aequalia; et faelamm pyramidum utraque
+eodem modo dividatur, atque hoc semper fiat. erit ut u-
+nius pyramidis basis ad basim alterius, ita et in una pyra-
+mide prismata omnia ad prismata omnia in altera pyra·
+mide multitudine aequalia.
+
+Sint duae pyramides acque altae quae trIangulares bases habentABC‚
+DEF‚ vertices autem smt punfta G, H; et dividatur utraque ipsarum
+in duas pyramides aequales inter se similesque totI, et in duo prismata
+acquali35 et saffrarum pyramidum utraque eodem modo divisa intelli-
+gatur; atque hoc semper fiat. Dico ut ABC bafis ad basim DEF, ita
+
+csse prifinata omnia quae suut iu pyramide ABCG ad prifimta omma
+quae iu pyramide DEFH multitudiue aequalia.
+
+Eadem fiat construftio quac ln praecedente, et quoniam ΒΧ qui-
+
+.2. .dem est aequalis XC, AL vero ipsi LC; crit XL ipsi AB parallela ³, et
+
+triangulum ABC triangulo LXC simile. eadem ratione et triangulum
+DEF simile est trisingulo RVF. ct quoniam BC quidem est dupla
+CX, EF vero dupla ipsius FV, erit ur BC ad CX, ita EF ad FV. et
+descripta sunt ab ipsis BC, CX similia et similiter posita reffilinea ABC,
+LXC; ab ipsis vero EF, FV similia et similiter posita reffilinea DEF,
+RVF. est igitur ut ABC triangulum ad triangulum LXC, ita triangu-
+
+ἰ). 22.6. lum DEF ad RVF triangulum ¹³ ς et permutando ut triangulum ABC
+
+ad triangulum DEF, ita LXC triangulum ad triangulum RVF. Qio-
+
+c. 15.1x.niam vcro parallelo. suut plana ABC, ΟΜΝ ⁰, ut ct DEF, STY‘, per-
+
+pendiculareg,
+

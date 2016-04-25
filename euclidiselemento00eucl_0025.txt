@@ -1,0 +1,38 @@
+⁷ LIBER PRIMUS.
+
+std et punctum B congruebat punuo E 3 quare bafis BC basi EF
+congruet. Nam fi puncto quidem B congruente ipsi E, C vero ipsi F,
+basis BC basi EF non congruit 3 duae rectae lineae spatium compre-
+hendent, quod fieri non potest ³. Congruet igitur BC bafis bafi EF, et
+ipsi aequalis erit. Quare et totum ABC triangulum congruet toti tri-
+angulo DEF, et ipsi erit aequale ; et reliqui anguli reliquis angulis
+congruent, et ipsis aequales erunt. Videlicet angulus ABC angulo DEF}
+et angulus ACB angulo DFE. fi igitur duo triangula duo latera duo-
+bus lateribus aequalia habeant, alterum alteri; habeant autem et angu-
+lum angulo aequalem, qui aequalibus renis lineis continetur: et bafim
+basi aequalem habebunt 3 et triangulum triangulo aequale erit 3 et re-
+liqui anguli reliquis angulis aequales, alter alteri, quibus aequalia latera
+subtenduntur. Qod erat demonstrandum.
+
+PROP. V. THEOR.
+
+ISoscELmM triangulorum qui ad bafim sunt anguli inter
+se sunt aequales; et, productis aequalibus rectis lineis,
+anguli ,qui sunt sub basi inter se aequales erunt.
+
+Sit isosceles triangulum ABC, habens latus- AB lateri AC aequale,
+et producantur in directum ipsis AB, AC ree· A
+tae lineae BD, CE. dico angulum quidem ABC
+angulo ACB, angulum vero CBD angulo BCE
+aequalem effe.
+Sumatur enim in reeta BD punctum quod· Β G
+vis F; atque a majore ΑΕ minori AF aequa-
+lis auferatur AG ³, et jungantur FC, GB. quo- F
+niam igitur AF est aequalis AG, AB vero ipfi D
+AC; duae FA, AC duabus GA, AB aequa- Ε
+Β 2 les
+
+11
+
+a. Ax. 102
+

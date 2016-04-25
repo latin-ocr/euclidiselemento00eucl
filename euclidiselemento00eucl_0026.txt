@@ -1,0 +1,45 @@
+b.4.1.
+
+c. Ax. 3.
+
+EUCLIDIS ELEMENTORUM
+
+les sunt, altera alteri; et angulum FAG communem continent 3 ba-
+fis igitur FC bafi GB est aequalisb‚ et triangulum AFC aequale tri-
+angulo AGB ς et reliqui anguli reliquis angulis aequales erunt, alter al-
+teri, quibus aequalia latera fiibtcnduntun videlicet angulus quidem ACF
+
+aequalis angulo ABG, angulus vero AFC angulo AGB. et quoniam tota
+AF toti AG est aequalis, quarum AB cst ae- A
+
+qualis ipfi AC ,- erit et reliqua BF reliquae CG
+
+aequalisc. ostensa est autem FC aequalis GB 3
+
+duae igitur BF, FC duabus CG, (ΞΒ aequa-
+
+les sunt, altera alteri, et angulus BFC aequaliS Β G
+
+· angulo CGB; estque basis ipsorum BC commu-
+
+nis 3 erit igitur et triangulum BFC aequale b F G
+triangulo CGB, ct reliqui anguli reliquis angu- D Ε
+lis aequale8‚ alter alteri, quibus aequalia latera
+subtenduntur. angulus igitur FBC est aequalis angulo GCB, et angu-
+lus BCF angulo CBG. itaque quoniam totus ABG angulus toti an-
+gulo ACF aequalis ostensus est, quorum angulus CBG est aequalis Ipsi
+BCF; erit reliquus ABC reliquo ACB aequalis, et sunt ad basim tri-
+anguli ABC. ostensus auten] est et FBC angulus aequalis angulo GCB,
+qui sunt sub basi. Isoscelium igitur triangulorum &a Q E. D.
+COR. Hinc omne triangulum aequilaterum est quoque aequian-
+gulum.
+
+PROP. VI. THEOR.
+
+I trianguli duo anguli inter se fint aequales, et aequales
+ὓ angulos subtendentia latera inter se aequalia erunt.
+
+Sit triangulum ABC, hal->cns angulum ABC angulo ACB aequa-
+le1n3 dico et AB latus lateri AC aequale effe.
+Si
+

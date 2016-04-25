@@ -1,0 +1,54 @@
+102
+
+a. 11. Ι.
+
+b. 19. 3.
+a.. 31.3.
+
+C.
+5¹31}-
+
+EUCLIDIS ELEMENTORUM
+
+Circulum enim ABCD contingat quaedam reela linea EF in Β, et
+a pundo B ad circulum ABCD ducatur reeta linea BD ipsum secans.
+dico angulos quos BD facit cum contingente EF aequales esse iis qui
+sunt in alternis circuli segmentis, hoc est angulum quidem F BD effe ae·-
+qualcm angulo qui est in DAB segmento, angulum vero DBE aequa-
+lem angulo in segmento BCD.
+
+Ducatur enlm a puncko B ipsi EF ad renos angulos ³ BA, et in cir-
+cumferentia BD sumatur quodvis punctum C, jungamurque AD, DC,
+
+CB. et quoniam circulum ABCD contingit A
+
+reeta linea EF in puncto B, et a tactu B ad D
+rthos angulos contingenti ducia est BA, erit
+
+in ipsa BA centrtun ABCD circulib; angulus C
+igitur ADB in semicirculo est re&us⁰; reliqui
+
+propterea anguli BAD, ABD uni 16ἂο aequa-
+
+· · les suntd. sed ct ABF est fecium ergo angu- Ε Β F ’
+
+lus ABF aequalis est angulis BAD, ABD.
+
+communis auferatur ABD; rCIIquus igitur DBF ei qui est in alterno
+circuli segment0‚ ipsi scilicet BAD, aequalis est. et quoniam in circulo
+quadrilaterum est ABCD, anguli ejus oppositi aequal s sunt duobus rec-
+
+tis ;aequales igitu1 erunt anguli BAD, BCD ipsis DBF, DBEs‚ quo·
+mm DBF ostensus est aequalis ipsi BAD3rcliquusg1oimr DBE ei qui est
+
+in alterno circuli segmento, xid licet angulo DCB aequalis erit. fi lgitur
+circulum contingat &o Q E. D.
+
+PROP. XXXIII. P ROB.
+
+<SUPER datam seciam lineam describere segmentum
+Ἀ circuli, quod capiat angulum dato angulo rectilineo
+aequalem.
+
+Sit
+

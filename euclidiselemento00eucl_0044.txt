@@ -1,0 +1,50 @@
+30
+
+a. 4.
+
+1.
+
+EUCLIDIS ELEMENTORUM
+
+tus AC lateri DF ς et reliquum angulum BAC reliquo angulo EDF
+aequalem.
+
+Si enim inaequalis est reeta linea AB ipsi DE, una ipsarum major
+est. fit major AB, ponaturque BG aequalis DE, et GC jungatur.
+
+Qoniam igitur BG quidem cst aequalis DE, BC vero ipsi EF, duae
+(ΞΒ, BC duabus DE, EF aequales sunt, altera alteri3 et angulus GBC
+est aequalis angulo DEF: basis
+
+igitur GC bafi DF est aequalis ², Ἰ χ
+
+et GBC triangulum triangulo (Τ
+
+DEF, et reliqui anguli reliquis
+
+angulis aequales, alter alteri, qui- ‚
+
+bus aequalia latera subtenduntur ; B C Ε F
+
+ergo GCB angulus est aequalis an-
+gulo DFE,; sed angulus DFE angulo BCA aequalis ponitur3 quare et
+BCG angulus angulo BCA est aequalis, minor majori, quod fieri non
+potest. non igitur inaequalis est AB ipsi DE; ergo aequalis erit. >cst
+autem et, BC aequalis EF ; itaque duae AB, BC duabus DE, EF acqua-
+les sunt, altera alteri, et angulus ABC aequalis est angulo DEF 3 basis igi-
+tur AC basi DF, et reliquus angulus BAC reliquo angulo EDF est
+aequalis ³.
+
+Sed rursus sint latera quae aequalibus angulis subtenduntur aequa-
+lia, ut AB ipfi DE; dico rursus, et reliqua latera reliquis lateribus ae-
+qualia effe, AC quidem ipsi DF, BC vero ipsi EF 3 et adhuc reliquum
+angulum BAC reliquo angulo EDF aequalem.
+
+Si enim inaequalis est reeta linea BC ipsi EF, una ipsarum major
+est. fit major BC, fi fieri potest, ponaturque BH aequalis EF, et AH
+jungatur. Qoniam igitur BH quidem est aequalis EF, AB vero ipfi ·
+DE 3 duae AB, BH duabus DE, EF aequales sunt, altera alteri 3 et
+aequales angulos contInent3 ergo basls ΑΗ basi DF est aequalis, et ΑΒΗ
+
+triangulum
+

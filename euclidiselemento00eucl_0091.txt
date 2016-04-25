@@ -1,0 +1,44 @@
+LIBER TERTIUS.
+
+PROP. VII. THEOR.
+
+SI in circuli diametro aliquod punctum sumatur quod
+
+non fit centrum circuli, et ab eo in circumferentiam
+cadant quaevis reetae lineae; maxima quidem erit in qua
+centrum, minima vero reliqua; aliarum autem propinquior
+ei quae per centrum transit semper remotiore major est.
+at duae tantum aequales ab eodem puncto in circumfe-
+rentiam cadent ad utrasque partes minimae.
+
+Sit circulus ABCD, diameter autem ejus AD, et in ipsa AD suma-
+tur aliquod punRum F quod non fit centrum circuli ; fit autem cen-
+trum circuli E, et a puncto F in circumferentiam ABCD cadant quae—
+dam re&ae lineae FB, FC, FG. dico FA ma-
+ximam effe, et FD minimam ς reliquarum au-
+tem, FB quidem majorem quam FC, FC vero ⁴
+majorem quam F G.
+
+jungantur enim BE, (ΣΕ, GE ; et quoniam
+omnis trianguli duo latera reliquo sunt majora ²², ²- 20- 1
+
+ 
+
+erunt BE, EF majores quarn BF; est autem
+ΑΕ aequalis BE, ergo BE, EF ipfi AF sunt
+aequales 5 major igitur est AF quarn FB. rursus quoniam BE est ae—
+
+qualis CE, communis autem FE 3 duae BE, EF duabus CE, EF ae-
+quales sunt; sed BEF angulus major est angulo CEF, basis igitur BF
+
+bafi FC est majorb. eadem ratione et-CF major est quam FG. rursus b· 2411
+
+quoniam GF, FE majores sunt quam EG Ἰ, aequalis autem EG ipfi
+ED, erunt GF, FE majores quam ED. communis auferatur FE ;
+ergo reliqua GF major est quam reliqua FD. maxima igitur est F A,
+αἙΙ) minima, major vero BF quam FC, et FC quam F G.
+
+Dico
+
+77
+

@@ -1,0 +1,43 @@
+344
+
+NOTAE.
+
+cam impugna‘ss'e, utpote asmo notam, nullaque demonstratione egentem ;
+ipsisque respondit quamvis duo latera trianguli reliquo majora effe,
+sensui manifestum fit, quomodo vero hoc fiat dicere ad scientiam spec-
+tat. vera autern responsio huic objeffkioni contra hanc et sequentem,
+aliasque quasdain Propositiones, haec est, numerum axiomatum fine ne-
+cestitate minime augendum effe. Clarissimus autem Dominus Clairault
+qui in Praefatione suis Geometriae Elementis‚ Parifiis Ann. 1 741.
+editis, praefixa, refert Euclidem operam dedisse ut ostendat duo latera
+trianguli altero triangulo inclusi simul minora effe lateribus ejus qui ip-
+sum includit, oblitus est addere hanc conditionem, viz. fi triangula sint
+super effidem bas1; sme hac enim possunt latera trianguli altero inclusi
+simul majora effe hujus lateribus in data quacunque ratione, quae mi-
+
+nor fit quam dupla 3 ut demonstratum est a Pappo Alexandrino in
+Prop. 3. Lib. 3. Colle& Mathem.
+
+Ad PROP. XXII. LIB. I.
+
+Quidam culpant Euclidem quod non ostendat circulos, in construc-
+tione hujus Problematis descriptos, fibi mutuo occurrere. perspicuum
+
+autem hoc est ex determinatione quam dedit, viz. debere duas ex ree-
+tis DF, FG, GH reliqua majores effe quo-
+
+modocunque sumptas. Quis enim tyro adeo
+
+hebes est ut non ex hac videat circulum, ‘ N
+
+centro F, intervallo F D, descriptum, oc· D M F. G H
+currere metae ΡΗ inter F et H, quoniam
+
+FD minor est FH; et [imiliter circulum centro G, intervallo GH vel
+GM descriptum, occurrere restae DG inter G et D; ipsosque fibi mu-
+tuo occurrere, quod FD, GH, simul majores sunt reliqua FG? et qui-
+dem determinatio haec simplicior est est quam, ex hac deductam, loco
+
+ejus posuit Thomas Simpson in Elementis suis Geometriae pag. 49.
+ut
+

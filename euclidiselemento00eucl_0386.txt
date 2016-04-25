@@ -1,0 +1,37 @@
+372
+
+NOTAE.
+
+inter se aequiangulis concluditur esse latus unius ad latus homologum
+alterius, ut latus aliud primi ad latus alterius huic homologum, fine
+permutatione proportionalium, contra morem Euclidis‚ ut ex sequente
+Propofitione 1 9 ¹¹⁵¹ manifestum est. eodem vitio laborat conclusio, nam
+latera circa angulos unius rectilinei non ostenduntur proportionales la-
+teribus circa aequales angulos alterius, rursus enim omisit Auctor de-
+monstrationis permutationem proportionalium. Visum igitur est tradere
+demonstrationem hujus via Euclideana, eadem sc. qua utitur in Prop. 2 0.
+hujus libri; et in- figuris quinquelateri5‚ ut modus quo extendi potest
+ad figuras plurium laterum perspicue appareat.
+
+PROP. XXIII. LIB. VI.
+
+Nihil in Geometriae elementis Tyronibus difficilius intellectu haberi
+solet, doetrina de rationum compositione, quam absurdam ct οἶγεομε-
+Ίρικὴν reddidit Theon, substituendo Definitionem 51³¹& Lib. 6²³, vicc
+Definitionis bonae rationis compositae, quam, fine dubio, dederat Eu—
+doxus vel Euclides post Definitionem rationis triplicatae ἃς. in Libro
+510, proprio scilicet ejus loco. Theonis autem Definitio haec cst3 ra-
+tio ex rationibus componi dicitur ὅταν αἱ τῶν λόγων πηλικότητες ἐφ’
+ἑαυτάς πολλαπλασιαοῧεῖσαι ποιῶσι τηνεὶ. quam ita vertit Commandi-
+nus, “ quando rationum quantitates inter se multIplicatac, aliquam ef-
+“ ficiunt rationem.” Wallifius autem πηλικότηῗες vertit ‘· rationum expo—
+‘·' nenteS.’' et Gregorius postrema Definiuonis verba reddit “ illius facit
+“ quantitatem.'' quocunque autem sensu accipiantur verba ‘⁶ qu.÷1]titates’'
+sive “exponentes rationum,’' ipsarumque “multiplicatio, ’ἄγεομεῖξικὴ et
+inutilis erit Definiti0.· Nulla enim poterit effe. multiplicatio mii per*
+numerium quantitas autem five exponens rationis, ut Eutocius in Com-
+ment. in Prop. 4. Lib. 2. Archimedis dc Sphaera ct cylindro, et re-
+centiores interpretantur, est numerus qui multiplicans consequentem pro-
+
+ducit
+

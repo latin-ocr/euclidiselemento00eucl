@@ -1,0 +1,39 @@
+LIBER QUARTUS.v 117
+
+quisque est in segmento semicirculo majore. fi autem in uno laterum
+fuerit centrum, angulus cui latus hoc subtenditur, in semicirculo existens,
+rectus crit. et si extra triangulum ceciderit centrum, ad partes alicujus
+lateris, angulus cui subtenditur hoc latus existens iu segmento semicir-
+culo miuore, major erit recto d. Qare fi datum triangulum acutangu- d. 31. 3.
+lum fucrit, centrum circuli erit iutra triangulum ; sl reetangulum fuerit,
+crit centrum in latere angulo recto opposito; et fi fucrit offlusaugulum,
+cadet centrum extra triangulum, ad partes lateris obtuso angulo oppo-
+
+fiti. .
+PROP. VI. PROB.
+
+IN dato circulo quadratum inscribere.
+
+Sit datus circulus ABCD 3 oportet in ABCD circulo quadratum in—
+scribere.
+
+Ducantur circuli ABCD diametri ad rectos angulos inter se AC,
+BD; ct AB, BC, CD, DA jungantur. (Quoniam igitur BE est ae-
+qualis ED, etenim centrum est E, communis
+autem ct ad rectos angulos EA 3 erit basis BA
+aequalis basi AD ³. ct eadem ratione utraque ip-
+sarum BC, CD, utrique BA, AD est aequalis;
+aequilaterum igitur est ABCD quadrilaterum.
+Dico ct reetangulum ess'c. Quoniam enim recta
+linea BD diameter est ABCD circuli, erit BAD
+semicirculum quare angulus BAD rectus est b. ct eadem ratione unus· b. 31·3·
+quisque ipsorum ABC, BCD, CDA est reem& rectangulum igitur est
+ABCD quadrilaterum. ostcusum autem cst ct aequilaterum esse, qua-
+
+ 
+
+dratum igitur est3 ct inscriptum est in circulo ABCD. Iu dato igitur
+
+ABCD circulo quadratum ABCD inscriptum cst. Q E. F.
+PROP. VII.
+

@@ -1,0 +1,47 @@
+306
+
+EUCLIDIS ELEMENTORUM
+
+PROP. IX. THEOR.
+
+EQUALIUM pyramidum, et triangulares bases haben-
+tium, bases et altitudines reciproce sunt proportio*
+nales. et quarum pyramidum triangulares bases habena
+tium bases et altitudines reciproce sunt proportionales, il-
+lae sunt aequales.
+
+Sint enirn pyramides aequales triangulares habentes bases ABC,
+DEF, vertices vero G, H puncta. Dico pyramidum ABCG, DEFH
+bases et altitudines effe reciproce proportionalcS, scilieet ut ABC basis
+ad basim DEF‚ ita effe py-
+
+ramidis D E F H altitudi-
+nem ad altitudinem pyramidis L N
+
+ABCG. Α
+
+Compleantur enim paral- K r
+lelogramma AC, AG, GC r C
+ut et DF, DH, HF,· com- =
+
+plcanturque solida parallele- A Β
+pipeda BGML, EHPO quae
+
+planis illis, ipsisque oppositis continentur. et quoniam pyramis ABCG
+est aequalis pyramidi DEFH, atque est pyramidis quidem ABCG sex—
+tuplum BGML solidum, pyramidis vero DEFH sextuplum solidum
+
+ 
+
+x. .EHPO; erit solidum BGML solido EHPO aequale ³¹. aequalium au—
+
+tem solidorum parallelepipedorum bases et altitudines sunt reciproce
+
+.11. proportionalesb; cst igitur ut EM bafis ad basim ΕΡ, ita EHPO so-
+
+lidi altitudo ad altitudinem solidi BGML. scd ut ΒΜ basis ad bafim
+ΕΡ, ita ABC triangulum ad triangulum DEF3 erqo ct ut ABC trian-
+
+gulum ad triangulum DEF, ita {olidi EHPO altitudo ad altitudinem
+solidi
+

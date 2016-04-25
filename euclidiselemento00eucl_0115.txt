@@ -1,0 +1,42 @@
+LIBER TERTIUS. 101
+
+‘Et quoniam trianguli ABC duo anguli ABG, BAC duobus renis
+sunt minoresd, rec‘tus autem BAC, erit ABC angulus recto minor; at· d. 17.1.
+
+que est in segmento ABC majore semicirculo.
+Et quoniam in circulo quadrilaterum est ABCD, quadrilaterorum
+
+vero qui in circulis describuntur, anguli oppo- F!
+siti duobus renis fimt aequales& erunt ABC, e.22.3.
+
+ADC anguli aequales duobus reffis3 et an- x
+gulus ABC minor est recto, reliquus igitur w
+ADC reno major erit; atque est in segmento B XC
+ADC minore semicirculo. Q E. D.
+
+Et patet circumferentiam AB cadere ex· v
+
+tra rectam AB quae cum AC basi sc. segmenti
+continet angulum rectum versus partes majoris segmenti ABG, circum-
+ferentiam vero AD cadere intra reditun AF quae cum effidem AC an-
+gulum renum continet versus partes minoris segmenti ADC. ‘ Et hoc,
+‘ nihilque aliud, intelligendum est quando in textu Graeco et verfioni-
+‘ bus, angulus segmenti majoris, major 3 angulus vero segmenti minoris
+‘ minor effe dicitur angulo rectos
+
+COR. Ex hoc manifestum est, fi trianguli unus angulus fit aequaliS
+
+duobus reliquiS, eum rectum esse; propterea quod et qui deinceps est,
+
+iisdem est aequalis. quando autem anguli deinceps fimt aequales, reffi
+sume. c. Def. 10. 1.
+
+PROP. XXXII. THEOR.
+
+SI circulum contingat quaedam reAEia linea, a tactu au-
+tem ducatur recia linea circulum secan83 anguli quos
+ad contingentem facit, aequales erunt iis qui sunt in al-
+ternis circuli segmentis.
+
+Circulum
+

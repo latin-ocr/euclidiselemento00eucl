@@ -1,0 +1,28 @@
+²93
+
+EUCLIDIS ELEMENTORUM
+
+tensa est ABC basis ad bafim DEF. ergo et ut bafis ABC ad basim
+DEF‚ ita quae in pyramide ABCG duo prismata ad duo prismata quae
+in pyramide DEFH. similiter autem et si faffls pyramides dividamus
+eodem modo velut OMNG, STYH, erit ut ΟΜΝ bafis ad basim
+STY, ita quae in pyramide OMNG duo prifinata ad duo prismata quae
+in pyramide STYH, sed ut OMN basis ad basim STY, ita bafis
+
+ 
+
+ABC ad DEF bafim; et ut igitur ABC bafis ad bafim DEF‚ ita
+quae in pyramide ABCG duo prismata ad duo prismata quae in pyra-
+mide DEFH; et quae in pyramide OMNG duo prismata ad duo pris-
+{nata quae in pyramide STYH; et quatuor ad quatuor. cadem au—
+tem ostendentur et in faftis prifinatibus ex divisione pyramidum ΑΚΒ-05
+et DPRS, et omnium omnino multitudine aequalium. Q E. D.
+
+PROP. V. THEOR.
+
+PYRAMmEs quae eadem sunt altitudine, et triangulares
+bases habent, inter se sunt ut bases.
+
+Sint eadem altitudine pyramides, quarum bases quidem triangula
+ΑΒΕ,
+

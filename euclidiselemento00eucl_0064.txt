@@ -1,0 +1,39 @@
+50 EUCLIDIS ELEMENTORUM
+
+g.41.1.BL parallelogrammum g, bafim enim eandem habent BD, et in eisdem
+sunt parallelis BD, AL 3 trianguli vero FBC duplum est (ΞΒ quadratum,
+rursus enim baslm habent eandem FB, et in eisdem sunt parallelis FB,
+GC. quae autem aequalium du· G
+
+h. Ax. 6. plicia inter se aequalia sunth. ae· Δ
+quale igitur est parallelogrammum
+BL ipsi GB quadratO. similiter F
+junffis AE, ΒΚ ostendetur etiam
+CL parallelogrammum aequale
+quadrato HC. totum igitur BDEC
+quadratum duobus quadratis GB,
+HC cst aequale. et descriptum qui-
+dem est BDEC quadratum a retia
+linea BC, quadrata vero GB, HC
+ab ipfis BA, AC. quadratum igi-
+tur BE a latere BC descriptum aequale est quadratis a lateribus, BA
+AC. Ergo in refrangulis triangulis &a Q E. D.
+
+ 
+
+PROP. XLVIII. THEOR.
+
+SI quadratum ab uno laterum trianguli, aequale fit qua-
+dratis a reliquis trianguli lateribus descripti33 angulus
+reliquis duobus trianguli lateribus contentus metus erit.
+
+Quadratum enim ab uno latere BC trianguli ΑΒΕ descriptum, ac-
+quale sit quadratis a reliquis trianguli lateribus BA, AC. dico angulum
+
+BAC reetum effe.
+a.11.1. Ducatur ³ enim a puntslo A ipsi AC ad reftos angulos AD, pona-
+* turque AD ipfi BA aequalis, ct DC jungatur. Quoniam igitur DA est
+aequalis AB, erit et quadrattmt ex DA aequale quadrato exAB5 com-
+
+mune
+

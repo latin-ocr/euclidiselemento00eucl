@@ -1,0 +1,40 @@
+NOTAE.
+
+Sit D quarta, erit igitur D minor ipfis A, B, C fimul. fit A non
+minor utrfivis ex ipsis Β, C; et primum sint B, C fimul non minores
+ips-51 A; crunt igitur B, C, D simul majores quam A. et quoniam A
+non minor cst B, erunt A, C, D majores quam B. fimilitcr ostende-
+tur ipsas A, Β, D fimul majores effe quam C. Igitur in casu quo B
+ct C simul non minores sunt ipsii A, quaevis D quae minor est ipsis
+A, Β, C simul, propositum efficiet.
+
+Si vcro Β et C fimul minores fint quam A, quoniam requiritur ut
+B, C, D simul majores {int A, ex hisce ablatis Β, C erit D major ex-
+cessu ipsius A supra Β, C fimul. sumatur igitur quaevis D quae minor
+fit ipsis A, Β, C fimul, at major excess'u ipsius A supra B, C fimul.
+crunt igitur B, C, D fimul majores quam A; ct quoniam A major est
+utrivis ex ipsis B, C, multo magis crit A una cum D, et alterutra ex
+ipsis Β, C major reliqua. et, ex construetione, A, Β, C fimul majores
+sunt quam D. Q E. F.
+
+CoR. Si praeterea requiratur ut A et Β fimul non minores fint
+quam C et: D simul, debet exceffus ipsarum A et B fimul supra C non
+minor effe quam D, hoc est debet D non major effe hoc excessu.
+
+PROP. II. PROBLEMA.
+
+Datis quatuor magnitudinibus A, Β, C, D quarum A et B fimul
+non minores sunt quam C et D fimul, ct quarum tres fimul majores
+sunt· reliqu& quartu, quomodocunque sumptae ; quintam E invenire, ita
+ut duae cx tribus A, B, E quomodocunque sumptae majores slnt ref
+liqua tertia, et etiam duae ex tribus C, D, E quomodocunque sump-
+tae majores sint reliqua. fit autem A non minor Β, et C non mi-
+nor D.
+
+Primo fit excessus ipsarum C, D non minor excessu ipsarum A, B.
+
+potest autem sumi quaedam E quae minor est summa ipsarum C, D
+at
+
+391
+

@@ -1,0 +1,46 @@
+80
+
+124.
+
+1
+
+-bafis igitur DK bafi DB est aequalisf. dico
+
+EUCLIDIS ELEMENTORUM
+
+mus, et DL quam DH minorem effe. ergo DG minima est, minor
+vero DK quam DL, et DL quam DH. <ilco etiam duas tantum αθ-
+quales a puncto D in circumferentiam cadere D
+
+ad utrasque minimae parteS. constituatur ad
+rectam lineam MD, et ad punctum in ea M,
+angulo KMD aequalis angulus DMB, et DB
+jungatur. itaque quoniam MK est aequalis
+MR, communis autem MD, duae KM, MD
+duabus ΒΜ, MD aequales sunt, altera al-
+teri, et angulus KMD aequalis angulo BMD 3 C
+
+     
+
+autem a puncto D aliam ipsi DK aequalem Ε
+in circumferentiam non cadere. fi enim fieri Ε μ ⁷
+potest, cadat DN; et quoniam DK est ae· A
+qualis DN, et DK ipfi DB est aequalis, erit et DB aequalis DN, pro-
+pinquior scilicet minimae aequalis remotiori, quod fieri non posse osten-
+sum est. s1 igitur extra circulum ἃς. Q E. D.
+
+PROP. IX. THEOR.
+
+SI intra circulum sumatur aliquod punctum, atque ab
+eo ad circumferentiam cadant plures quam duae rectae
+lineae aequale83 punctum quod sumitur circuli centrum
+
+erit.
+
+Sumatur enim intra circulum ΑΒΕ ρυηέῖωῃ aliquod D, atque a
+puncto D ad circumferentiam cadant plures quam duae reatae lineae
+aequales DA, DB, DC. dico punctum D centrum esse clrculi AEC.
+
+Non enim; sed fi fieri potest, fit E centrum, et juncta DE ad
+puncta
+

@@ -1,0 +1,45 @@
+LIBER PRIMUS, ’ 31
+
+triangulum triangulo DEF, et reliqui anguli reliquis angulis aequales
+
+erunt, alter alteri, quibus aequaIIa latera subtenduntur. aequalis igitur
+
+est angulus BHA angulo EFD. sed EFD est aequalis angulo BCAb;1›. ex hyp:
+ergo et BHA angulus angulo BCA est aequam, trianguli scilicet AHC
+
+exterior angulus BHA aequalis Ὀ
+
+interiori et opposito BCA, quod A
+
+fieri non potestc. quare non inae- c. 16. 1:
+>qualis est BC ipsi EF; aequa-
+
+lis igitur 3 est autem et AB ae-
+
+qualis DE; duae igitur AB, BC
+
+duabus DE, EF aequales sunt, al- B H C E F
+tera alteri; angulosque aequales continent3 quare bafis AC aequalis
+cst bafi DF, et reliquus angulus BAC reliquo angulo EDF est aequa-
+
+lis. fi igitur duo triangula &a Q E. D.
+PROP. XXVII. THEOR.
+
+I in duas melas lineas reela linea incidens alternos an-
+gulos inter se aequales fecerit, parallelae erunt reelae
+lineae.
+
+In duas enim metas lineas AB, CD reela linea EF incidens alternos
+angulos AEF‚EFD aequales inter se fa-
+ciat 3 dieo melam lineam AB ipfi CD A E s B
+
+parallelam effe.
+
+Si en'un non est parallela, produehae G
+AB, CD, vel ad partes BD convenient, C Ε D
+vel ad partes AC. producantur, conve-
+
+niantque ad. partes BD in punflo G; itaque GEF trianguli exterior
+angulus AEF major est interiore et oppofito EF Ga 5 sed et aequalis, a. 15, Ι,
+quod
+

@@ -1,0 +1,47 @@
+84
+
+EUCLI'DIS ELEMENTORUM
+
+c. 11. 3.p,r0du‹?ta cadet in circulorum comestum& sed, in contactum non ca-
+
+.quae ipsa conjungit intra circulum AKC cadeta.
+
+dit, quia B, D puncta sunt extra rectam GH, quod est absurdum. noxa
+igitur circulus circulum intus contingit in pluribus punctis quam uno·
+
+Dico etiam neque extra contingere 3 fi enIm fieri potest circulum
+ABC contingat circulus AKC in pluribus punctis
+quam uno, videlicet in A, C, et AC jungatur.
+
+ 
+   
+
+itaque quoniam in circumferentia circuli AKC
+sumpta sunt duo puncta A, C recta linea AC A ’
+
+est autem circulus AKC extra circulum ABC,
+quare recta AC est extra ΑΒΕ circulum ς quo-
+niam vero A, C puncta sunt in circumferentia ip· B
+fius ABC circuli, rcfta AC est* intra ³ eundem,
+quod est absurdum. non igitur circulus circulum extra contingit in plu-
+ribus punctis quam uno. ostensum autem est neque intus. circulus igi-
+tur circulum non contingit in pluribus punctis quam uno, five intus
+five extra contingit. Q E. D:
+
+PROP. XIV. THEOR.
+
+IN circulo aequales rectae lineae aequaliter a centro dis-
+tant3 et quae aequaliter a centro distant sunt inter se
+
+aequales.
+
+Sit circulus ABDC, erin ipso aequales fint rectae lineae AB, CD.
+dico eas a centro aequaliter distare.
+
+Sumatur enim circuli ABDC centrum, sitque E, et ab ipsu ad AB,
+CD perpendiculares ducantur EF, EG, et ΑΕ, EC jungantur. Qo-
+niam igitur reeta linea quaedam EF per centrum ducta seuam lineam
+
+AB non ductam per centrum ad rectos angulos secat, et ipsam bifa-
+nam
+

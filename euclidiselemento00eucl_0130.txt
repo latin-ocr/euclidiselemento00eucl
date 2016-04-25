@@ -1,0 +1,33 @@
+116 EUCLIDIS ELEMENTORUM
+
+atque erit circulus inscriptus in triangulo ABC. In dato igitur triangulo
+
+ABC circulus EFG inscriptus est. Q E. F.
+
+PROP. V. PROB.
+CIRCA datum triangulum circulum circumscribere.
+
+Sit datum triangulum ABC3 oportet circa datum triangulum ABC
+
+circulum circumscribere.
+a. 10.1- Secentur AB, AC bifariam ²¹ in D, E punctis, et a punt‘tis D, E
+b. 11. 1‚ipfis AB, AC ad rectos angulos ducantur b DF, EF, quae quidem pro-
+duc‘tac necessario convenient, nam fi non conveniunt, erunt inter se pa—
+rallelae3 quare AB, AC quae ipfis sunt ad reetos angulos crunt paral-
+lelae, quod est absurdum conveniant in F, et BF, FC, F A jungantur.
+Quoniam igitur AD est aequalis DB, communis autem ct ad reetos an-
+
+ 
+
+ρ, 4, ι, gulos DF, crit bafis AF bafi FB aequalis Ε. similiter ostendemus ct CF
+aequalem FA ς ergo ct BF est aequalis F C, tres igitur FA, FB, FC
+inter sc aequales sunt. centro igitur F, intervallo autem unius ipsarum
+FA, FB, FC circulus descriptus ctiam per reliqua transibit punFta3 at-
+que crit circulus circumscriptus circa triangulum ABC. Circa datum
+igitur triangulum circumscriptus cst circulus. Q E. F.
+
+COR. Et manifestum cst, si centrum circuli intra triangulum cecide-
+ἀ- 31· 3·rit, unumquemque ejus angulum minorem effe rets‘to d, quoniam unus-
+
+quisque
+

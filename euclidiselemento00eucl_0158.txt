@@ -1,0 +1,46 @@
+144 EUCLIDIS ELEMENTORUM
+
+PROP. C. THEOR.
+
+SI prima aeque multiplex fuerit, vel eadem pars, secun·
+dae, atque tertia quartae3 erit prima ad secundam uc
+tertia ad quartam.
+
+Sit prima A aeque multiplex secundae B, atque tertia C quartae D.
+erit A ad B, ut C ad D.
+
+Sumantur enim ipsarum A, C acque multiplices quaecunque E, F ;
+ipsariunque B, D, aliae utcunque acque multiplices G,
+H. et quoniam A aeque multiplex est B, atque C ip-
+fius D 3 E vero aeque multIpIex A, atquc F ipfius C,
+
+ 
+
+ 
+
+ἃ· 3· 5· erit ²¹ E aeque multiplex B, atque F ipsius D. sunt au· l Ι
+tem G, H ipsarum B, D aeque multiplices; ergo fi E A ΒΟ ΟῙ)
+major fucrit multiplex ipsius Β, quam G ejusdem Β, e· E ΟΡ H
+rit et F major multiplex ipsius D, quam H ejusdcm D 3
+hoc cst fi E major fuerit G, erit F major H. similiter Ι l
+
+fi E aequalis fuerit G, aut ipsfi minor, ostendetur F ae·
+qualis H, aut ips& minor. sunt autem E, F ipsarum A,
+C utcunque aeque multiplices 3 et G, H ipsarum B, D
+aliae utcunque acque multiplices. Ergo est A ad B, ut
+
+&Deli-5. 5. C ad Db,
+
+Sed sit prima A eadem pars secundae Β, atque
+tertia C quartae D. crit A ad Β, ut C ad D. ct-
+cnim crit Β eadem multiplex A, atque D ipsius C;
+quare per Casum Ι. est Β ad A, ut D ad C, ct
+
+0,13‚5‘,invcrtend0⁰, crit A ad Β, ut Cad D. fi igitur
+
+ 
+
+ 
+
+PROP. D.
+

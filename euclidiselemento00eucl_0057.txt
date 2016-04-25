@@ -1,0 +1,40 @@
+LIBER PRIMUS. 43
+
+ducatur per A ipsi BF parallela ³ AG, et GF jungatur. Triangulum a. 31· ι,
+igitur ABC triangulo GEF est acqualeb‚ sunt enim super aequalibus b. 38. 1.
+basibus BC, EF, et in eisdem parallelis BF, AG. sed triangulum ABG
+aequale est triangulo DEF; ergo et triangulum DEF triangulo GEF
+aequale erit, majus minori, quod fieri non potest. non igitur AG ipfi
+BF est parallela. similiter ostendemus neque aliam quampiam paral-
+lelam effe, praeter AD. Ergo AD ipfi BF parallel-a est. Aequalia igi-
+
+tur triangula &c. Q E. D.
+
+PROP. XLI. THEOR.
+
+SI parallelogrammum et triangulum eandem bafim ha-
+beant, m e1sdemque smt paralle1183 parallelogram-
+
+mum ipfius trianguli duplum erit.
+
+Parallelogrammum enim ABCD et triangulum EBC balim habeant
+eandem BC, et in eisdem sint parallelis BC, AE; dico parallelogram-
+
+mum ABCD trianguli EBC duplum effe. Α D Ε
+
+Jungatur enim AC; trIangulum Igitur ABC v
+triangulo EBC est aequale ²³, etenim super eadem Ἴ ²· 3⁷· ¹·
+basi BC, et in eisdem sunt parallelis BC, ΑΕ.
+sed ABCD parallelogrammum duplum est trian- Α
+
+guli ABCb‚ diameter enim AC ipsum bifariam B ⁴ 'G b· 34· 1·
+secat ; quare et ABCD ipsius trianguli EBC
+duplum erit. fi igitur parallelogrammum &e. Q E. D.
+
+PROP. XLII. PROB.
+
+ATO triangulo aequale parallelogrammum, in an·
+gulo reeiilineo dato angulo aequali, constituere.
+
+F 2. Sit
+

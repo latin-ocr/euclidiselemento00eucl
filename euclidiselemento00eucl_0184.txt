@@ -1,0 +1,69 @@
+170
+
+a. 22. ς.
+
+‘³¹³Cssssfita cst ὓ· cx prioribus, cad-em rationi G ad M,
+
+EUCLIDIS ELEMENTORUM
+
+ut A ad B, ita K ad L; ut vero C ad D, ita L ad M. ratio igitur K
+ad M, per Definitionem rationis compositae, composrta est ex rationi-
+bus K ad L, et L ad M, quae eaedem ⁴- ********
+sunt rationibus A ad B, etC ad D. sit- A. Β. C. D. K. L. M.
+que practerea ut E ad F, ita N ad O, Ε. F. G. H. N. O. P.
+ut vero G ad H, ita O ad P; ratio i- ——.-.—.-.-——
+
+ 
+
+ 
+
+ 
+
+gitur N ad P composita est ex rationibus N ad O, et O ad P, quae eae-
+dem sunt rationibus E ad F, et G ad H. et ostendendum est rationem
+
+K ad M candem effe rationi N ad P, five ut K ad M, ita effe N ad P. ’
+
+Qoniam est K ad L, ut (A ad B, hoc est ut E ad F, hoc est ut) N
+ad Ο, ut vero L ad M, ita est (C ad D, et ita G ad H, et ita) O ad P.
+erit ³ ex aequali K ad M, ut N ad P. Si igitur rationes &a Q E. D.
+
+PROP. H. THEOR.
+
+SI ratio ex quibusdam rationibus composita eadem fit
+rationi ex quibusdam aljis rationibus compositae,
+fueritque una ratio ex prioribus, vel ratio ex quibusdam
+ex prioribus composita, eadem uni rationi ex posteriori·
+bus, vel rationi ex quibusdam ex posterioribus composi-
+ωε, erit reliqua ratio ex prioribus, vel ratio ex reliquis
+prioribus composita, eadem rationi reliquae ex posteriori-
+bus, vel rationi ex reliquis posterioribus compofitae.
+
+Sint rationcss A ad B, B ad C, C ad D, D ad E, et E ad F,- et
+:diae rationes G ad H, H ad K, K ad L, ct L s
+ad M, fitque ratio A ad F, quac sc. compo—
+
+ 
+
+ 
+
+ 
+
+A. B. C. D. E. F.
+G. H. K. L. M.
+
+ 
+
+ 
+
+quae composita cst ³ ‹2:11 posterioribus. ct prac-
+
+ 
+
+ 
+
+ 
+
+terea ratio A ad D quae compo-sira est cx rationibus A ad Β, Β ad C,
+Εἰ
+

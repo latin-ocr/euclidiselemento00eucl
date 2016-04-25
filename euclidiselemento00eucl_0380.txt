@@ -1,0 +1,39 @@
+366
+
+NOTAE.
+
+quae quidem Propofitiones sunt conversae 1 ‘¹¹³² et 2dae. hisce autem,quint;*1
+sc. et sexta, nulla Propofitio hujus Libri, ut eum nunc habemus, uti·
+tur 3 neque ulli in Elementis praeterquam huic 18vae utiles esse pos-
+sunt. et hoc quidem certum est indicium easdem ab Euclide in sua hu-
+jus 1 gvae demonstratione adhibitas fuisse, eamque quam posuimus, quae-
+que, ut fieri debuit, conversa est demonstrationis 17¹¹¹²⁶, ab ea Eudoxi
+vel Euclidis haud differre. nulli enim usui inservirent 5ῑῖι et 6ῒὲι fi in de-
+monstrationibus Lib. 5. adhibitae non essent, ut reliquae de aeque mul·
+tiplicibus Propofitiones omnes adhibitae sunt.
+
+Hieronymus Saccherius naevum hunc inesse demonstrationi hujus
+1 gvae agnoscit in Libro suo cui Titulus Euclides ab omni naevo vin-
+dicatus, Mediolani anno 1 73 3, impresso. ut vero naevum hunc tol-
+lat, et demonstratio 1 ΞΜ quam nunc habemus legitima reddatur, de-
+monstrare conatur sequentem Propofitionem in pag. 1 15. Libri prae-
+dic‘ti, viz.
+
+“ Sint quatuor magnitudines A, B, C, D quarum duae priores in
+“ suo proprio genere, ac similiter posteriores vel in eodem cum priori-
+“ bus genere, vel in alio quodam suo proprio genere Conslstant. Dico
+‘⁶ rationem tertiae C ad quartam D vel aequalem fore, vel majorem,
+“ vel minorem ratione primae A ad secundam B.” Post duas autem
+Propositiones, tanquam Lemmata, praemissas ita procedit.
+
+‘⁶ Vel inter poffibiles aeque multiplices primae A, et tertiae C, ac
+‘⁶ simul inter possibiles aeque multiplices secundae B, et quartae D,
+“ una quaepiam reperitur EF multiplex primae A, et IK multiplex se-
+“ eundae B invicem aequale85 ae simul (in eodem casu) una quaedam
+“ GH multiplex tertiae C aequalis ipsl LM multiplici quartae D. vel
+“ nusquam talis aequalitas reperitur. fi primum, constat ex jam demon-
+“ stratis ita fore A ad B, ut C ad D. fin vero nusquam reperitur ejus·
+“ modi simul ex utraque parte aequalitas ; vel saltem ad alterutram
+
+“ partem
+

@@ -1,0 +1,38 @@
+EUCLIDIS ELEMENTORUM
+
+ponitur AB ipsius E, atque CD ipfius F; ergo KH aeque multiplex
+a. 1. Ax. 5. est F, atque CD ejusdem F. aequalis igitur ³ cst Ki
+
+KH ipfi CD. communis auferatur CH; ergo re· A
+liqua KC reliquae HD est aequalis. Quam multi· ἱ
+plex autem est GB ipsius E, tam multiplex est KC
+
+ipsius F, sed KC est aequalis HD. Ergo tam G H
+multiplex est HD ipsius F, atque Gss ipsius E.
+s1 igitur duae ἃς. Q E. D.
+
+'142
+
+C
+
+B „ll
+PROP. A. THEOR.
+
+SI prima ad secundam eandem habet rationem quam
+tertia ad quartam, fueritque prima major secunda3
+erit tertia major quarta3 et fi aequalis, aequali33 et fi mi-
+
+nor, minor.
+
+Sumantur enim quaevis aeque multiplices omnium, puta duplae, et,
+per Definitionem 5tam hujuS, fi dupla primae major fuerit dupla se—
+eundae, erit dupla tertiae major dupla quartae. fi autem prima ma·
+jor fuerit secunda, erit dupla primae major duplsl secundae. quare et
+dupla tertiae major erit duplst quartae 3 unde tertia major erit quarta.
+Ergo s1 prima major fuerit secund-51, erit tertia major quarta. fimiliter
+fi prima aequalis fuerit secundae, aut ipsa minor, ostendetur tertia ae-
+
+qualis quartae, aut ipsit minor. Q E. D.
+
+PROP. Β.
+

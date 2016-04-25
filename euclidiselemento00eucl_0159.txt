@@ -1,0 +1,55 @@
+LIBER QUINTUS. 145
+
+PROP. D. THEOR.
+
+SI fuerit prima ad secundam, ut tertia ad quartam3 fu-
+· eritque prima multipleX, vel pars secundae3 erit ter-
+
+tia eadem multiplex, vel eadem pars quartae.
+
+Sit A ad B, ut C ad D; fitque A multiplex ipsius Β, erit C eadem
+multiplex ipsius D.
+
+Sumatur enim E aequalis ipfi A, et quam multiplex est A five E
+‘ipsius B, tam multiplex fiat F ipsius D. Ergo quo-
+niam A ad B candem habet rationem, quam C ad D,
+et secundae B et quartae D aeque multiplices sump-
+tae sunt E, F, erit ³ A acl E, ut C ad F. et est A ae-
+qualis ipsi E; ergo C aequalis est ipsi ΡΟ. est autem
+F aeque multiplex ipsius D, atque E five A ipsius
+Β. Ergo C aeque multiplex est D, atque A ipsius B.
+
+Sed sit prima A pars secundae B, erit tertia C ea-
+dem pars quartae D.
+
+Quoniam enim est A ad B, ut C ad D, inverten-
+doc, erit B ad A, ut D ad C. est autem A pars ip-
+s1us Β, hoc est B multiplex est ipsius A, quare, per casum praeceden-
+tem, D eadem est multiplex ipfius C, hoc est C eadem pars est Ipsius
+D, atque A ipfius B. fi igitur fuerit prima &c. Q E. D.
+
+a. Cor. 4. ς.
+
+ 
+
+ 
+
+b. Prop. A. ς,-
+
+Alcl,
+Ε F
+
+ 
+
+ 
+
+c. B. 5.
+
+PROP. VH. THEOR.
+
+EQUALES ad eandem, eandem habent rationem3 et
+eadem ad aequales.
+
+Sint aequales magnitudines A, B, alia autem quaevis magnitudo fit
+T C. Dico
+

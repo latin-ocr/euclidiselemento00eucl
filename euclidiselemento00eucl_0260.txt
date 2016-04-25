@@ -1,0 +1,49 @@
+24³6
+
+a.22.11.
+b. 22.1.
+
+c. 5.4.
+
+d.8.1.
+
+EUCLIDIS ELEMENTORUM
+
+reffis minores. oportet ex aequalibus ipfis ABC, DEF, GHK solidum
+angulum constituere.
+
+Abseindantur aequales AB, BC, DE, EF, GH, HK; et AC, DF,
+GK jungantur. fieri igitur potest ut ex aequalibus ipfis AC, DF,
+
+Q„ ΑΔ
+
+ 
+
+GK constituatur triangulum ². Itaque constituatur b LMN, ita ut AC
+quidem sit aequalis LM, DF vero Ipfi MN, et praeterea GK ipfi NL ;
+et cisca triangulum LMN circulus LMN describatur0; sumaturque ip-
+
+fius centrum X, quod vel crit intra triangulum LMN, vel in uno ejus
+latere, vel extra.
+
+Sit primum intra, et LX, MX, NX jungantur. Dico AB majorem
+
+esse LX. fi enim non ita fit, vel AB erit aequafis LX, vel ea m’1n0r5
+
+fit primum aequalis. Qoniam igitur AB est
+aequalis LX, atque est AB ipsi BC aequalis,
+et LX ipfi XM, duae AB, BC duabus LX,
+XM aequales erunt, altera alteri3 et bafis AC
+basi LM aequalis ponitur3 quare angulus
+ABC angulo LXM est aequalisd. eadem ra-
+tione et angulus quidem DEF est aequalis an-
+gulo MXN‚ angulus vero GHK angulo NXL.
+tres igitur anguli ABC, DEF, GHK tribus LXM, MXN‚ NXL ae-
+
+ 
+
+„ 1 ,h quales sunt. sed tres LXM, MXN‚ NXL quatuor rec‘tis sunt aequales&
+
+ergo et tres ΑΒΕ, DEF, GHK aequales erunt quatuor restis. atqui
+ponuntur
+

@@ -1,0 +1,42 @@
+LIBER TERTIUS. 79
+
+Sit circulus ABC, et extra circulum sumatur aliquod punctum D 3
+ab eo autem ad circumferentiam ducantur ret-“tac lineae quaedam DA,
+DE, DF, DC, fitque DA per centrum. dico earum quidem quae in
+concavam circumferentiam AEFC cadunt maximam esse DA quae per
+centrum tranfit; et quae propinquior est ei quae per centrum semper major
+erit remotiore, videlicet DE quidem quam DF, DF vero quam DC:
+earum vero quae in convexam circumferentiam HLKG cadunt, mi-
+nimam effe DG quae inter punctim] D et diametrum AG interjicitur‚
+et quae propinquior minimae semper est mi· D
+nor remotiore, videlicet DK quam DL, et ”
+
+DL quam DH.
+
+Sumatur enim centrum circuli ³ ABC,
+quod fit M, et jungantur ME, MF, MC,
+MK, ML, MH. et quoniam AM est ae-
+qualis ME, communis apponatur MD, ergo
+AD est aequalis ipsis EM, MD, sed EM, C
+MD sunt majores quam ED b, ergo et AD
+quam ΕΙ) cst major. rursus quoniam ae-
+qualis est ME ipsi MF, communis autem
+MD, crunt EM, MD ipsis FM, MD ae-
+quales 3 at angulus EMD major est angulo FMD, basis igitur ED bafi
+FD major erite. fimiliter ostendemus et FD majorem effe quam CD. c. 24· 1.
+ergo maxima est DA 3 major autem DE quam DF, et DF quam
+DC. et quoniam MK, KD sunt majores quam MDb, et MK est ae-
+qualis MG, erit reliqua KD quam reliqua GD major d, quare GD mi· d, Ax. 4,
+nor quam KD 3 minima igitur est GD. et quoniam super trianguli
+MLD uno latere MD, duae rectae lineae MK, KD intra constituun-
+tur, erunt MK, KD minores ipfis ML, LD Ε, quarum MK est aequalis e. 21.1‚
+ML; reliqua igitur DK minor est quam reliqua DL. similiter ostende-
+
+mus,
+
+a.1.3.
+
+b.20. 1.
+
+ 
+

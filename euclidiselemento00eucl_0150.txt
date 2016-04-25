@@ -1,0 +1,51 @@
+136
+
+2.Ax. 2.1.
+
+EUCLIDIS ELEMENTORUM
+
+quam multiplex est AB ipsius E, tam multiplices effe et AB, CD fi-
+mul ipsarum E, F simul.
+
+Quoniam enim AB aeque multiplex est ipsius E, ae CD ipsius F;
+quot magnitudines sunt in AB aequales ipsi E, tot erunt et in CD ae-
+quales ipfi F. dividatur AB quidem in partes ipfi E ae-
+quales, quae sint AG, GB; CD vero in partes aequales A
+ipfi F, videlicet CH, HD. erit igitur multitudo partium G
+CH, HD aequalis multitudini ipsarum AG, GB. et quo-
+niam AG est aequalis E, et CH aequalis F; erunt et AG, Β
+CH, aequales ² ipsis E, F. eadem ratione quoniam GB
+est aequalis E, et HD ipsi F; erunt GB, HD aequales ²
+ipsis E, F. quot sunt itaque In AB aequales ipsi E, tot H
+sunt et in AB, CD aequales Ipsis E, F. Ergo quam
+
+E
+
+ 
+
+‚fl
+
+ 
+
+multiplex est AB ipsius E, tam multiplices erunt et AB, D
+CD fimul ipsarum E, F simul.
+
+Si igitur fuerint quotcunque magnitudines quotcunque magnitudi-
+num, aequalium numero, singulae singularum aeque multiplices; quam
+multiplex est una magnitudo unius, tam multiplices erunt et omnes
+omnium. eadem enim demonstratio tenet in quotcunque magnitudini-
+
+bus. QE D.
+PROP. II. THEOR.
+
+SI prima secundae aeque multiplex fuerit ac tertia quar-
+
+tae, fuerit autem et quinta secundae aeque multiplex
+ac sexta quartae3 erit etiam prima una cum quinta secun-
+dae aeque multiplex ac tertia cum sexta quartae.
+
+Prima enim AB secundae C aeque multiplex sit, atque tertia DE
+quartae F 3 s1t autem ct quinta BG secundae C aeque multiplex ac sexta
+
+ΕΗ
+

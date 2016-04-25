@@ -1,0 +1,47 @@
+LIBER SECUNDUS.
+
+PROP. V11. THEOR.
+
+SI reeta linea utcunque set‘ta fuerit, quae ex tota, et una
+parte fiunt utraque quadrata aequafia sunt et rectan-
+gulo quod bis a tota ac dieta parte continetur, et quod
+
+ex reliqua parte fit quadrato.
+
+Reaa enim linea quaevis AB secta fit utcunque in punc’to C; dico
+quadrata ex AB, BC aequalia effe et rectangulo quod bis ab AB, BC
+continetur, et quadrato ex AC.
+
+Describamr enim ex AB quadratum ADEB ³, et figura construatur. a. 46. 1.
+et quoniam AG rectangulum aequale est ipfi GE b, commune appona- b. 43. 1.
+tur CK, quare totum AK toti CE est aequale ς reetangula igitur AK,
+
+CE dupla sunt ipfius ΑΚ. sed AK, CE sunt C
+
+59
+
+AKF gnomon et quadratum CK; gnomon Α B
+
+igitur AKF et quadratum CK dupla sunt rec- Harl<
+
+tanguli AK, est autem et id quod bis conti-
+
+netur ab AB, BC duplum ipfius AK, etenim
+
+ΒΚ est aequalis BC Ε. gnomon igitur AKF et ἎΙΕ c. cor.4. 2,
+
+quadratum CK aequalia sunt ei quod bis ab D Ε
+
+AB, BC continetur. commune apponatur HF,
+
+quod est aequale quadrato ex AC; gnomon igitur AKF et quadrata
+CK, HF aequalia sunt ei quod bis ab AB, BC continetur restangulo, et
+quadrato ex AC. sed gnomon AKF et quadrata CK, HF totum sunt
+ADEB, et CK, quae sunt ex AB, BC quadrata. Qadrata igitur ex
+AB, BC aequalia sunt rectangulo quod bis ab AB, BC continetur, una
+cum quadrato ex AC. fi igitur recta linea &c. Q Ε. D.
+
+ff
+
+H 2 PROP. VIII.
+

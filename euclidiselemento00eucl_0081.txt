@@ -1,0 +1,46 @@
+LIBER SECUNDUS.
+
+quadratis ex BC, CA et contento bis a BC, CD restangulm itaque
+quadratum ex BA majus est quam quadrata ex BC, CA, reclangulo
+bis ab ipsis BC, CD contento· In obtusangulis Igitur triangulis &a
+
+Q E. D.
+PROP. xm. THEOR.
+
+IN omni triangu10‚ quadratum ex latere acutum angulum
+subtendente, minus est quam quadrata ex lateribus an-
+gulum illurn acutum continentibus, reclangulo contento
+bis ab uno laterum quae sunt circa acutum angulum, in
+quod perpendicularis cadit, et recta linea intercepta a per-
+pendiculari ad angulum acutum.
+
+Sit triangulum ABC, acutum habens angulum ad B, et ducatur a
+
+puncto A ad BC perpendicularis ³ AD. dico quadratum ex AC minus a. 12.1.
+
+effe quam quadrata ex CB, BA, reetangulo bis a CB, BD contento.
+
+Cadat primo AD intra triangulum ABC3 et quoniam reela linea
+CB festa est utcunque in D, erunt quadrata ex CB, BD aequalia et rec-
+tangulo bis a CB, BD contento, et quadrato ex DC b. commune apponatur b. 7. 2.
+
+ex AD quadratum3 quadrata igitur ex CB, BD, DA aequalia sunt et rec-
+tangulo bis ab ipsis CB, BD contento, et Α
+
+quadratis ex AD, DC. sed quadratis quidem
+ex BD, DA aequale est ex AB quadratum ⁰,
+reekus enim angulus est qui ad D; quadra-
+tis vcro ex AD, DC aequale est quadratum
+ex AC. quadrata igitur ex CB, BA sunt μ
+aequalia quadrato ex AC, et contento bis a B D C
+CB, BD reuangulm itaque solum quadratum ex AC minus est quarn
+quadrata ex CB, BA restangulo bis a CB, BD contento.
+
+I 2 Sed
+
+ 
+
+c. 47. ι.
+
+67
+

@@ -1,0 +1,41 @@
+ 
+
+LIBER DUODECIMUS.
+
+er {int quae super circuli segmentis ΑΕ, ΕΒ, BF, FC, CG, GD, DH,
+HA. reliqua igitur pyramis cujus bafis AEBFCGDH, et vertex idem
+qui coni, major cst quam tertia cylindri pars. sed pyramis cujus bafis
+polygonum AEBFCGDH, vertex autem idem qui coni, tertia pars est
+prismatis cujus bafi‘s polygonum AEBFCGDH, altitudo autem eadem
+quac cylindris. prisma igitur cujus basis AEBFCGDH polygonum, et
+altitudo eadem quae cylindri, majus est cylindro cujus basis est circulus
+ABCD. sed et minus, ab ipso enim comprehenditur ς quod fieri non
+potest. non igitur cylindrus minor est quam triplus coni. ostensum au-
+tern est neque majorem esse quam triplum. ergo cylindrus coni triplus
+est; ac propterea conus tertia pars cylindri. Omnis igitur conus tertitz
+
+pars est ἃς. QE. Dr.
+
+PROP. XI. THEOR.
+
+CONI et cylindri qui eandem habent altitudinem, in-
+ter se sunt ut bases.
+
+Sint in eadem altitudine coni et cylindri, quorum bases circuli
+ABCD, EFGH, axes autem KL, MN, et diametri basium AC, EG.
+Dico ut ABCD circulus ad circulum EFGH, ita effe conum AL ad
+conum EN.
+
+Si enim non ita fit, erit ut ABCD circulus ad circulum EFGH„ ita
+conus AL ad aliquod solidum minus cono EN, vel ad majus. fit
+primo ad minus quod fit X; et quo minus est solidum X cono EN, ei
+aequale fit Z solidum; conus igitur EN ipsis solidis X, Z cst aequalis.
+describatur in EFGH circulo quadratum EFGH ; majus igitur erit
+quadratum dimidio circuli. erigatur a quadrato EFGH pyramiS aeque
+alta cono* ; pyramis igitur ercfta major est coni dimidio. nam ficirca
+
+*¹ Potius, eundem quem conus verticem habens, et fic in sequentibus quibusdam.
+circulum
+
+311
+

@@ -1,0 +1,25 @@
+LIBER UNDECIMUS. 283
+
+PROP. XXXIX. THEOR.
+SI in solido parallelepipedo oppositorum planorum la-
+
+tera secentur bifariam, per sefflones vero plana ducan-
+tur; communis planorum sefflo et solidi parallelepipedi
+diameter se mutuo bifariam secabunt.
+
+In solido enim parallelepipedo AF, oppositorum planorum CF, AH
+latera bifariam secentur in punffls K, L, M, N; X, O, P, R ς et jun-
+gantur KL, MN, XO, PR. et quoniam DK, CL aequales sunt et
+parallelae, erunt KL, DC parallelae ². eadem ratione, parallelae sunt ι. 33.1.
+ΜΝ, BA. est autem BA parallela ipsi DC; quonlam igitur utraque
+
+ 
+
+ipsarum KL, BA parallela est ipfi DC, non in eodem cum ips& plano,
+erit KL parallela b ipsi BA. et quoniam utraque ipsarum KL, MN b. 9. xx,
+parallela est ipsi BA, non in codem cum ipsa plano, erit KL parallela b
+ipfi MN; quare KL, MN in uno sunt plano. similiter ct XO, PR
+ostendentur in uno effe plano. Communis autem scffio planorum ΚΝ,
+
+N n 2 XR
+

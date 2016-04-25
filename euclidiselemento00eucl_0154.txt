@@ -1,0 +1,45 @@
+140 -
+
+21
+
+EUCLIDIS ELEMENTORUM
+
+Sumantur ipsarum E, F utcunque aeque multiplices K, L, et ipsa-
+rum B, D aliae utcunque aeque multiplices G, H; et ut in praemissis
+ostendetur K aeque multiplex ipsius A, atque L ipsius C. et quoniam
+est A ad B, ut C ad D, sumptae autem sunt ipsarum A, C aeque mul—
+tiplices quaedam K, L, et ipsarum B, D allae quaedam aeque multipli-
+ces G, H; fi K superat G, superabit et L ipsam H; et fi aequaliS, ae—
+qualis ; et fi minor, minor. suntque K, L ipsarum E, F utcunque aeque
+multiplices, G, H vcro ipsarum B, D aliae utcunque aeque multiplices.
+ut igitur E ad Β, ita F ad D. fimiliter ostendetur alter casm.
+
+PROP. V. THEOR.
+
+SI magnitudo magnitudinis aeque multiplex fit atque
+ablata ablatae3 erit et reliqua reliquae aeque multi-
+plex atque tota totius.
+
+Magnitudo enim AB magnitudinis CD aeque multiplex fit¹ atque
+ablata ΑΕ ablatae CF. Dico et reliquam ΕΒ reliquae F D aeque mul-
+tiplicem effe atque totam AB totius CD.
+
+Qiam multiplex enim est ΑΕ ipsius CF, tam multiplex fiat et AG
+
+‚ 5, ipsius F D. erit igitur aAE aeque multiplex ipsius CF Gi
+
+atque EG ipsius CD; ponitur autem ΑΕ aeque mul-
+tiplex ipfius CF atque AB ipsius CD; sunt igitur EG, A -
+
+AB ipsius CD aeque multiplices, ac propterea EG ipfi Ι
+
+b. 1. Ax. 5. AB est aequalisb. communis auferatur ΑΕ, reliqua igi- C
+tur AG aequalis est reliquae ΕΒ. itaque quoniam ΑΕ E
+aeque multiplex est CF atque AG ipsius FD, estque Ι F·
+AG aequalis ipsi EB3 erit AE aeque multiplex CF at-
+
+ 
+
+que ΕΒ ipsius FD. acque multiplex autem ponitur E D
+ΑΕ ipsius CF atque AB ipsius CD; ergo ΕΒ ae- ⁷
+

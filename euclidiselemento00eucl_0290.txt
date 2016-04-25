@@ -1,0 +1,39 @@
+276
+
+a.8.11.
+
+b.18.11.
+
+r. 4.Def.11.
+d. 3.Def.11.
+
+e.26.1.
+
+’ EUCLIDIS ELEMENTORU'M
+
+occurrentes planis in punctis L, N; et LA, ND jungantur. Dico ann
+gulum GAL angulo MDN aequalem effe.
+
+Ponatur ipsi DM aequalis AH, et per H ipfi GL parallela duca-
+tur HK. est autem GL perpendicularis ad planum BAC; ergo et HK
+ad planum BAC perpendicularis erita. ducantur a punctis K, N ad
+rectas lineas AB, AC, DE, DF perpendiculares KB, KC, NE, NF ;
+et..HB‚ BC, ME, EF jungantur. Qoniam igitur HK ad reclos an-
+gulos est plano ΒΑΕ, erit et planum ΗΒΚ quod per ipsam HK 'tran-
+s1t ad rectos angulos plano BACb; dueta autem est in plano BAC reela
+
+AB ipsi ΒΚ planorum communi sectione ad rectos angulos ‚- quareAB
+perpendicularis est ad planum HBK Ε, et ad omnes restas lineas quae
+in eo plano ipsam tangunt recios faciet angulosd. tangit autem ipsam
+
+reeta BH, in eo existens plano ; rectus igitur est angulus ΑΒΗ. eadem ,
+
+ratione et angulus DEM est rcc‘tus; ergo angulus ΑΒΗ ipfi DEM est
+aequalis. est autem et ΗΑΒ angulus aequalis angulo MDE. duo igi-
+tur triangula sunt ΗΑΒ, MDE duos angulos duobus angulis aequales
+habentia, alterum alteri, et unum latus uni lateri aequale, quod uni ae-
+qualium angulorum subtenditur, videlicet HA ipsi DM; ergo et reli-
+
+qua latera reliquis lateribus aequalia habebunt, alterum alterie. quare
+AR
+

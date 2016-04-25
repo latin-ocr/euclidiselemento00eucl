@@ -1,0 +1,38 @@
+NOTAE.
+
+ut hanc quam culpat Euclidis omiffionem suppleret, nempe debere
+unam quamlibet ex tribus rectis minorem effe summa, at majorem ex-
+cessu reliquarum3 ex qua circulos fibi mutuo occurrere in uno casu os-
+tendit, in alio quovis casu dicit idem eodem modo ostendi poffe5 ve-
+rum recta GM quam jubet auferre ex resta GF potest ips& GF maj0r
+esse, ut in figura hic apposita, in quo casu demonstratio ejus in aliam
+mutanda est.
+
+PROP. XXIV. LIB. I.
+
+Huic, prope initium, adjecimus verba “ rectarum enim DE, DF
+“ fit DE ea quae non major est quam DF;” hoc est sumatur ea ree·
+tarum DE, DF quae non major est altera, ad constituendum cum ea
+angulum EDG aequalem ipfi BAC; etenim fine hac cautione tres es-
+sent casus diverfi hujus demonstrationis, ut Campanus aliique faciunt.
+
+PROP. XXIX. LIB. Ι.
+
+Propofitio quae vulgo Postulatum 51¹¹m, aut Axioma 1 1 mum, a qui-
+busdam 1 2¹¹¹¹¹¹¹¹ dicitur, ex qua haec 2 9¹¹³ praecipue pendet, haud
+pamm negotii tum veteribus tum recentioribus Geometris praebuit. et
+quidem inter communes sententias five Axiomata non ponenda vide-
+tur, non enim per se manifesta est; sed neque demonstrationem, striete
+loquendo, admittit ; explicatione autem quadarn indiget, ut dilucidior
+fiat. et hanc, vi& qua possumus facillima, T yronibus ut sequitur expo-
+nemus.
+
+Primo facile potest quispiam concipere duas renas AB, CD, In eo-
+dem plano, quae eidem reetae AC ad rectos sunt angulos, aequidistan-
+tes quoque esse, i. e. nullibi ad se invicem accedere, vel a se invicem re-
+cedere, quantumvis producantur; vel potius nullus est qui aliter de hisce
+
+X x = restis
+
+345
+

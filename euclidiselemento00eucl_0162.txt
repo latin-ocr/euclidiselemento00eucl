@@ -1,0 +1,49 @@
+1'48 EUCLIDIS ELEMENTORUM
+
+sarum AB, BC aeque. multiplices, et L ipsius D alia quaedam multiplex;
+
+b.Def.7. 5.erg0 AB ad D majorem habet rationem quam BC ad Db.
+Praeterea D ad BC majorem habebit rationem quam ad AB. iis-
+dem enim constructis, similiter ostendetur L superare FG, ipsam vero
+EG non superare. atque est L multiplex ipfius D, F G vero et EG sunt
+aliae quaedam ipsarum* CB, AB aeque multiplices. Ergo D· ad CB
+majorem habet rationem quam D ad ABb. Inaequalium igitur &c.
+
+QE. D.
+PROP. IX. THEOR.
+
+UAE ad eandem, eandem rationem habent, inter se
+sunt aequales3 et ad quas eadem eandem rationem
+habet, ipsae sunt inter se aequales.
+
+Habeat enim utraque ipsarum A, B ad C eandem rationem 3 dico A
+ipfiB aequalem effe. nam fi non fit aequaliS, altera ipsarum est ma·—
+j0r3 fit A major 3 suut igitur, ut ostensum fuit in propositione prae-
+cedente, quaedam ipsarum A, B aeque multiplices,
+et quaedam ipfius C multiplex tales ut multiplex ip-
+
+D
+
+ 
+
+fius A superet multiplicem ipfius C, multiplex vero Al
+ipfius B eandem non superet. sumantur, et fint D,
+
+ 
+
+E ipsarum A, Β aeque multiplices, F vero ipsius C
+multiplex, ita ut D superet F, E vero eandem F
+
+non superet. quoniam vero est A ad C, ut B ad B l F
+
+ 
+
+C, et ipsarum A, B sumptae sunt quaedam aeque
+multiplices D, E, et ipsius C sumpta est quaedam
+
+a. 5.Def.5. multiplex F, et est D major F, erit ³ E major F; est autem et E non
+major F, quod fieri non potest. non igitur inaequalis est A ipsi 133
+ergo aequans erit.
+
+Habeat
+

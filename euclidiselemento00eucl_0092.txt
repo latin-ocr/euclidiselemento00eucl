@@ -1,0 +1,42 @@
+c. 23. 1. in ea E, angulo GEF aequalis angulus ⁰ F ΕΗ,
+
+· tur FG bafi ΡΗ aequalis erit d. dico a punsto
+
+EUCLIDIS ELEMENTORUM
+
+Dico et a puncto F duas tantum rec'tas lineas aequales cadere in cir-
+cumferentiam ABCD ad utrasque partes minimae FD. constituatur
+enim ad rectam lineam EF, et ad punctum
+
+et ΡΗ jungatur. Qoniam igitur GE est ae-
+qualis EH, communis autem EF, duae GE,
+EF duabus HE, EF aequales sunt 5 et angu-
+lus GEF est aequalis angulo HEF; basis igi—
+
+ 
+
+F ad circumferentiam non cadere aliam ipsi
+
+FG aequalem. fi enim fieri potest, cadat FK, et quoniam FK est ae-
+qualis FG, estque ipsi FG aequalis FH, erit et FK ipfi FH aequalis,
+videlicet propinquior ci quae per centrum transit aequalis remotiori ς
+quod fieri non potest. fi igitur in circuli &o Q E. D.
+
+PROP. VIII. THEOR.
+
+SI extra circulum aliquod punctum sumatur, atque ab
+
+eo ad circumferentiam ducantur quaedam rectae lineae,
+quarum una per centrum transeat, reliquae vero utcun-
+que; earum quidem quae in concavam circumferentiam
+cadunt, maxima est quae per centrum tranfit3 aliarum
+autern propinquior ei quae per centrum, semper remo-
+tiore major est at earum quae in convexam circumfe-
+rentiam cadunt, minima est quae inter punctum et dia-
+metrum interjicitur3 aliarum vero quae propinquior mi-
+nimae, semper remotiore est minor. duae autem tantum
+aequales a puncto in circumferentiam cadunt ad utrasque
+partes minimae.
+
+Sit
+

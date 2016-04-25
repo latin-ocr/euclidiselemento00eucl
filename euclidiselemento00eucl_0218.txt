@@ -1,0 +1,41 @@
+204 EUCLIDIS ELEMENTORUM
+
+PROP. XXIII. THEOR.
+
+AEQmANGULA parallelogramma inter se rationem ha·
+bent ex laterum rationibus compositam.
+
+Sint aequiangula parallelogramma AC, CF aequalem habentia an-
+gulum BCD angulo ECG. Dico parallelogrammum AC ad parallelo-
+grammum CF rationem habere compositam ex laterum rationibus.
+
+Ponantur enim ut BC fit in direstum ipfi CG; ergo et DC ipfi
+
+ι. 14. 1.CE in direftum erit³; et compleatur DG parallelogrammum ; expo·
+b· 12- 6. naturque reeta linea quaedam K, et fiat b ut BC ad CG, ita K ad L 3
+ut autem DC ad (ΣΕ, ita L ad M. ratio- A D H
+nes igitur ipsius K ad L, et L ad M eae-
+dem sunt rationibus laterum videlicet BC ad B C G
+CG, et DC ad CE. secl ratio K ad M com-
+c- A· Def. 5- pofita dicitur ⁶ ex ratione K ad L, et ratione
+L ad M. quare et K ad M rationem habet Ι
+ex laterum rationibus compofitam. et quo· KLM Ε F
+nlam est ut BC ad CG, ita AC parallelogram-
+d. 1. 6-mum ad parallelogrammum CHd 3 sed et ut BC ad CG, ita K ad L ;
+mxx-serit e ut K ad L, ita parallelogrammum AC ad CH parallelogram-
+mum. rursm, quoniam est ut DC ad CE, ita CH parallelogrammum
+ad parallelogrammum CF; ut autem DC ad CE, ita L ad M; erit ut
+L ad M, ita parallelogrammum CH ad CF parallelogrammum. itaque
+cum ostensum fit ut K quidem ad L, ita AC parallelogrammum ad pa-
+
+ 
+
+ 
+
+rallelogrammum CH ; ut autem L ad M, ita parallelogrammum CH
+§.225- ad CF parallelogrammum3 erit ex aequali f ut K ad M, ita. AC. pa-
+rallelogrammum ad ipsum CF. habet autem K ad M rationem ex la-
+
+terum rationibus compositam. Ergo et AC parallelogrammum ad pa-
+[allelogrammurru
+

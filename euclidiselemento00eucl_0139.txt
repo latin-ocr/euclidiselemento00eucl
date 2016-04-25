@@ -1,0 +1,44 @@
+LIBER QUARTUS.
+
+quinque igitur anguli GHK, HKL, KLM, LMG, MGH inter se ae-
+quales sunt; aequiangulum igitur est GHKLM pentagonum. ostensum
+autem est etiam aequilaterum esse; et circumscriptum est circa ABCDE
+
+circulum. Q E. F.
+PROP. XIII. PROB.
+
+IN dato pentagono aequilatero et aequiangulo circulum
+⁵ inscribere.
+
+Sit datum pentagonum aequilaterum et aequiangulum ABCDE; 0-
+portet in ABCDE pentagono circulum inscribere,
+
+Secetur uterque angulorum BCD, CDE bifariam ³ reffls lineis CF,
+DF, et a puncto F in quo conveniunt inter se CF, DFv ducantur restae
+lineae FB, FA, FE. Quoniam igitur BC est aequalis CD, communis
+autem CF, duae BC, CF duabus DC, CF aequales sunt, et angulus BCF
+est aequalis ipfi DCF3 bafis igitur BF bafi
+FD est aequalisb‚ et BFC triangulum ae-
+quale triangulo DFC, et reliqui anguli re-
+liquis angulis aequales quibus aequalia latera B
+subtenduntur ; angulus igitur CBF angulo
+
+CDE ipsius CDF est duplus, et CDE qui-
+dem aequalis ipsi CBA, angulus vcro CDF
+ipfi CBF, crit et CBA duplus anguli CBF;
+angulus igitur ABF angulo CBF est aequalis; quare angulus ABC bi-
+fariam scetus cst recia linea BF. {imiliter ostendetur unumquemque an-
+
+gulorum BAE, AED renis lineis AF, FE bifariam sectum effe. a puncto
+
+a.9.1.
+
+ 
+
+125
+
+F ad re8tas lineas AB, BC, CD, DE, EA ducantur perpendiculares cc. 12. ι.
+
+FG, FH, FK, FL, FM. et quoniam angulus HCF est aequalis ipsi
+KCF,
+

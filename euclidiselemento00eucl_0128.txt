@@ -1,0 +1,56 @@
+114
+
+3.23.1.
+
+b. 17. 3.
+
+c. 18. 3.
+
+d.13.1.
+
+Eucmms ELEMENTORUM
+
+est in circulo ΑΒΕ. In dato igitur circulo dato triangulo aequiangu-
+lum triangulum inscriptum est. Q E. F.
+
+PROP. ΙΙΙ. PROB.
+
+CIRCA datum circulum triangulo dato aequiangu-
+lum triangulum circumscribere.
+
+Sit datus circulus ΑΒΕ, datum autem triangulum DEF; oportet
+circa ABC circulum triangulum circumscribere triangulo DEF aequi·
+angulum.
+
+Protrahatur ex utraque parte EF ad puufta G, -H, et sumatur cir-
+culi ABC centrum K, et reeta linea KB utcunque ducatum constitua-
+turque ad restam lineam KB, et ad punffrum in ea K, angulo quidem
+DEG aequalis angulus ³² BKA, angulo autem DFH aequalis angulus ³
+BKC; et per A, B, C punem ducantur reuae lineae LAM, ΜΒ Ν,
+NCL circulum ABC contingen· L
+
+tesb. Qoniam igitur circulum
+
+ΑΒΕ contingunt LM, MN, NL D
+
+in punffis A, B, C, a centro au· C f ἰ
+
+tem K ad A, B, C punsta duc- A ,-
+tae sum KA, KB, KC, erunt G Ε F H
+anguli acl punela A, B, C seruc, M B N·
+
+et quoniam quadrilateri ΑΜΒΚ
+
+anguli quatuor, quatuor sceris aequales sunt, etenim in duo triangula
+dividitur, quorum anguli ΚΑΜ, ΚΒΜ sunt reffi, erunt reliqui AKB,
+ΑΜΒ duobus sceris aequale& sunt autem et DEG, DEF aequales duo-
+bus Γεξὶίεᾶ, anguli igitur ΑΚΒ, ΑΜΒ angulis DEG, DEF aequales
+sunt, quorum ΑΚΒ ipsi DEG est aequalis ; reliquus igitur ΑΜΒ reliquo
+DEF aequalis crit. similiter ostendetur angulus LNM ipfi DFE ae-
+
+qualiS 3
+
+ 
+
+ 
+

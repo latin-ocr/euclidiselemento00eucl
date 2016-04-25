@@ -1,0 +1,44 @@
+24
+
+EUCLIDIS ELEMENTORUM
+
+AC majora latere BC; latera vero AB, BC majora latere AC; et la-
+tera BC, CA majora ipso AB.
+Producatur enim BA ad punc‘tum D, ponaturque ipfi CA aequalis
+
+a. 3. 1. AD ³, et DC jungatur.
+Quoniam igitur DA est aequalis AC, erit et angulus ADC angulo
+
+b. 5.1.ACD aequalisb. sed BCD angulus major D
+est angulo ACD ; angulus igitur BCD an—
+gul'o ADC cst major. et quoniam triangu· Δ
+lum est DCB habens BCD angulum ma-
+jorem angulo BDC, majorem autem angu- B Ο
+
+c· 19- 1· lum majus latus subtendiffi erit latus DB
+latere BC majus. cst autem DB aequale ipsis BA, AC; majora igitur
+sunt latera BA, AC ipso BC. similiter ostendemus, et latera quidem
+AB, BC majora csse latere CA; latera vero BC, CA ipso AB majora.
+Omnis igitur trianguli &c- Q E. D.
+
+PROP. XXI. THEOR.
+
+I a terminis unius lateris trianguli duae reetae lineae
+
+intra constituantur, hae reliquis duobus trianguli la-
+
+teribus minores quidem erunt, majorem vero angulum
+continebunt.
+
+Trianguli enim ABC in uno latere BC a terminis B, C duae reelae
+lineae intra constituantur BD, DC. dico BD, DC reliquis duobus tri-
+anguli latcribus BA, AC minores quidem effe, continere vero angulum
+BDC majorem angulo BAC.
+
+Producatur enim BD ad E; et quoniam omnis trianguli duo latera
+
+a. 20. 1. reliquo sunt majora ³, erunt trianguli ABE duo latera BA, AE, ma-
+
+jora latere BE, communis apponatur EC 5 sunt igitur latera BA, AC
+ipsis
+

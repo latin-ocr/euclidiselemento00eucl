@@ -1,0 +1,42 @@
+100 EUCLIDIS ELEMENTORUM
+
+ad rectos angulos ducatur CD, et jungantur AD, DB. Quoniam igi-
+
+tur AC est aequalis CB, communis autem CD, D
+
+duae AC, CD duabus ΒΕ, CD aequales sunt ; ” Q
+
+et angulus ACD aequalis angulo BCD, rectus e-
+
+nim uterque est; basis igitur AD bafi BD est A C B
+b.4.1·aequalisb. aequales autem rectae lineae circumferentias aequales au—
+c. 28-3-ferunt ⁶, majorem quidem majori, minorem vero minori, et est utraque
+
+ipsarum AD, DB semicirculo minor ; circumferentia Igitur AD circum-
+ferentiae DB est aequalis. Data igitur circumferentia bifariam secta est„
+
+Q E. F.
+PROP. XXXI. THEOR.
+
+IN circulo angulus qui in semicirculo, rectus est3 qui
+vero in majori segmentO, minor est rect03 et qui in
+minori, major recto.
+
+Sit circulus ABCD, diameter autem ejus fit BC, centrum vero E;
+et ducatur CA circulum dividens in segmenta ΑΒΕ, ADC, et jungan-
+tur BA, AD, DC. Dico angulum quidem qui est in semicirculo ΒΑΕ
+rectum effe, qui vero in segmento ΑΒΕ majore semicirculo, videlicet
+angulum ΑΒΕ, minorem effe reno, et qui est in segmento ADC mi—
+nore semicirculo, sc. ADC angulum, reete majorem effe.
+
+Jungatur ΑΕ, ct BA ad F producatur. itaque quoniam BE est
+
+a. 5. 1. aequalis EA, crit ct angulus ΕΑΒ acqualis ipsi EBA³; rursus quoniam
+ΑΕ est aequalis EC, aequalis erit et angulus EAC angulo ECA23 to-
+tus igitur angulus ΒΑΕ est aequalis duobus angulis ΑΒΕ, ΑΕΒ. est au-
+tem et angulus FAC extra triangulum ABC, duobus ΑΒΕ, ΑΕΒ acqua-
+
+b. 32. 1. lisb3 angulus igitur ΒΑΕ cst aequalis angulo FAC, ac propterea uter-
+e„ 10.Def. 1. que ipsorum rcftuss. quare in semicirculo ΒΑΕ angulus ΕΑΒ ι’ςςᾟιε est.
+Et
+

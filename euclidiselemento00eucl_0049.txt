@@ -1,0 +1,39 @@
+LIBER PRIMUS. 35
+
+Qoniam igitur in duas reelas lineas BC, EF seua linea AD in-
+cidens alternos angulos EAD, ADC inter se aequales efficit, EF ipsi
+BC parallela erit b. Per datum igitur puncium A datae reftae lineae BC b. 27· 1.
+parallela dueta est reela linea EAF. Q Ε. F,
+
+PROP. XXXII. THEOR.
+
+OMNIS trianguli, uno latere precinere, exterior an-
+
+gulus duobus interioribus et oppositis est aequalis;
+et trianguli tres interiores anguli duobus rectis aequales
+
+sunt.
+
+Sit trIangulum ABC3 et unum ipfius latus BC in D producatur. ’
+’ἀίεο angulum exteriorem ACD duobus interioribus et oppositis ΕΑΒ,
+ABC aequalem effe ; et trianguli tres interiores angulos ABC, BCA,
+ΕΑΒ duobus reffis effe aequales.
+
+Ducatur enim per punctum C ipsi AB reciae lineae parallela ³ CE. a. 31.1.
+ct quoniam AB ipsi CE parallela est, et in ipsas incidit AC, alterni an-
+guli BAC, ACE inter se aequales sunt b. b. 29. ι.’
+rursus quoniam AB parallela est CE, et A
+
+in ipsas incidit ree‘ta linea BD, exterior Ε
+angulus ECD interiori et opposito ΑΒΕ ί ἶ ί
+est aequalis b. ostensus autem est angulus
+
+ACE aequalis angulo BAC 3 quare totus Β O D
+ACD exoerior angulus aequalis est duobus interioribus et oppositis CAB,
+ABC. communis apponatur ACB ; anguli igitur ACD, ACB tribus
+CBA, BAC, ACB aequales sunt. sed anguli ACD, ACB sunt ae-
+quales duobus tensus& ergo et CBA, BAC, ACB duobus reffis suntc· 13. x.
+
+, aequales. Omnis igitur trianguli uno latere produe‘co ἃς. Q E. D.
+E 2 COR. 1.
+

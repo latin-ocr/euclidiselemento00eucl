@@ -1,0 +1,31 @@
+LrssER DUODECIMUS. 301
+
+PROP. VI. THEOR.
+
+PYRAmmr-:s quae eadem sunt altitudine et polygonas
+bases habent, inter se sunt ut bases.
+
+Sint eadem altitudine pyramides, polygonas habentes bases ABCDE,
+FGHKL, vertices autem M, N puncta. Dico ut ABCDE basss ad ba-
+sim FGHKL, ita esse ABCDEM pyramidem ad pyramidem FGHKLN.
+
+Dividatur enim basis quidem ABCDE in triangula ABC, ACD,
+ADE; bafis vero FGHKL in triangnla FGH, FHK, FKL. et super
+unoquoque triangulo intelligantur pyramides quarum quae snper basi-
+bus ABC, ACD, ΑΒΕ vertex communis fit M punctum, reliquarum
+
+ 
+
+vero communis vertex fit pune‘tum N. Qoniam igitur est ut triangu-
+lum ABC ad triangulum FGH, ita ABCM pyramis ad pyramidem
+FGHN2; ut vcro triangulum ACD ad triangulum FGH, ita ACDM a. 5-120
+pyramis ad pyramidem F GHN; et adhuc upADE triangulum ad tri-
+angulum FGH, ita pyramis ADEM ad pyramidem FGHN; erit ut
+omnes antecedentes primi ad communem consequentem, ita omnes an-
+tecedentes reliqui ad consequentem communem¹³3 hoc est erit ut bafis 12.2.c0r.24.5.
+ABCDE ad bafim F GH, ita pyramis ABCDEM ad pyramidem FGHN.
+eademque ratione ut bafis FGHKL ad basim FGH, ita erit pyramis
+FGHKLN ad pyramidem F GHN, et invertendo. Qoniam igitur ut
+
+bafis
+

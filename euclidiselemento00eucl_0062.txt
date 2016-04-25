@@ -1,0 +1,43 @@
+453
+
+b.44. 1.
+
+e.29.1.
+
+EUCLIDIS ELEMENTORUM
+
+applicetur b parallelogrammum aequale triangulo primo ABD, in an-
+gulo dato angulo aequali.
+
+PROP. XLVI. PROB.
+A Data resta linea quadratum describere.
+
+Sit data reeta linea AB; oportet ab ipsa AB quadratum descri-
+bere.
+Ducatur reelae lIneae AB, a punelo A quod in ea est, ad reelos angu-
+
+· ·los ³AC; et ipfi AB aequalis ponatur ΑΗΒ, perque punftum D duca-
+1ltur DE ipfi AB parallelae, et per B ipfi AD parallela dueatur Ε BE.
+
+parallelogrammum igitur est ADEB; quare AB C
+
+. . quidem est aequalis DE d, AD vero ipfi BE d. sed
+
+BA ipfi AD est aequalis5 quatuor igitur BA, D E
+AD, DE, ΕΒ inter se aequales sunt, ideoque
+aequilaterum est ADEB parallelogranmmm. dico
+etiam reelangulum effe; quoniam enim in paral-
+
+lelas AB, DE resta linea incidit AD, anguli BAD, A
+ADE duobus reffis sunt aequales& reelus autem est BAD, ergo et
+ADE reelus erit. parallelogrammorum autem spatiorum, quae ex op-
+pofito sunt latera, et anguli inter se aequalia suntd3 reelus igitur est u-
+terque oppofitorum angulorum ABE, BED; quare reelangulum est
+ADEB. ostensum autem est aequilaterum effe 3 quadratum igitur est,
+atque a reela linea AB descriptum. Q E. F.
+
+COR. Hinc omne parallelogrammum habens unum angulum rec-
+tum est restangulum.
+
+P R ΟΡ. XLVII.
+

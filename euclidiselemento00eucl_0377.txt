@@ -1,0 +1,36 @@
+NOTAE.
+
+praecedenti. quare A non est aequalis ipfi B. pergit demonstratio,
+“ sed neque minor esi A quam B, haberet enim A ad C, minorem ra-
+“ tionem quam B. atqui non habet minorem, non igitur A minor
+“ est quam B’' &‘c. hic dicitur ‘⁴ haberet A ad C, minorem rationem
+“ quam B ad C,” five, quod idem est, haberet B ad C, majorem ratio—
+nem quam A ad C, hoc est, vi Def. 7. Lib. 5. erunt quaedam ipsa-
+rum B, A aeque multiplices, et quaedam ipfius C multiplex tales, ut
+multiplex ipsius B major fit multiplici ipfius C, at multiplex ipsius A
+non major fit eadem multiplici ejusdem C. et ostendendum fuit hoe
+nunquam contingere posse, fi ratio A ad C, major fuerit quam ratio B
+ad C 5 demonstrandum igitur fuit, ln hoc casu multiplicem ipfius A
+semper superare multiplicem ipsius C, fi multiplex ipfius B eandem su-
+peret; hoc enim ostenso, manifestum esset non poffe B ad C, majo-
+rem rationem habere quam A ad C, hoc est non poffe A ad C, rni-
+norem habere rationem quam B ad C. minime autern ostensum est
+hoc in demonstratione propositionis decimae, sed si decima demonstrata
+effet, immediate ex ea deduci poffet; verum sine ejus ope non facile
+idem ostendetur, ut demonstrationem tentanti patebit. quare demon-
+stratio decimae legitima non est. Videtur autem eum qui demon-
+strationem decimae, quaejam habetur, posuit vice ejus quam Eudoxus
+aut Euclides dederat, deceptum fuiffe transferendo id quod manifestum
+quidem est de magnitudinibuS‚ ad rationes, magnitudinem sc. quamvis
+non posse simul majorem et minorem effe alia. Quae eidem aequalia,
+et inter se sunt aequalia, Axioma est maxime evidens, fi de magnitu-
+dinibus intelligatur3 Euclides autem eo non utitur ad ostendendum ra-
+tiones quae eidem rationi sunt eaedem, inter se easdem effe, sed hoc
+explicite demonstrat in Prop. 1 1. Lib. 5. Demonstrationem autem
+decimae quam in textu posuimus eandem effe curn ea Eudoxi aut
+Euclidis vix dubitandum est, cum ex ipsa Definitione majoris ratio-
+
+Z z 2 nis,
+
+363
+

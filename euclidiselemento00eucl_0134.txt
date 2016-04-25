@@ -1,0 +1,40 @@
+120 EucLIDIS ELEMENTORUM
+
+Sit datum quadratum ABCD; oportet circa ABCD quadrarum cir-
+
+culum circmnscribere.
+Jungantur enim AC, BD, quae se invicem secent in E. ct quoniam
+DA est aequalis AB, communis autem AC, duae DA, AC duabus BA,
+AC aequales sunt; et bafis DC est aequalis bafi BC, quare angulus
+a. 8. 1. DAC angulo BAC aequalis erit²¹; angulus igitur DAB bifariam sec-
+tus est reera linea AC. similiter ostendemus unumquemque angulosum
+
+ΑΒΕ, BCD, CDA reffis lineis AC, BD bifariam
+sthum esse. QonIam Igitur angulus DAB angulo A D
+ABC est aequalis, atque est anguli quidem DAB
+dimidium ΕΑΒ, ipfius vero ABC dimidium EBA,
+
+erit et EAB angulus aequalis ipfi EBA ; igitur et B C
+b. 6. x. latus EA lateri ΕΒ est aequale b. similiter vero de-
+
+monstrabimus et utramque reerarum linearum EC, ED utrique EA,
+ΕΒ aequalem effe. Qatuor igitur ree‘tae lineae EA, ΕΒ, EC, ED
+inter se sunt aequales, centro igitur E intervallo autem unius ipsarum
+EA, ΕΒ, EC, ED circulus descriptus etiam per reliqua transibit punRa,
+atque erit circa ABCD quadratum circumscriptus. Circa datum igitur
+quadratum circulus est circumscriptus. Q E. F.
+
+PROP. X. PROB.
+
+ISOSCELES triangulum constituere habens utrumque an-
+gulorum qui sunt ad basim duplum reliqui.
+
+a. 11. 2. Exponatur refta quaedam linea AB, et secetur m C punsto, ita ut
+reflangulum contentum ab AB, BC ‚aequale sit quadrato ex CA³ 3 et
+centro quidem A, intervallo autem AB circulus describatur BDE, ap-
+teturque in BDE circulo reRa linea BD aequalis ipsi AC quae non est
+
+major
+
+-ss—.„-..-.-..-——-..--.-.-.. . „-‡„ 53 ⁴
+

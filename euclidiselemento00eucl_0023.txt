@@ -1,0 +1,41 @@
+LIBERPRIMUs.
+
+Ducatur a punSto A ad B resta linea AB ³, et super ipsa constitua· a. Post. 1,
+tur triangulum aequilaterum DABb3 et producantur in directum ipsis b. 1, 1,
+DA, DB reftae lineae ΑΕ, BF0‚ centroque Β, intervallo autem BC, c. Post. ι,
+circulus CGH describatur d. et rursus d. Post&
+centro D, intervallo DG describatur
+circulus GKL.
+
+Qoniam igitur punctum B cen-
+trum est CGH circuli, erit BC ipsi BG
+aequalis θ. et rursus quoniam D cen—
+trum 'est circuli GKL, erit DL aequa-
+lis DG, quarum DA cst aequalis DB;
+reliqua igitur AL reliquae BG est ae-
+qualis f. ostensa autem est BC aequa— Α f. Ax.3.
+lis ipsi BG. quare utraque ipsarum AL, BC est aequalis rectae BG.
+quae autem eidem aequalia, et inter se sunt aequalia. ergo et rena AL
+aequalis est ipsi BC. *Ad datum igitur punctum A datae rectae lineae
+BC aequalis pofita est AL. Qod facere oportebat.
+
+ 
+
+PROP. III. PROB.
+DATIS duabus rectis lineis inaequalibus, a majore
+
+minori aequalem abscindere.
+
+Sint duae datae rectae inaequales AB et C, quarum major sit AB;
+oportet a majore AB minori C aequalem D
+
+ 
+
+rec‘tam lineam abscindere. Δ
+Ponatur ad punctum A ipsi C aequalis
+recta linea AD²; et centro quidem A, in· Ε Β a. 2· L
+tervallo autern AD describatur circulus
+DEFb. ct quoniam A centrum est DEF F b· Post. 3,
+
+Β circuli,
+

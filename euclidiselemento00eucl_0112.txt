@@ -1,0 +1,39 @@
+EUCLIDIS ELEMENTORUM
+
+angulus igitur qui a'd A angulo qui ad D est aequalis. in aequalibus igi*
+tur circulis &e Q E. D.
+
+PROP. XXVIII. THEO R.
+
+IN aequalibus circulis aequales rectae lineae circumferen-
+
+tias aequales auferunt‚ majorem quidem majori, mino-
+rem vero minori.
+
+Sint aequales circuli ΑΒΕ, DEF, et in ipfis aequales rectae lineae
+
+BC, EF quae circumferentias quidem BAC, EDF majores auferant,
+
+minores vero BGC‚ EHF. dico circumferentiam BAC majorem majori
+EDF, et minorem circumferentiam BGC minori EHF aequalem effe.
+
+a. 1. 3. sumantur enim centra circulorum ²¹ K, L jungamurque ΒΚ, KC, EL,
+LF. et quoniam circuli aequales sunt, erunt et quae ex centris aequaless
+
+A D
+sss cn F
+&G H
+
+duae igitur ΒΚ, KC sunt aequales duabus EL, LF; et basis BC ae-
+ὶ). 8.1. qualis est basi EF, angulus igitur BKC angulo ELF est aequalis ¹³. ae-
+quales autem anguli aequalibus insistunt circumferentiis quando ad cen-
+
+c. 26·3-tra fuerint& circumferentia igitur BGC aequalis est circmnferentiae
+
+EHF; sed et totus ABC circulus tc-ti EDF est aequalis ; reliqua igitur
+
+circumferentia BAC reliquae EDF aequalis crit. ergo in aequalibus cir·
+culis ἃς. Q E. D.
+
+P R O P. XXIX.
+

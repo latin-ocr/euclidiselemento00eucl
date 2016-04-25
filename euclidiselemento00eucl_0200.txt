@@ -1,0 +1,55 @@
+186
+
+g. 13. 1.
+
+h.17.1.
+
+EUCLIDIS ELEMENTORUM
+
+deinceps est AGB major est resto g· atque ostensus est angulus AGB
+aequalis angulo qui ad F 3 angulus igi-
+
+. . . Α.
+tur qui ad F Γεξὶο major est. atqui po- D
+nitur minor refioe quod est absurdum. Aa, ί N
+non est igitur angulus ABC inaequalis Β C E F
+
+angulo DEF ς ergo ipfi est aequalis.
+est autem angulus qui ad A aequalis ei qui ad D3 quare et reliquus
+qui ad C aequalis est reliquo qui ad F. aequiangulum >igitur est tri-
+angulum ABC triangulo DEF.
+
+Sed rursus ponatur uterque angulorum qui ad C, F, non minor
+red'to. Dico rursus et fic triangulum
+
+ABC triangulo DEF aequiangulum esse. A D
+Iisdem enim construffis, smiiliter de· ΔΘ v ί 2
+monstrabimus BC aequalem ipsi BG, an- Β ⁷ C Ε F
+
+gulumque ad C angulo BGC aequalem.
+sed angulus qui ad C non minor est Υεξὶος non est igitur minor rofio
+BGC. quare trianguli BGC duo anguli non sunt duobus reffis mIno-
+res ς quod fieri non potesth 3 ac propterea triangulum ABC triangulo
+DEF aequiangulmn cst, ut In praecedente casu ostensum fuit.
+
+Sit denique alter angulorum ad C, F, A
+
+puta qui ad C, rec‘h183 erit et in hoc casu
+triangulum ABC triangulo DEF acquian- Δ
+gulum. Β G
+
+Si enim non fit, ad restam AB, etad
+
+punfkum in ea Β cbnstituatur angulo DEF A
+
+aequalis angulus ABG ; et, ut in prInio s) Ε Β,
+casu, ostendetur rcffia BG aequalis ipfi BC, C
+
+et angulus BCG angulo BGC 3 est au- Β ζ G
+
+tem angulus BCG refixis, quare et an-
+
+D
+
+ 
+

@@ -1,0 +1,50 @@
+228
+
+a.3.1x.
+
+b.4.11.
+
+c. 3.Def.11.
+
+⁷ EUCLIDIS ELEMENTORUM
+
+PROP. V. THEOR.
+
+SI reRa linea tribus reffls lineis sese tangentibus, in com==
+muni sefflme, ad recffos angulos infistat, tres illae rec-
+tae lineae in uno plano erunt.
+
+Resta linea quaedam AB tribus reffls lineis BC, BD, BE, in tastu
+B, ad re&os angulos infistat; dico BC, BD, BE in uno plano esse.
+
+Non enim, sed fi fieri potest, smt BD, BE quidem in subjeem
+plano, BC vero in sublimi3 et planum per AB, BC producatur ; com-
+munem igitur sefflonem in subjedm plano faciet re8tam lineam³; faciat
+BF. in uno igitur sunt plano per AB, BC duc· Α
+to, tres refme lineae AB, BC, BF. et quoniam
+AB utrique ipsarum BD, BE, ad reFtos an-
+gulos insistit, et duffto per ipsas DB, BE
+plano ad refios angulos erit b. planum autern
+per DB, BE cst subjeetum planum ; ergo B
+AB ad subjeftum planum resta est; quare et. ⁷
+ad omnes reffls lineas ipsam tangentes, quae in eodem plano sunt,
+
+ 
+
+ῐεᾶοε 0 faciet angulos 3 sed ipsam tangit BF in subjefto existens
+plano. Ergo angulus ABF retfms est. ponitur autem et ΑΒΕ angulus
+rec‘h185 aequalis Igitur est anguluslABF angulo ABC, et in codem sunt
+plano, quod fieri non potest. rtha igitur linea BC non est in sublimi ;
+quare tres reftae lIneae BC, BD, BE in uno sunt plano. 52 1g1tur resta
+
+linea ἃς. Q E. D.
+
+PROP. VI. THEOR.
+
+I duae rectae lineae eidem plano ad reffos angulos
+
+fuesint, illae intes se parallelae erunt.
+Duae
+
+ 
+

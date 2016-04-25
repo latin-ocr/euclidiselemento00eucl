@@ -1,0 +1,35 @@
+178 EUCLIDIS ELEMENTORUM
+
+liter sec‘ta fint in punffis D, E, hoc est ut BD ad DA, ita fit CE ad
+
+EA, et jungatur DE. Dico DE ipsi BC parallelam effe.
+Iisdem enim construeris, quoniam est ut BD ad DA, ita CE ad EA;
+c. 1, 6. ut autem BD ad DA, ita est BDE triangulum ad triangulum ADE0;
+et ut CE ad EA, ita CDE triangulum ad triangulum ADE i erit ut
+
+A Α Ev
+B O ΠᾼΕ Β c
+
+gulum ADE. utrumque igitur triangulorum BDE, CDE ad triangu-
+lum ADE eandem habet rationem; quare triangulum BDE triangulo
+e. 9. ς. CDE est aequalee. et sunt super eadem bafi DE; aequalia autem tri-
+f. 39. 1.angula et super cadem bafi constituta etiam in eisdem sunt parallelis&
+
+ergo DE ipfi BC parallela est. Si igitur uni ἃς. Q E. D.
+
+triangulum BDE ad triangulum ADE, ita CDE triangulum ad trian- l
+
+PROP. HI. THEOR.
+
+SI trianguli angulus bifariam secetur, secans autem an-
+
+gulum Υεέὶει linea secet etiam bafim3 basis segmenta
+eandem rationem habebunt, quam reliqua trianguli latera.
+et fi bafis segmenta eandem rationem habeant, quam reli-
+qua trianguli latera3 quae a vertice ad sefflonem ducitur
+rasta linea, trianguli angulum bifariam secabit.
+
+Sit
+
+ 
+

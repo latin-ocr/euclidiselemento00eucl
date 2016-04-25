@@ -1,0 +1,45 @@
+188 EUCLIDIS ELEMENTORUM
+
+inter segmenta basis: et praeterea inter basim et bafis segmentum
+utrumlibet, latus segmento conterminum medium effe proportionale,
+
+b. 4. 6. cst enirn BD ad DA, ut DA ad DCb, in triangulis aequiangulis BDA,
+ADC; et BC ad BA, ut BA ad BD b, in triangulis aequiangulis ABC,
+DBA5 et BC ad CA, ut CA ad CD, ln triangulis aequiangulis ABG,
+DAC.
+
+PROP. IX. PROB.
+
+Α Data recsta linea imperatam partem abscindere.
+
+Sit data reeta linea AB ; oportet ab ipsa AB imperatam partem
+abscindere.
+
+Ducatur a puncto A quaedam rena linea AC, quae cum ipsa AB
+angulum quemlibet contineat·‚ sumaturque in AC quodvis punctum D,
+
+et quam multiplex est AB partis abscindendae, tam
+multiplex fiat AC ipsius AD; deinde jungatur BC, Α
+
+et per D ipsi BC parallela ducatur DE. E ΔΒ
+
+Itaque quoniam uni laterum trianguli ABC, vi-
+a. 2, 6,vdelicet ipfi BC, parallela dueta est ED ; erit ³ ut CD
+b· 18. ς, ad DA, ita BE ad EA; et componendo b, ut CA 1 Χ
+
+ad AD, ita BA ad AE. est autem CA multiplex ip· B C
+
+c. D. ς. fius AD; ergo BA eadem est multiplex ipsius AE c.
+quare quaecunque pars AD est ipsius AC, eadem pars erit AE ipsius
+AB3 est igitur ΑΕ pars a reeta AB abscindenda. a data igitur recta
+linea AB imperata pars abscissa est. Qod facere oportebat.
+
+PROP. X. PROB.
+
+ATAM restam lineam infectam, datae rectae lineae
+
+sectae similiter secare.
+Sit
+
+ 
+

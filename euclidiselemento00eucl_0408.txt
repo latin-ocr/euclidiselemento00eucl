@@ -1,0 +1,43 @@
+394
+
+NOTAE.
+
+Rursus inveniatur alter angulus M talis ut duo ex tribus angulis A,
+B, M reliquo sint majores, quomodocunque sumpti, et etiam duo ex
+tribus C, D, M quomodocunque sumpti smt majores reliquo. ostende-
+tur autem, ut in praemiffis, angulos A, B, M fimul minores effe qua-
+tuor restis, angulosque C, D, M simul minores effe quatuor reffis.
+Constituamr igitur [2 3. 1 1.] angulus solidus ad N contentus angulisv
+planis ONP, PNQ, ONQipfis A, Β, Μ aequalibus, finguli fin-
+gulis, et ope Prop. 26. Lib. 1 1. constituatur ad idem punEkum N in„
+reela linea ΟΝ angulus solidus contentus N
+
+tribus angulis planiS, quorum unus [ιε ,
+
+ipse ONQ aequalis scilicet ipfi M, et re· R
+
+liqui duo QNR, ONR aequales ipfis C, Q&
+D, alter alteri. erit igitur ad punetum N ο ff P
+
+angulus solidus constitutus qui continetur
+
+quatuor angulis planis ONP, PNQ, QNR, ONR ipsis A, Β, C, D
+aequalibus, singuli finguliS. solidos autem angulos, qui praediffls qua-
+tuor angulis planis ad F et N continentur, non esse inter se aequales,
+five non poffe fibi mutuo congruere, patet ex eo quod anguli GFK,
+ONQfive anguli E, M ex construftione fint inaequales, et propterea rec-
+tae GF, FK non poffunt congruere refftis ΟΝ, NQ igitur neque an—
+guli solidi sibi mutuo congruent, et propterea inaequales sunt.
+
+Et quoniam ex tribus datis angulis A, B, C poffunt innumeri an-
+guli inveniri qui eadem efficiunt cum angulo D, et rursus ex ipsis A,
+B, C et D, vel uno quovis ex hisce innumeris, inveniri poffunt alii qui
+eadem praestant cum angulis E vel M, innumeri alii solidi anguli con-
+stitui possunt qui iisdem quatuor angulis planis continentur, qui omnes
+inter se sunt inaequales. Q E. D.
+
+Falluntur igitur Clavius aliique auftores qui afferunt solidos angu-
+los qui aequalibus et iisdem numero planis angulis continentur inter se
+
+aequales
+

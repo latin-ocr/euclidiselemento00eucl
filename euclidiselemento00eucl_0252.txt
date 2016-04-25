@@ -1,0 +1,49 @@
+238
+
+EUCLIDIS ELEMENTORUM
+
+Duo plana parallela AB, CD a plano aliquo EFHG secentur, com·
+munes autem ipsorum seftiones sint EF, GH. Dico EF ips1 GH pa-
+rallelam effe.
+
+Si enim non est parallela, productae EF, GH inter se convenient,
+vel ad partes FH, vel ad partes EG. producantur prius, ut ad partes
+
+ 
+
+FH, et conveniant in K. quoniam igitur K
+
+EFK est in plano AB, et omnia quae in
+
+EFK sumuntur punfta in eodem plano Fsk
+
+erunt ; unum autem punctorum quae sunt Ι “Χ B D
+in EFK est ipsum K punctum3 ergo K Ι
+
+est in plano AB. eadem ratione et K est A C ι
+
+in CD plano. ergo plana AB, CD pro· E G
+
+due‘ta inter se convenient; non conveni-
+
+unt autem, cum parallela ponantur. non igitur EF, GH redae lineae
+productae convenient ad partes FH. suniliter demonstrabimus neque rec-
+tas EF, GH ad partes EG convenire, fi producantur. quae autem, in
+eodem plano, productae neutra ex parte conveniunt parallelae sunt.
+
+Ergo EF ipfi GH est parallela. Si igitur duo plana ἃς. Q E. D.
+PROP. XVII. THEOR.
+
+SI duae reetae lineae a parallelis secentur planis, in ea-
+dem ratione secabuntur.
+
+Duae enim rectae lineae AB, CD a parallelis planis GH, KL, MN
+secentur in punctis A, Ε, B; C, F, D. Dico ut ΑΕ reeta linea ad
+ipsam ΕΒ, ita effe CF ad FD.
+
+Jungantur enim AC, BD, AD, et occurrat AD plano KL in puncto
+X; ct EX, XF jtmgantur. Q1oniam igitur duo plana parallela KL,
+MN a plano EBDX secantur, communes ipsorum seffiones EX, BD
+
+parallelae
+

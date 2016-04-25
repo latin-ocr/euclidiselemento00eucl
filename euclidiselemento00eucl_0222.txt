@@ -1,0 +1,44 @@
+208
+
+EUCLIDIS ELEMENTORUM
+
+‘ Ut sequentes tres Propositiones facilius intelligantur praemittenda
+‘ sunt sequentia.
+
+‘ 1 . Parallelogrammum ad reeiam lineam applicari dicitur, quando
+‘ super reeta illa describitur. Ex. gr. parallelogrammum AC applicari
+‘ dicitur ad rectam AB, quando super AB describitur.
+
+‘ 2. Sed parallelogrammum AE applicari dicitur ad reftam AB defi-
+? ciens figura parallelogramma, quando AD Ε C G
+‘ bafis ipsius ΑΕ minor est resta AB, et ἱ ι Ι l
+‘ propterea parallelogrammum ΑΕ deficit
+‘ ab ipso AC quod super reeta AB describi· A D B F
+‘ tur in eodem angulo, et inter easdem parallelas, figura parallelogram-
+‘ ma DC, quae quidem dicitur defeetus ipsius AE.
+
+‘ 3. Et parallelogrammum AG applicari dicitur ad restam AB, ex-
+
+‘ cedens figura parallelogramma, quando AF basis ipsius AG major
+
+‘ est reeta AB, et propterea AG excedit ipsam AC figura parallelo·
+⁴ gramma BG?
+
+PROP. XXVII. THEOR.
+
+OMNmM parallelogrammorum secundum eandem rec-
+tam lineam applicatorum, et deficientium figuris
+parallelogrammis similibus, et similiter positis ei quae a
+
+‚ dimidia describitur, maximum est quod ad dimidiam est
+
+applicatum, simile existens defeffiui.
+
+Sit retia linea AB, seceturque bifariam in C 3 et ad AB restam li-
+neam applicetur parallelogrammum AD deficiens figura parallelogramma
+CE quae a CB dimidia ipsius AB descripta cst, cui scilicet similis est
+
+AD. Dico omnium parallelogrammoriun ad rectam lineam AB ap-
+
+plicatorum
+

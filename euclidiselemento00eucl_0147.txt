@@ -1,0 +1,44 @@
+LIBER QUINTUS.
+
+secundam, et ratione secundae ad tertiam, et est quam habet tertia
+acl quartam, et ita deinceps usque ad ultimam.
+
+Exemp. gr. smt magnitudines A, B, C, D, prima A habere dicitur ad ul-
+timam D rationem compositam ex ratione ipstus A ad Β, et ratione
+B ad C, et ratione C ad D. vel ratio A ad D dicitur composita effe
+ex rationibus A ad Β, Β ad C, et C ad D.
+
+Si igitur ratio A ad B, cadem fit rationi E ad F; et ratio B ad C,
+eadem fuerit rationi G ad H 3 et ratio C ad D eadem rationi K ad
+L; A ad D habere dicitur rationem compositam ex rationibus quae
+eadem sunt rationibus E ad F, G ad H, et K ad L. idemque in-
+telligitur quando, brevitatis gratia, dicitur A ad D habere rationem
+compositam ex rationibus E ad F, G ad H, et K ad L.
+
+Similiter, fi ratio M acl N eadem fit rationi A ad D, praecedentibus ma-
+nentibus‚ brevitatis gratia, dicitur ratio M ad N eadem effe rationi
+
+compositae ex rationibus E ad F, G ad H, et K ad L.
+XII.
+Homologae magnitudines, in proportionalibuS, dicuntur antecedentes
+quidem antecedentibus, et consequentes consequentibus.
+⁸ Vocabulis sequentibus, apud Geometras veteres designantur modi qui-
+‘ dam mutandi five ordinem, five magnitudinem proportionalium, ita
+
+‘ tamen ut proportionales maneant.'
+XIII.
+
+Εναλλσῖξ, i. e. Permutando 3 hoc vocabulo utuntur quando quatuor
+stmt proportionales, et concluditur esse ut prima ad tertiam, ita se-
+cunda ad quartam 5 ut ostensum est in Prop. 1 6. Libri hujus 5ti.
+
+XIV.
+
+Ανσῖπαλιν, Invertendo; quando quatuor sunt proportionales, et con—
+cluditur effe ut secunda ad primam, ita quarta ad tertiam. Prop. B.
+Lib. 5.
+
+Συνθέντι,
+
+133
+

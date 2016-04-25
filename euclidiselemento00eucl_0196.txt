@@ -1,0 +1,52 @@
+1182
+
+e. 28.1.
+
+f,34. 1.
+
+g. 2.6.
+
+h. 7. ς.
+
+ἱ. 22. 5.
+
+a. 23- 1.
+
+EUCLIDIS ELEMENTORUM
+
+lela Ε. rursus, quoniam aequalis est angulus ACB angulo DEC‚ paral-
+lela erit e AC ipfi FE. parallelogrammum igitur est FACD; ac prop-
+terea AF quidem ipsi CD, AC vero ipsr Ε
+FD est aequalis f. et quoniam uni laterum
+trianguli FBE, videlicet ipfi FE, parallela A
+(lufta est AC ; erit g ut BA ad AF, ita
+BC ad CE. aequalis autem est AF ipfi Β
+CD; ut igitur h BA ad CD, ita BC ad G Ε
+CE; et permutando ut AB ad BC, ita DC ad CE. rursus, quoniam
+CD parallela est BF, erit g ut BC ad CE, ita FD ad DE. sed FD
+est aequalis AC; ergo ut BC ad CE, ita AC ad DE. permutando
+igitur, ut BC ad CA, ita CE ad ED. itaque quoniam ostensum est, ut
+AB ad BC, ita DC ad CE; ut autem BC ad CA, ita CE ad ED;
+erit i ex aequali, ut BA ad AC, ita CD ad DE aequiangulorum igi-
+tur &c. Q E. D. -
+
+D
+
+PROP. V. THEOR.
+
+SI duo triangula latera proportionalia habeant, aequi·
+angula erunt triangula, et aequales habebunt angu-
+los quibus homologa latera subtenduntur.
+
+Sint duo triangula ABC, DEF, quae latera proportionalia habe-
+ant, hoc est, s1t ut AB quidem ad BC, ita DE ad EF 3 ut autem BC
+ad CA, ita EF ad F D3 et propterea ex aequali ut BA ad AC, ita
+ED ad DF. Dico triangulum ABC triangulo DEF aequiangulum
+esse, ct aequales habere angulos quibus homologa latera subtenduntur,
+angulum quidem ABC angulo DEF, angulum vero BCA angulo
+EFD, et praeterea angulum BAC angulo EDF.
+
+Constituatur enim ³ ad reetam lineam EF et ad punt‘ta in ipsa E, F,
+
+angulo
+

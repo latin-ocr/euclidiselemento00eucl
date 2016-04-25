@@ -1,0 +1,34 @@
+408
+
+NOTAE.
+
+ad LG. ut igitur pyramis EABM ad pyramidem LFGN‚ ita pyramis
+EBCM ad pyramidem LGHN. eadem ratione, erit ut pyramis EBCM
+ad ipsam LGHN, ita pyramis ECDN ad LHKN pyramidem. et ut
+unum antecedentium ad unum consequentium, ita omnia antecedentia
+ad omnia consequentia. est igitur, ut pyramis EABM ad pyramidem
+
+ 
+
+LFGN‚ ita tota pyramis ABCDEM ad totam pyramidem FGHKLN.
+Pyramis autem EABM ad pyramidem LFGN triplicatam rationem
+habet ejus quam habet AB ad FG, igitur et tota pyramis habet ad to-
+tam pyramidem triplicatam rationem quam habet AB ad homologum
+
+latus FG. Q E. D.
+PROP. XI, et XII. LIB. XII.
+
+Ordo literarum Alphabeti‚ contra morem Euclidis, non servatur in fi-
+guris harum Propofitionum, quem igitur restituimus. unde et prima pars
+Prop. 1 2¹³¹²¹e iisdem verbis quibus prima pars Prop. 1 1m20, ostendi po-
+test. omiss'a igitur est demonstratio ejus parti8‚ et ex Prop. 1 Ima as-
+sumpta.
+
+Demonstrationes Prop. x 0. et 1 1. a diversis auetoribus saetae vi-
+dentur. Etenim in Prop. 1 0. pyramis super quadratum circulo in-
+scriptum dimidium ostenditur ejus quae super quadratum circumscriptum
+
+erefta
+
+,Ι
+

@@ -1,0 +1,43 @@
+LIBER TERTIUS.
+
+punita F, G producatur; ergo FG diameter est circuli ABC. itaque
+quoniam in FG diametro circuli ABC sump-
+tum est aliquod punctum D quod non est
+centrum circuli, maxima quidem erit DG,
+major autem DC quam DB, etDB quam DA ²¹.
+sed et aequales. quod fieri non potest; non igi-
+tur E centrum est circuli ΑΒΕ. fimiliter osten-
+demus neque aliud punc‘ium centrum effe prae-
+ter ipsum D; est igitur D centrum circuli ABC. fi igitur intra circum
+
+lum ἃς. QE D.
+PROP. X. THEOR.
+
+ 
+
+CIRcULUs circulum in pluribus quam duobus punctis
+non secat. ‘ N. Β. Hoc de ipsorum circumferentiis
+
+³ intelligendum est.'
+
+Si enim fieri potest, circulus ABC circulum DEF secet in pluribus
+punctis quam duobus, nempe in Β, G, F, et cir· A
+
+culi ABC centrum sumatur K, et KB, KG, Α
+KF jungantur. Qoniam igitur intra circulum B QH
+DEF sumptum est aliquod punctum K, ct ab Ε μ )
+ipso K in circumferentiam DEF incidant plu· G, Q ·
+res quam duae rec‘iae lineae aequales KB, KG,
+
+ΚΡ, erit punctum K circuli DEF centrum ἢ. C a.9. 3.
+
+est autem et K circuli ABC centrum3 duorum igitur circulorum qui
+
+sese secant idem est centrum, quod fieri non potestb. quare circulus b, ς. 3.
+
+circulum in pluribus quam duobus punctis non secat. Q E. D.
+
+L PROP. ‚XL
+
+531
+

@@ -1,0 +1,28 @@
+326
+
+EUCLIDIS ELEMENTORUM
+m, LE occurrat in N, o, P, M ; et jungantur MN, ΝΟ, ΟΡ, ΡΜ,
+
+b. 2.6. quae ipfis EF, FG, GH, HE parallelae b et minores erunt; singulae
+
+finguliS. quoniam igitur EH major est MP, erit et AD quam MP
+major, et aequales sunt circuli ABCD, MNOP; major igitur est cir-
+cumferentia AD circumferentia& MP; eadem ratione clrcumferentia
+BC major est ipsssa ΝΟ ; et quoniam rasta AB major est reeh& EF
+quae ipsa MN major est. erit AB quam MN multo major. est igitur
+circumferentia AB major ipsa MN; eademque ratione DC circumfe-
+
+ 
+
+rentia major est ipsa ΡΟ. tota igitur ABCD major est tota circumfe-
+rentia MNOP, sed et aequalis, quod fieri non potest. non igitur mi-
+nor est KA ips-a LE, sed neque aequalis· ReSta igitur KA ips& LE
+necessario est major. Q E. D.
+
+COR. Et fi fuerit triangulum isosceles cujus latera ipfis AD, BC ae-
+qualia sunt, bafis autem minor AB majori ipsarum AB, DC ; fimi-
+liter ostendetur refia KA major eil quae est ex centro circuli circa
+triangulum descripti.
+
+P R O P. XVII.
+

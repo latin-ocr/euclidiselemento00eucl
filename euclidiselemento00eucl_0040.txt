@@ -1,0 +1,46 @@
+26
+
+a.3.1.
+b.Post.3.
+
+eves. 15.
+
+EUCLIDIS ELEMENTORUM
+
+linea DE, terminata quidem ad D, infinita vero ad E; et ponatur ipsi
+quidem A aequalis ²² DF, ipsi vero B aequalis F G, et ipfi C aequalis
+GH; et centro F, intervallo autem FD circulus describatur b DKL.
+rursusque centro G et inter-
+vallo GH alius circulus KLH
+describatur, et jungantur KF,
+KG. dico ex tribus reffls li-
+neis aequalibus ipfis A, B, C, D
+triangulum KFG constitutum
+effe.
+
+Qoniam enim punfkum
+F centrum est DKL circuli,
+erit FD aequalis FK03 sed F D est aequalis reeiae lineae A ; est igitur
+FK aequalis ipfi A. rursus quoniam punffmm G centrum est circuli
+LKH, erit GH aequalis GKc 3 sed GH est aequalis ipfi C 3 igitur et
+GK ipfi C aequalis erit. cst autem et FG aequalis B; tres igitur reftae
+lineae ΚΡ, F G, GK tribus A, Β, C aequales sunt. ex tribus igitur
+reffis lineis KF, F G, GK quae sunt aequales tribus datis reffls lineis
+A, Β, C, triangulum constitutum est KFG. Q Ε. F.
+
+ 
+
+PROP. XXIII. PROB.
+
+AD datam refiam lineam, et ad datum in ea pumstum,
+dato angulo reeiilineo aequalem angulum reetilineum
+constituere.
+
+Sit data quidem ree‘ta linea AB, datum vero in ipsa bunftim] A,
+et datus angulus refiilineus DCE3 oportet ad datam rafiam lineam
+
+AB, ct ad datum in ea punfstum A, dato angulo reffllineo DCE ae-
+qualem angulum reeiilineum constituere.
+
+Sumantur
+

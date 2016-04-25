@@ -1,0 +1,59 @@
+172
+
+EUCLIDIS ELEMENT‘ORUM
+
+A ad B, ita S ad T, et ut C 361 D, ita T ad V, ut vero E ad F, ita
+
+V 361 X. erit igitur, ex Definitione rationis compositae, ratio S ad X
+
+composita ex rationibus S ad T, T 361 V, V ad X, quae scilicet eae-
+
+dem sunt, fingulae fingulis, rationibus A ad B, C ad D, E ad F. fit
+
+etiam ut G ad H, ita Y ad Z, et ut K 361 L, ita Z ad a, ut 'M ad N,
+
+ita 3 361 b, ut O ad P, ita b ad c, et ut Qad R, ita c ad d. est igi-
+
+tur, ex eadem Definitione, ratio Y ad d compofita ex rationibus Y ad
+Z, Ζ 361 3, 3 361 1), b ad c, et c ad d, quae scilicet eaedem sunt, fin·
+gulae singulis, rationibus G ad H, K ad L, M ad N, O ad P, et Q
+361 R. igitur, ex hypothefi, est S ad X, ut Y ad d. praeterea fit ratio A
+ad Β, five ratio S ad T, una sc. ex prioribus eadem rationi e ad g
+quae compofita cst ex rationibus e 361 f, et f ad g, quae eaedem sunt,
+ex hypothefi, rationibus G ad H, et K 361 L ex posterioribus3 fitque ra-
+tio h ad 1 composita ex rationibus h 361 k, et k ad l, quae eaedem sunt
+rationibus reliquis ex prloribus, ipfis sc. C ad D, et E ad F 3 et fit ra-
+tio m ad p composita ex rationibus m ad n, n 361 0, o ad p, quae, fin-
+gulae fingulis, eaedem sunt reliquis ex posterIOribus rationibus, ipfis st.
+
+M ad N, O 361 Ρ, Qad R, crit ratio h 361 l eadem rationi m ad p, five
+
+crit h ad l, ut m ad p.
+
+ 
+
+———-·—---
+
+ 
+
+ 
+
+—qm
+
+—.——.—-—-———--———-.„
+
+h, k, 1.
+A, B3 C, D; E, F. S, T, V, X.
+G, Η, Κ, L; M, N, O, P, Q R. Y, Z, a, b,
+6, f, g. m, n, o, p.
+
+c, 61. q
+
+--—- -ffl———b——ffl—ff——o—*m———ffl
+
+Etenim quoniam est 6 361 f, ut (G 361 H, hoc est ut) Y ad Z5 est
+autem f ad g, ut (K 361 L, hoc est ut) Z 361 3; erit, ex aequali, 6 361
+g, ut Υ ad 3. ct, cx hypothafi, 2st A ad B five S 361 T, ut c 361 g;
+
+quare
+

@@ -1,0 +1,46 @@
+86
+
+a. 20- Ι.
+
+b.5.Def.3.
+
+EUCLIDIS ELEMENTORUM
+
+PROP. XV. THEOR.
+
+IN circulo maxima quidem est diameter3 aliarum vero
+semper propinquior centro remotiore major est3 et quae
+major est, propinquior erit centro minore,
+
+Sit circulus ABCD, cujus diameter AD, centrum vero E: et pro-
+pinquior quidem centro fit BC, remotior autem FG. dico AD maxi-
+mam esse, et BC majorem quam FG.
+
+Ducantur enim a centro ad BC, FG perpendiculares ΕΗ, ΕΚ, et
+ΕΒ, EC, EF jungantur. Quoniam igitur aequalis est AE ipfi ΕΒ, et
+ED ipfi EC, erit AD aequalis ipsis BE, EC. sed
+
+BE, EC majores sunt quam BC ἃ, quare et AD Α B
+quam BC major erit. F
+
+   
+
+Et quoniam BC propinquior est centro, remo-
+tior vero FG, erit ΕΚ major qnam ΕΗ b. est au-
+tem, ut in praecedente ostensum fuit, BC dupla ip· G
+slus BH, et FG dupla ipfius ΕΚ, et quadrata ex
+ΕΗ, ΗΒ aequalia quadratis ex ΕΚ, ΚΕ, quornm
+quadratum ex EH minus est quadrato ex EK, minor enim est ΕΗ {psai
+ΕΚ ; reliquum igitur quadratum ex ΒΗ reliquo ex FK majus erit, quare
+rtha BH major crit ips& ΕΚ ; et propterea BC erit major quam FG.
+
+Sed fit BC major quam FG, erit BC propinquior centro quam Ε G,
+hoc est, iisdem construeris, erit EH minor quam ΕΚ. Quoniam enim
+BC major est quam FG, erit ct ΒΗ major quam ΕΚ. quadrata au-
+tem ex ΒΗ, ΗΕ aequalia sunt quadratis ex ΕΚ, ΚΕ, quornm ex BH
+quadratum quadrato ex ΕΚ est maju3‚ est enim BH maj0r quam ΕΚ,
+reliquum igitur quadratum ex ΕΗ reliquo ex ΕΚ minus erit, et reRa
+iinea ΕΗ minor crit quani ΕΚ. in circulo igitur &o Q E. D.
+
+PROP. XVI.
+

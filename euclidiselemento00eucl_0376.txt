@@ -1,0 +1,40 @@
+362
+
+NOTAE.
+
+vis ipsius ΑΕ, et ΕΒ aeque multipliceS‚ puta duplae ipsarum, ut in hac
+Editione factum est, in qua omnes casus simul demonstrati sunt. ex
+his autem liquet Theonem aut alium non satis Geometriae peritum
+Propofitionem hanc vitiasse.
+
+PROP. IX. LIB. V.
+
+Hujus Propofitionis demonstrationem dedimus magis explicitam e&
+quae in Elementis haetenus habetur.
+
+PROP. X. LIB. V.
+
+Aliam hujus demonstrationem tradere necessarium fuit, ea enim quae
+in Editionibus Graecis et Latinis, aliisque habetur legitima non est.
+verba enim major, eadem five aequalis, minor de magnitudinibus et ra-
+tionibus diverso prorsus sensu dicuntur, ut ex definitione 5ῖῑί et 7tima
+hujus Libri patet. ope igitur harum examinemus demonstrationem
+Propositionis decimae, quae ita procedit. “Habeat enim A ad C ma—
+“ jorem rationem, quam B ad C. dico A quam B majorem esse. s1
+“ enim non est major, vel aequalis est vel minor. aequalis autem non
+“ est A ipfi B, utraque enim ipsarum A, B ad C eandem haberet ra-
+“ tionem3 atque eandem non habet. non igitur A ipfi B est aequa-
+“ lis.” vis hujus ratiocinii haec est, fi fuerit A ad C, ut Β ad C, sump-
+tis ipsarum A, B quibuscunque aeque multiplicibus, et sumpta quavis
+multiplici ipsius C, fi multiplex ipsius A major fuerit multiplici ipsius
+C, erit, vi Definitionis 5. Lib. 5. multiplex ipsiusBmajor eadem mul·
+tiplici ipsius C. sed quoniam, ex hypothesi, A majorem habet rationem
+ad C, quam B ad C, erunt, vi Definitionis 7. Lib. 5. quaedam ipsarum
+A, B aeque multiplices, er quaedam multiplex ipsius C tales, ut mul-
+tiplex ipsius A major fit multiplici ipsius C, at multiplex ipsius B non
+major fit multiplici ejusdcm C. haec autem Propositio directe repugnat
+
+praecedenti.
+
+ 
+

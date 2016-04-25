@@ -1,0 +1,43 @@
+290
+
+241·
+
+EUCLIDIS ELEMENTORUM
+
+Dico ut quadratum ex BD ad quadratum ex FH, ita effe circulum
+ABCD ad EFGH circulum.
+
+Si enim non ita fit, erit ut quadratum ex BD ad quadratum ex
+FH, ita circulus ABCD vel ad spatium aliquod minus circulo EFGH,
+vel ad majus& fit primmn ad minus quod fit S. et in circulo EFGH
+describatur quadratum EFGH. itaque descriptum in circulo quadratum
+majus est dimidio circuli EFGH; quoniam fi per punem E, F, G,
+H contingentes circulum ducamus, erit descripti circa circulum quadrati
+
+ 
+
+‚dimidium quadratum EFGHa 3 circulus autem minor est quadrato circa
+
+circulum descripto; ergo quadratum EFGH majus est dimidio circuli
+EFGH. secentur bifariam circumferentiae EF, FG, GH, HE in punc-
+tis K, L, M, N, et EK, KF, FL, LG, GM, MH, HN, NE jungan- ·
+tur. unumquodque igitur triangulorum EKF, F LG, GMH, HNE ma-
+jus est dimidio segmenti circuli in quo confistit; quoniam fi per punfta
+K, L, Μ, Ν contingentes circulum ducamus, et parallelogramma quae
+sunt super ree‘tis lineis EF, FG, GH, HE complcamus; erit unum-
+quodque t1·iangulorum EKF, FLG, GMH, HNE dimidium parallelo·
+
+³⁸ Est enim quadratum quoddam aequale cir-
+culo ABCD3 fit latus ejusdem P. potest igi'- proportionale, fit hoc S. et fimiliter quaedam
+tur effe quarta proportionalis tribus BD, PH Ι in sequentibus quibusdam Propofitionibus, in—
+et P, quae {it Q Ergo quadrata ex hisce pro· telligenda sunt.
+portionalia sunt3 hoc est, quadratis ex BD,
+
+ 
+
+ 
+
+gramini
+
+FH et circulo ABCD potest existere quartum ⁴
+

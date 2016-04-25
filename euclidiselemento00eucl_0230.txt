@@ -1,0 +1,30 @@
+216 EUCLIDIS ELEMENTORUM
+
+sunt ACE, ACB duobus rectis aequales efficiunt. Ergo BC ipfi ΟΕ
+d.14.1.in directum eritd. Si igitur duo triangula &c. Q E. D.
+
+PROP. XXXIII. ’ THEOR.
+
+IN circulis aequalibus anguli eandem habent rationem
+quam circumferentiae quibus infistunt, five fint ad cen-
+tra, five ad circumferentias. adhuc etiam et sectores.
+
+Sint aequales circuli ΑΒΕ, DEF; et ad centra quidem ipsorum
+G, H sint anguli BGC, EHF, ad circumferentias vero anguli ΒΑΕ,
+EDF. Dico ut circumferentia BC ad EF circumferentiam, ita effe
+et BGC angulum ad angulum F‘IF, et angulum BAC ad angulum
+EDF; ct adhuc sectorem BGC ad EHF se'c'torem.
+
+Ponantur enim circumferentiae quidem BC aequales quotcunque de-
+inceps CK, KL; circumferentiae vero EF, rursus aequales quotcunque
+
+FM, MN ; et jungantur GK, GL, HM, HN. Quoniam igitur circum-
+ferentiae BC, CK, KL inter se sunt aequales, et anguli BGC, CGK,
+a. 27. 3.KGL inter se aequales erunt³. quam multiplex igitur est circumferen-
+tia BL circumferentiae BC, tam multiplex est et BGL angulus anguli
+BGC. eadem ratione et quam multiplex est circumferentia EN cir-
+cumferentiae EF, tam multiplex et EHN angulus anguli EHF. et fi
+
+aequalis est BL circumferentia circumferentiae EN, et angulus BGL
+angulo
+

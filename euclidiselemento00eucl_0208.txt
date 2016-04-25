@@ -1,0 +1,52 @@
+194
+
+a< 11. 1.
+
+b. 7. 5.
+
+EUCLIDIS ELEMENTORUM
+
+Ducanture enim a punctis A, C ipsis AB, CD ad restos angulos
+AG, CH3 ponaturque ipsi quidem F aequalis AG, ipfi vero E acqua-
+lis CH, ct compleantur BG, DH parallelogramma. Qoniam igitur
+est ut AB ad CD, ita E ad' F; est autem E aequalis CH„ et F ipsi
+AG; erit b ut AB ad CD, ita CH ad AG. parallelogrammorum igi-
+tur BG, DH latera, quae sunt circum aequales angulos, reciproce
+proportionalia sunt3 quorum autem aequiangulorum parallelogram-
+
+morum latera‚ quae sunt circum aequales anguIOS, reciproce sunt ἱ
+proportionalia, ea inter se sunt aequalia⁰; ergo parallelogrammum·
+BG aequale est parallelogrammo DH. atque est parallelogrammum,
+
+quidem BG, quod reftiS lineis AB, F
+continetur, etenim AG est aequalis F; ’ H
+parallelogrammum vero DH, quod ⁷
+
+continetur ipsis CD, E, est enim CH G U
+ipsi E aequalis· rectangulum igitur con· U
+tentum reffis AB, F est aequale ei quod
+
+ipsis CD, E continetur. A Β O D
+Sed fit reetangulum contentum rec-
+tis AB, F aequale ei quod ipfis CD, E continetur ; dico quatuor
+rectas lineas. proportionales effe, videlicet ut AB ad CD, ita E
+ad F.
+Iisdem enim constructis, quoniam rectangulum contentum rectis AB,
+F est aequale ei quod CD, E continetur, atque est reetangulum BG
+contentum quidem rectis AB, F, etenim AG est aequalis F 5 conten-
+tum vero ipsis CD, E est reetangulum DH, est enim CH ipsi E ae-
+qualis 3 erit parallelogrammum BG aequale parallelogranuno DH; ct
+sunt aequiangula. aequalium autem et aequiangulorum parallelogram-
+morum latera, quae circum aequales angulos, sunt reciproce proportio-
+
+nalia-⁰. quare ut AB ad CD, ita CH* ad AG,- aequalis autem est CH
+
+11*-
+
+ 
+
+ 
+
+Ε
+*ἰ
+

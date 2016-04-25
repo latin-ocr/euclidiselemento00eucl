@@ -1,0 +1,46 @@
+*LIBER SEXTUS. 201
+
+triangulum ad triangulum LGH, ita triangulum ABE ad triangulum
+
+FGL. Ergo ut triangulum ABE ad triangulum FGL, ita triangulum
+
+EBC ad LGH triangulum, et triangulum ECD ad ipsum LHK. et igi-
+
+tur ut unum antecedentium ad unum consequentium, ita omnia antece-
+
+dentia ad omnia consequentia& Ergo ut triangulum ABE ad triangu- g·12.51²
+lum ,F GL, ita ABCDE polygonum ad polygonum F GHKL 3 sed
+
+ABE triangulum ad triangulum F GL duplicatam rationem habet ejus
+
+quam latus homologum AB habet acl homologum latus F G Ε. Ergo e. 19.6.
+et ABCDE polygonum ad polygonum FGHKL duplicatam rationem
+
+habet ejus quam AB latus homologum habet acl F G homologum la—
+
+tus. Similia igitur polygona &c. Q E. D.
+
+COR. 1. Eodem modo et in similibus quadrilateris et multilateriS
+quibuscunque ostendetur ca cffe' m duplicata ratione laterum homolo-
+gorum. ostensum autem est in trianguliS e. Quare univers& similes figu-
+rae rectilineae sunt in duplicata ratione laterum homologorum.
+
+COR. 2. Et fi ipfis AB, F G tertiam proportionalem sumamus quae
+sit Μ, habebit AB ad M duplicatam rationem ejus quam habet AB
+ad FG h. habet autem et polygonum super AB ad polygonum super h·10-Def.5·
+F G, et quadrilaterum ad quadrilaterum duplicatam rationem ejus quam
+habet latus homologum ad homologum latus, hoc est quam AB ad
+FG. Ergo ut AB ad M, ita est figura super AB acl cam super FG.
+atque ostensum est hoc in triangulis ³. Universa igitur manifestum est, i. cor. 19.6.
+si tres reaae lineae proportionales fuerint, ut prima ad tertiam, ita effe
+figuram rectilineam quac fit a prima ad eam quae a secunda, fimilcm et
+
+fimiliter descriptam.
+
+PROP. XXI. THEOR.
+
+UAE eidem rectilineo sunt fimilia, et inter se fimilia
+
+sunt.
+C c Sit
+

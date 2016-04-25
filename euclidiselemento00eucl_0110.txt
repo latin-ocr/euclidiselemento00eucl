@@ -1,0 +1,34 @@
+<96 EUCLIDIS ELEMENTORUM
+
+minor fuerit ipso BAD, centrum E cadet intra segmentum ABC, quod
+propterea majus erit semicirculo. Circuli igitur segmento dato, descriptus
+est circulus cujus est segmentum. Q E. F.
+
+PROP. XXVI. THEOR.
+
+N aequalibus circulis aequales anguli aequalibus insistunt
+'circumferentii8‚ five ad centra, five ad circumferentias
+insistunt.
+
+Sint aequales circuli ABC, DEF, et in ipfis aequales anguli ad
+centra quidem BGC, EHF, ad circumferentias aurem BAC, EDF.
+dico BKC circumferentiam circumferentiae ELF aequalem effe.
+
+Jungantur enim BC, EF 3 et quoniam aequales sunt ΑΒΕ, DEF
+circuli, erunt et quae ex centris aequales; duae igitur BG, GC dua-
+bus ΕΗ, HF aequales sunt ; et angulus ad G est aequalis angulo ad
+
+ 
+
+2-4· ι, H; basis igitur BC bafi EF cst aequalis ²¹. et quoniam aequalis cst an-
+
+b. 11.Def. 3. gulus ad A angulo ad D, segmentum BAC fimile erit segmento b EDF;
+,ct sunt super aequalibus mstis lincis BC, EF 3 quae autem super ae-
+
+qualibus rec‘tis lineis similia sunt circulorum segmenta, inter se aequalia
+
+e. 24. 3. sunt⁶; segmentum igitur BAC segmento EDF est aequale. sed ct to-
+tus ABC circulus aequalis cst toti DEF, reliquum' igitur segmentum
+
+BKC
+

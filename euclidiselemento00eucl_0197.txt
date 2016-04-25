@@ -1,0 +1,44 @@
+LIBER SEXTUS. 133v
+
+angulo quidem ABC aequalis angulus FEG, angulo autem BCA angu-
+lus EFG. quare reliquus BAC angulus reIIquo EGF est aequalisb 3 ideo· b. 32. 1.
+que aequiangulum cst triangulum ABC triangulo EGF. triangulorum
+igitur ABC, EGF proportionalia sunt latera quae aequalibus angulis
+
+subtendunturc. ergo ut AB ad BC, ita e. 4.6.
+GE ad EF 3 sed ut AB ad BC, ita DE Α Β,
+
+ad EF ς ut igitur DE ad EF, ita GE ad s >
+
+EF d, quare utraque Ipsarum DE, GE is [X ΕΘΓ d. 11. 5.
+ad EF eandem habet proportionem, et B C
+
+propterea DE ipfi GE est aequalise; ' G e.9. ς
+
+eadem ratione et DF aequalis est FG.
+
+itaque quoniam DE est aequalis EG, communis autem EF, duae DE,
+
+EF duabus GE, EF sunt aequales 3 et bafis DF bafi FG est aequalis ;
+angulus igitur DEF est aequalis angulo GEFf‚ et DEF triangulum f.8.1.
+aequale triangulo GEF, et reliqui anguli reliquis angulis aequalesg, qui· g. 4. ιι,
+bus aequalia latera subtenduntur. ergo angulus quidem DFE est ae-
+qualiS angulo GFE, angulus vero EDF angulo EGF. et quoniam an-
+gulus DEF est aequalis angulo GEF, et angulus GEF angulo ABC,
+
+erit et angulus ABC angulo DEF aequalia eadem ratione et angulus
+ACB aequalis est angulo DFE, et adhuc angulus ad A angulo ad D.
+
+ergo ABC triangulum triangulo DEF aequiangulum erit. Si igitur
+
+duo ἃς. QE. D.
+PROP. VI. THEOR.
+
+SI duo triangula unum angulum uni angulo aequalem-
+
+habeant, circa aequales autern angulos latera propor-
+tionalia3 aequiangula erunt triangula, et aequales habe-
+bunt angulos quibus homologa latera subtenduntur.
+
+Sint
+

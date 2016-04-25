@@ -1,0 +1,42 @@
+94
+
+EUCLIDIS ELEMENTORUM
+
+linea, duo circulorum segmenta, similia, et fibi mutuo non congruentia,
+ex eadem parte constituentur. Q E. D.
+
+PROP. XXIV. THEOR.
+
+SUPER nequalibus rectis lineis fimilia circulorum seg-
+menta mter se aequaha sunt.
+
+Sint enim super aequalibus rectis lincis AB, CD fimssia circulorum
+segmenta ΑΕΒ, CF D; dico segmentum ΑΕΒ segmento CF D aequale
+
+effe.
+Applicato enim segmento ΑΕΒ segmento CFD, et posito quidem
+
+puneto A in C, reeta vero linea AB super CD, congruet et B punftum
+E F
+
+QQ
+
+Α BC D
+
+puncto D, propterea quod AB ipsl CD fit aequalis. non igitur, con-
+gruente reeta linea AB ipfi CD, non congruet segmentum ΑΕΒ seg-
+a. 23. 3. mento CFD ³. congruet igitur et ipfi aequale erit. fi1per aequalibus
+
+igitur rectis lineis &c. Q E. D.
+
+PROP. XXV. PROB.
+
+CIRcum segmento dato describere circulum cujus est
+segmentum.
+
+Sit datum circuli segmentum ABC; oportet describere circulum cu·
+
+jus ABC cst segmentum.
+a. 10. t. secetur AC bist-riam ²¹ in D, et a puncto D ipfi AC ad reftos an-
+gulos
+

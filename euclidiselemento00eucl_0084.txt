@@ -1,0 +1,32 @@
+5⁹1
+
+EUCLIDIS ELEMENTORUM
+
+EUCLIDIS
+
+ELEMENTORUM
+
+LIBER TERTIUS.
+
+DEFINITIONES.
+
+I.
+EQUALES circuli sunt, quorum diametri sunt aequaleS, vel
+quorum quae ex centris sunt aequales.
+‘ Haec non est definitio sed Theorema cujus veritas patet ; fi enim
+‘ circuti, quorum quae ex centris sunt aequaleS, fibi mutuo applicentur
+‘ ita ut centra eorum congruant, congruent et ipfi circuli?
+ΙΙ.
+Rcsta linea cisculum contingere dicitur, xx
+N
+
+quae tangens circulum et produ6‘ta ip· f—x„
+sum non secat. >
+
+III. Q
+
+Circuli contingere sese dicuntur, qui tan-
+
+gentes se mutuo, seipsos non secant.
+In
+

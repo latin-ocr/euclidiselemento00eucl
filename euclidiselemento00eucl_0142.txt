@@ -1,0 +1,52 @@
+128
+
+a.5.1.
+
+b. 32.1.
+
+c.13.1.
+
+d.15.1.
+
+e. 26. 3.
+
+f. 29. 3.
+
+EUCLIDIS ELEMENTORUM
+
+Qoniam enim G punctum centrum est ABCDEF circuli, erit GE
+{psl GD aequalis. rursus quoniam D centrum est circuli EGCH, erit
+DE aequalis DG 3 sed GE. ipfi GD aequalis ostensa est, ergo GE ipfi
+ED est acqualis3 aequilaterum igitur est EGD triangulum, ideoque tres
+ipsius anguli EGD, GDE, DEG inter se aequales sunt, quoniam tri-
+angulorum isoscelium anguli acl basim sunt inter se aequales ². et sunt tri-
+anguli tres anguli aequales duobus rectis¹⁸5 angulus igitur EGD duorum
+rectorum tertia pars est. similiter ostendetur et DGC duorum rectorum
+tertia pars. et quoniam recta linea GC super rec‘tam ΕΒ insistens an-
+gulos qui· deinceps sunt EGC, CGB duobus A
+rectis aequales efficit Ε, erit reliquus CGB tertia ⁷
+pars duorum rectorum3 anguli igitur EGD,
+DGC, CGB inter se sunt aequales. et qui ipfis
+ad verticem sunt anguli BGA, AGF, FGE
+aequales sunt ipfis EGD, DGC, CGB d. sex
+igitur anguli EGD, DGQCGB, BGA, AGF,
+FGE inter se aequales sunt. sed aequales an-
+
+ 
+
+guli aequalibus circumferentiis insistunt& sex
+igitur circumferentiae AB, BC, CD, DE, EF, H
+
+FA inter se sunt aequales. aequales autem circiunfeicntias aequales
+reciae lineae subtenduntf; ergo et sex rectae lineae inter se aequales
+sunt. aequilaterum igitur est ABCDEF hexagonum. Dico et acqui-
+angulum effe. quoniam enim circumferentia AF circumferentiae ED
+est aequaliS‚ communis apponatur circumferentia ABCD; tota igitur
+FABCD circiunfcrentia aequalis cst toti circumferentiae EDCBA. et
+circmnfcrentiae quidem FABCD angulus FED insiliit, circumferentiae
+vero EDCBA insistit angulus AFE; angulus igitur AFE ipsi DEF
+est aequalis. similiter ostendentur et reliqui auguli hexagoni ABCDEF
+sigillatim aequales utrique ipson-un ALE, DEF. aequiangulum igitur
+
+est
+

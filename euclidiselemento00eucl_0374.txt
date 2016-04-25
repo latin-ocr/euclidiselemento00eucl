@@ -1,0 +1,49 @@
+360
+
+NOTAE.
+
+PROP. B. LIB. V.
+
+Haec etiam ex Definitione 5²²² facile fluit, quare post praecedentem
+merito locatur. ineptissime enim pofita fuit ut Corollarium Prop. 4.
+Lib. hujus. Vid. Notam ad Cor. ejus Prop.
+
+PROP. C. LIB. V.
+
+Propositio haec saepius a Geometris usurpatur, et necessaria est
+Prop. 5tae ct 6tae Lib. 1 0. Clavius in notis post Def. 8. Lib. 5. eam,
+in numeris tantum, ostendit ope quarundam Propofitionum Libri 7. ut
+sc. Definitionem 5. Lib. 5. quatenus numeris congruit, ex ea numero-
+rum proportionalium quae habetur in Def. 20. Lib. 7. demonstret,
+plerique autem Commentatores existimant difficile effe ostendere qua-
+tuor magnitudines quae proportionales sunt secundum Def. 2 o. Lib. 7.
+proportionales quoquc csse secundum Def. 5. Lib. 5. Verum hoc fa-
+cile ut sequitur ostendi potest.
+
+1n]o‚ Sint A, B, C, D quatuor magnitudines quarum prima A ae-
+que multiplex, vel cadem pars est secundae Β, ac tertia C quartae D;
+erunt A, B, C, D proportionales. Demonstratur hoc in Prop. C.
+
+ado, Si fuerit prima AB eaedem partes secundae CD, ac tertia EF
+quartae GH 5 crit et in hoc casu AB ad CD, ut F
+EF ad GH. Β H
+
+Sit CK pars ipsius CD, et GL cadem pars ip· Ι
+slus GH3 ct fit AB aeque multiplex CK, atque Is
+EF ipsius GL. Ergo per Prop. C. Lib. 5. est AB l
+ad CK, ut EF ad GL. sunt autem CD, GH acque A& C E G
+multiplices ipsarum CK, GL; quare per Cor. Prop. 4. Lib. 5. est AB
+ad CD, ut EF ad GH.
+
+D
+
+K
+
+ 
+
+ 
+
+ 
+
+PROP. D.
+

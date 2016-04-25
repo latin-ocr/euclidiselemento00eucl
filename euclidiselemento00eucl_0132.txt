@@ -1,0 +1,53 @@
+118
+
+a. 17. 3.
+b. 18.
+
+c. 28.
+
+d.34.1.
+
+EUCLIDIS ELEMENTORUM
+
+P ROP. VI-I. PROB.
+CI R C A datum circulum quadratum circumscribere.
+
+Sit datus circulus ABCD; oportet circa ABCD circulum quadratum
+circumscribere. λ
+
+Ducantur circuli ABCD duae diametri AC, BD ad rcCtOS inter se
+angulos, et per puncta A, B, C, D ducantur circulum ABCD contin—
+gentes ³ F G, GH, HK, KF. Qoniam igitur FG contingit clrcu-
+lum ABCD, a centro autem E ad tactum qui est ad A dueta est EA,
+
+3.erunt anguli ad A reffib. eadem ratione et anguli ad puncta B, C, D
+
+recti sunt. et quoniam angulus ΑΕΒ Γεξῖυς est, est autem et scetus EBG,
+
+1· erit GH ipsi AC parallelae. cadem ratione, ct G. Α F
+
+AC parallela est ipsi FK. similiter ostendemus
+et utramque Ipsarum GF, HK Ipsi BED paral· ι, Ε
+
+lelam effe. parallelogramma igitur suut GK, Β D
+GC, ΑΚ, FB, ΒΚ 3 aequalis ‘¹ igitur est GF qui-
+dem ipfi HK, GH vero ipfi FK. et quoniam ‘
+
+AC aequalis est BD, sed AC quidem utrique H C K
+ipsarum -GH, FK est aequalis; BD vero aequalis utrique GF,HK; e-
+rit et utraque GH, FK utrique GF, HK aequalis. aequilaterum igi-
+tur est FGHK quadrilateriun. Dico et rotstangulum effc; quoniam e-
+nim parallelogrammum est GBEA, atque cst rectus ΑΕΒ angulus, rec-
+
+tUS d
+
+erit ct AGB. similiter ostendemus angulos etiam ad H, K, F
+tetros effe. rectaugulum igitur est quadrilaterum FGHK. ostensum
+autem est aequilaterum; quadratum igitur est ; et circumscriptum est
+
+circa ABCD circulum. circa datum igitur circulum quadratum circum-
+
+scriptum est. Q E. F.
+
+PROP. vui. ff
+

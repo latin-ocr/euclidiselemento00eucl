@@ -1,0 +1,47 @@
+LIBER SEXTUS.
+
+PROP. XXXII„ THEOR.
+
+SI cluo triangula, quae duo latera duobus lateribus pro-
+portionalia habent, componantur ad unum angulum,
+
+ita ut homologa latera ipsorum fint parallela 3 reliqua tri-
+
+angulorum latera in direfftum fibi invicem erunt.
+
+Sint duo trIangula ABC, DCE quae duo latera BA, AC duobus
+lateribus CD, DE proportionalia habeant, sc„ fit ut BA ad AC, ita CD
+ad DE; parallela autem fit AB ipsi DC, et AC ipsi DE. Dico BC
+ipsi CE in direftum effe. c»
+
+Qoniam enim AB parallela est DC, et in ipsas incidit reeta linea
+
+215
+
+AC, emnt anguli alterni BAC, ACD aequales inter se³; eadem ratione a. 29. 1.
+
+et angulus CDE aequalis est angulo ACD; quare et BAC ipsi CDE
+est aequali& et quoniam duo triangula sunt ABC, DCE, unum an-
+gulum ad A uni ad D aequalem ha-
+
+bentia, circum aequales autem angu- Α
+
+los latera proportionalia, scilicet BA D
+ad AC, ut CD ad DE ; erit triangu-
+
+lum ΑΒΕ triangulo DCE aequiangu- x
+
+lum b. Ergo ABC angulus est aequalis B C Ε b. 6. 6.
+
+angulo DCE. ostensus autem est et angulus BAC aequalis angulo
+ACD. totus igitur ACE duobus ABC, BAC est aequalis. communis
+apponatur ACB3 ergo anguli ACE, ACB angulis ABG, BAC, ACB
+aequales sunt. sed ΑΒΕ, BAC, ACB anguli duobus reffls sunt aequa-
+les⁰; et anguli igitur ACE, ACB duobus renis aequales erunt. itaque
+ad quandam rafiam lineam AC, ct ad punstum in ipsa C, duae reetae
+
+lineae BC, CE non ad casdem partes positae, angulos qni deinceps
+sunt
+
+c.32.1.,
+

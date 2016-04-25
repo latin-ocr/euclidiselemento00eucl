@@ -1,0 +1,44 @@
+324
+
+a. 16. 3.
+
+b. Lemma.
+
+EUCLIDIS ELEMENTORUM
+
+PROP. XVI. THEOR.
+
+UAssUs circulis circa idem centrum existentibu8‚ in
+
+majori polygonum aequalium laterum, quorumque
+numerus par sit, describere, quod minorem circulum non
+attingat. -
+
+Sint dati duo circuli ABCD, EFGH circa idem centrum K. opor-
+tet in majori circulo polygonum aequalium laterum quorum numerus
+fit par, describere, non attingens minorem clrculum.
+
+Ducatur per K centrum rena linea BD, atque a puneto G ipsi BD
+ad renos angulos ducatur GA, et ad C producatur ; continget igitur AC
+circulum EFGH2. itaque circumferentiam
+BAD bifariam secantes, et ejus dimidium
+rursus bifariam, et hoc semper facientes, tan-
+
+ 
+  
+
+dem relinquemus circumferentiam minorem Β Ε
+ipsa AD b. relinquatur fitque LD3 et a
+puncto L ad BD perpendicularis agatur LM,
+et ad N producatur 3 junganturque'LD, DN.
+
+-aequalis igitur ‘³ est LD ipsi DN, et quoniam LN parallela est ipfi AC,
+'et AC contingit circulum EFGH 3 ipsa LN circulum EFGH non tan-
+
+get. et multo minus tangent circulum EFGH redae lineae LD, DN.
+quod fi ipsi LD aequales deinceps circulo ΑΒΕ D aptabimiffi, describe-
+tur in eo polygonum aequalium er numero parium laterum non attin-
+gens minorem circulum. Q E. F.
+
+LEMMA Π.
+

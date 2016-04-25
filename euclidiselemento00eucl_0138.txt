@@ -1,0 +1,48 @@
+'124
+
+e.8. 1.
+
+f. 27. 3.
+
+5· 26.1.
+
+EUCLIDIS ELEMENTORUM
+
+ex FB est aequale3 reliquum igitur quadratum ex CK reliquo ex RK
+aequale erit3 aequalis igitur est ΒΚ ipfi CK. et quoniam FB est ae-
+qualis FC, communis autem FK, duae BF, FK duabus CF, FK ae-
+quales sunt3 et bafis ΒΚ est aequalis bafi KC; angulus igitur BFK an-
+gulo KFC est aequalis‘³‚ angulus vero BKF angulo FKC. duplus igi-
+tur est BFC anguli KFC, et BKC duplus ipfius FKC. eadem ratione et
+angulus CFD ipfius CFL est duplus, CLD vero duplus anguli CLF.
+et quoniam circumferentia BC circumferentiae CD est aequalis, erit et
+angulus BFC aequalis ipfi CFD f. atque est BFC quidem anguli KFC
+duplus, CFD vero duplus ipsius CFL; aequalis igitur est angulus KF C
+ipfi CFL; est autem et reuus F CK Υεξὶο G
+
+FCL aequalis. itaque duo trIangula sunt
+FKC, FLC duos angulos duobus angulis
+aequales habentia, alterum alten, et unum H
+
+latus uni lateri aequale ipfis commune FC B
+quod aequalibus adjacet angulis; ergo et
+
+    
+
+reliqua latera reliquis lateribus aequalia ha· K C L
+belmunt, et reliquum angulum reliquo an-
+
+gulo aequalemg. refta igitur linea KC est aequalis ipfi CL, angulus
+vcro F KC angulo FLC. et quoniam KC cst aequalis CL, erit KL ip-
+fius KC dupla. eadem ratione ct HK ipfius RK dupla ostendetur. et
+quoniam ΒΚ ostensa est aequalis ipfi KC, atque est KL quidem dupla
+KC, HK vero ipsius ΒΚ dupla, erit HK ipfi KL aequalis. similiter et
+unaquaeque ipsarum GH, GM, ML ostendetur aequalis utrique HK,
+KL. aequilaterum igitur est GHKLM pentagonum. Dico et aequian-
+gqum effe. Qoniam enim angulus FKC est aequalis ipfi F LC, et os-
+tensus cst* angulus HKL duplus ipsius FKC, Ipfius vero FLC duplus
+KLM, erit et HKL ipfi KLM acqmlis. 'fimiliter ostendetur et unus-
+quisque ipsorum KHG, HGM, GML unique HKL, KLM aequalis.
+
+quinque
+

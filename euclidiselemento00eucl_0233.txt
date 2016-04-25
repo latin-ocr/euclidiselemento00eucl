@@ -1,0 +1,42 @@
+LIBER SEXTUS. 219
+
+multiplicIa, circumferentia EN et EHN seston atque ostensum est {i
+BL circumferentia superat circumferentiam EN, et sectorem BGL su-
+perare sectorem EHN; et fi aequalis, aequalem essess et si minor mino-
+rem. est igitur ut BC circumferentia ad circumferentiam EF, ita senor
+
+BGC ad EHF sectorem.
+
+PROP. Β. THEOR.
+
+SI trianguli angulus bifariam secetur, secans autem an-
+gulum rec‘ta linea secet etiam bafim3 rediangulum a
+lateribus trianguli contentum, aequale erit reclangulo con-
+tento a segmentis bafis una cum quadrato rec‘tae lineae
+quae angulum bifariam secat.
+
+Sit ABC triangulum, et bifariam secetur angulus BAC reeta linea
+AD ς erit reclangulum BA, AC aequale reclangulo BDC una cum
+
+quadrato ex AD.
+Circa triangulum describatur ³ circulus ACB, et producatur AD ad a. ς. 4-
+
+circumferentiam In E, et jungatur EC. igitur Α
+
+quoniam angulus BAD aequalis est angulo x
+
+CAE, et angulus ABD angulo ¹³ AEC, sunt A b.21.3.
+enim in eodem segmento 3 erunt ABD, AEC B ,C
+triangula inter se aequiangula. Ergo ut BA ad
+
+AD, ita est ⁶ EA ad AC, et reclangulum BA, 1 c. 4- 6.
+AC aequale erit d reclangulo EA, AD, hoc Ε d. 15, 6.
+est Ε rcelangulo ED, DA una cum quadrato e. 3, 2,
+
+ex AD. est autern restangulum ΕΙ), DA aequale f restangulo BD, DC. f. 3 ς. 3.
+restangulum igitur BA, AC aequale est reclangulo BD, DC una cum
+
+quadrato ex AD. Qare fi trianguli ἃς. Q E. D.
+
+Ee 2 PROPu C,
+

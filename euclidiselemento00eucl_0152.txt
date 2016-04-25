@@ -1,0 +1,45 @@
+138
+
+2. 2. 5.
+
+EUCLIDIS ELEMENTORUM
+
+ct sumantur ipsarum A, C, aeque multiplices, EF, GH. Dico EF ae- .
+que multiplicem effe ipsius B, ac GH ipsius D.
+
+Quoniam enim EF aeque multiplex est ipfius A, ac GH ipsius
+C; quot magnitudines sunt in EF aequales A, tot erunt et in GH ae-
+quales C. dividatur EF quidem in magnitudines ipsi A aequales ΕΚ,
+KF; GH vero in magnitudines aequa· F H
+les C videlicet GL, LH; erit igitur ip- Ι
+sarum ΕΚ, KF, multitudo aequalis
+multitudini ipsarum GL, LH. et quo-
+niam aeque multiplex est A ipsius Β K
+ac C ipsius D, aequalis autem EK ipfi
+A, et GL ips1 C; erit EK aeque mul- '
+tiplex ipsius B, ac GL ipsius D. ea· l 1
+dem ratione aeque multiplex erit KF Ε Α Β G C D
+ipsius B, ac LH ipsius D ; et similiter fi plures fint partes in EF, GH
+ipsis A, C aequales. quoniam igitur prima ΕΚ secundae B aeque mul—
+tiplex est, ac tertia GL quartae D; est autem et quinta KF secundae
+B aeque multiplex ac sexta LH quartae D; erit et prima una cum
+quinta sc. ipsa EF secundae B aeque multiplexst, ac tertia cum sexta
+sc. GH quartae D. fi igitur prima &c. Q E. D.
+
+ 
+
+ 
+
+PROP. IV. THEOR.
+
+SI prima ad secundam eandem habet rationem quam
+
+tertia ad quartam3 et aeque multiplices primae et
+tertiae ad aeque multiplices secundae et quartae, juxta
+quamvis multiplicationem, eandem tationem habebunt,
+inter se comparatae.
+
+Prima enim A ad secundam B eandem rationem habeat quam ter· ⁷
+
+tia
+

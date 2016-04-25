@@ -1,0 +1,39 @@
+LIBER SECUNDUS. <35
+
+PROP. XI. PROB.
+DATAM rtham lineam secare ita ut restangulurn a
+
+tota et altera parte contentum, aequale fit quadrato
+ex reliqua parte.
+
+Sit data resta lInea AB; oportet {psam AB ita secare, ut ret‘htngu-
+hjm contentum a tota et altera parte aequale fit quadrato ex reliqua
+parte.
+
+Describatur enim ex AB quadratum ³ ABDC, seceturque AC bifa- ι. 46. ι.
+riam b in E, et BE jungatur, et producatur CA in F, ponaturque ipfi b. 10.1.
+BE aequalis EF ⁰, et exAF describatur quadratum FGHA³‚ et GH ad c· 3· ¹·
+K producatur. dico AB sestam esse in H, ita
+ut restangulum ab AB, BH contentum aequale
+fit quadrato ex AH.
+
+Qoniam enim reeta linea AC bifariam stha
+estin E, et ipfi in direfium adjefta est AF,
+rez‘hngulum a CF, FA contentum, una cum
+quadrato ex AE, aequale erit quadrato ex EF d.
+sed EF est aequalis ΕΒ ; restangulum igitur
+contentum ab ipfis CF, FA, una cum quadrato
+ex ΑΕ aequale est quadrato ex ΕΒ. quadrato
+autem ex ΕΒ aequalia sunt quadrata ex BA, AE e, etenim angulus ad 247· ι,
+
+ 
+
+A restus est; ergo redtangulum a CF, F A, una cum quadrato ex ΑΕ
+aequale est quadratis ex BA, AE. commune auferatur quadratum ex
+AE3 refiquum igitur rthangulum a CF , FA contentum aequale est
+quadrato ex AB. et FK quidem est rec‘tangulum a CF, FA conten-
+tum, aequalis enim est AF ipfi F G ; AD vero est quadratum ex AB.
+aequale igitur est F K ipfi AD. commune auferatur ΑΚ ; crgo reliquum
+
+I FH
+

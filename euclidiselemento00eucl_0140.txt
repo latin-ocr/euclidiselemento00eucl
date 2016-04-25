@@ -1,0 +1,48 @@
+3-126
+
+d. 26 1
+
+.c. 16. 3.
+
+2.9.1.
+
+‘EUCL I‘DIS ELEMENTORUM
+
+KCF, est autem et reftus FHC recto FKC aequalis ; erunt duo tri-
+angula FHC, FKC duos angulos duobus angulis aequales habentia, et
+unum latus commune utrisque, viz. FC, quod uni aequalium angulo-
+ium subtenditur3 ergo et reliqua latera reliquis lateribus aequalia habe—
+buntd· perpendicularis igitur ΡΗ perpendi·
+culari FK est aequalis. similiter ostendetur
+et unaquaeque ipsarum FL, FM, FG aequa-
+lis utrique ΡΗ, FK; quinque igitur reetae B
+
+‚lineae FG, FH, FK, F L ΡΜ inter se ae-
+
+ 
+
+unius ipsarum FG, ΡΗ, ΡΚ, FL, ΡΜ cir-
+culus descriptus etiam per reliqua transibit
+puncia, et mestas lineas AB, BC, CD‚ DE,
+EA continget, propterea quod anguli ad G, H, K, L, M refti sunt;
+quae enim ab extremitate diametri circuli ad refftos angulos diametro du-
+citur circulum contingit& circulum igitur contingit unaquaeque ipsarum
+AB, BC, CD, DE, EA, atque erit circulus in pentagono ABCDE i-n-
+scriptus. In dato igitur pentagono aequilatero et aequiangulo circulus
+
+inscriptus est. Q E. F.
+
+PROP. XIV. PROB.
+
+CIRCA datum pentagonum aequilaterum et aequi-
+angulum circulum circumscribere.
+
+Sit datum pentagonum aequilaterum et aequiangultml ABCDE; o-
+portet circa pentagonum ABCDE circulum circumscribere.
+
+Secctur uterque angulorum BCD, CDE bifariam ³ rectis lineis CF,
+FD, et a puncto F in quo conveniunt rectae lineae, ad puncta B, A,
+Ε ducantur FB, ΡΑ, F E. similiter ut in antecedente ostendetur unum-
+
+quemque
+

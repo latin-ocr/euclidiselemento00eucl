@@ -1,0 +1,44 @@
+384
+
+35·3·
+
+NOTAE.
+
+Ducantur AE, BF ad rectos angulos ipfi AB, et ad contrarias ejus
+partes, quarum AE aequalis fit ipfi C, et BF rectae D. jungatur EF
+et bifariam secetur in G, centroque G, intervallo GE describatur cir-
+culus, occurratque rectae ΑΕ rursus in H,
+et jungatur HF, et ad AB ducatur GL
+parallela ipsi AE; occurrat vero circulus
+rectae AB productae in M, N, et super
+BN describatur quadratum NBOP, et com-
+pleatur rectangulum ANPQ Qoniam igi- ’ X
+tur angulus EHF in semicirculo aequalis
+est angulo recto EAB, parallelae erunt AB,
+HF ; aequales igitur sunt AH, BF, et reclangulum EA, AH aequale
+reclangulo EA, BF, hoc est ipfi C, D rectangulo. et quoniam aequales
+sunt ML, LN, ut et AL, LB, erunt et MA, BN aequales, et prop-
+terea reciangulum AN, NB aequale est ipfi MA, AN, hoc est ²¹ ipsi
+EA, AH five rectangulo C, D. reciangulum igitur AN, NB, hoc est
+ipsum ΑΡ aequale est rectangulo C, D. ad datam igitur rectam AB
+
+ 
+
+dato reftangulo C, D aequale reetangulum ΑΡ applicatum est, excedens
+quadrato BP. Qiod facere oportebat.
+
+Constructiones has 3³³³. et 4⁶. Problematis primus, quantum scio, de-
+dit Willcbrordus Snellius in Apollonio suo Batavo, et postea Cl. Hal-
+leius in Schol. ad Prop. 1 8. Lib. 8⁸i Conicorum Apollonii, a se re-
+stituti. ¹
+
+Problcma 3. ita aliter enuntiatur, datam restam AB secare in puncto
+N, ct facere rectangulum a segmentis AN, NB aequale dato spatio. vel,
+quod eodem redit, Data summa AB laterum rectanguli, datoque rcc-
+tangulo magnitudine, latera invenire.
+
+Et Problema 4. idem est cum hoc, invenire in data resta AB pro-
+ducta ptmc'tum N quod faciet rectangulum AN, NB aequale dato spa-
+
+uo,
+

@@ -1,0 +1,36 @@
+184 EUCLIDIS ELEMENTORUM
+
+Sint duo triangula ABC, DEF, unum angulum BAC uni angulo
+EDF aequalem habentia, circa aequales autem angulos latera propor-
+tionalia, videlicet ut BA ad AC, ita s1t ED ad DF. dico triangulum
+ABC triangulo DEF aequiangulum esse, et angulum quidem ABC ha-
+bere aequalem angulo DEF, angulum vero ACB angulo DFE.
+n· 23· 1· Constituamr ³ enim ad reflam lineam DF, et ad punem in ipsa D,
+F, alterutri angulomm BAC, EDF, aequalis angulus FDG‚ angulo au-
+tem ACB aequalis DFG. reliquus igi- A
+
+tur qui ad B reliquo qui ad G est ae-
+b.32.1.qualisb. ergo triangulum ABC trian- D ’ G
+gulo DGF aequiangulum est 3 ac prop-
+C·4-6· terea ut BA ad AC, ita est ‘- GD ad N
+DF. ponitur autem et ut BA ad AC, Β C Ε ’ Γ
+ita ED ad DF; ut igitur ED ad DF,
+d·e¹¹· ⁵·ita GD ad DFd; quare ED aequalis est ipfi DGe3 et communis DF ;
+·9· S'ergo duae ΕΙ), DF duabus GD, DF aequales sunt, et angulus EDF 1
+f. 4· 1· angulo GDF est aequalis3 bafis igitur EF est f aequalis basi FG, triangu- 1
+lumque EDF triangulo GDF, et reliqui anguli reliquis angulis aequa· Ι
+les, alter alteri, quibus aequalia latera subtenduntur. angulus igitur 1
+DFG est aequalis angulo DF E; angulus vero ad G angulo ad E. sed l
+angulus DFG aequalis est angulo ACB; angulus igitur ΑΕΒ angulo ’
+DFE est aequalis. ponitur autem et BAC angulus aequalis angulo l
+EDF; ergo et reliquus qui ad B aequalis est reliquo ad E. aequian- ἓ
+gulum igitur est triangulum ΑΒΕ triangulo DEF. Qare fi duo tri· l*
+j
+¹:
+
+angula &c. Q E. D.
+
+,l
+
+PROP. V11. ³
+

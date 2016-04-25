@@ -1,0 +1,41 @@
+‚28 EUCLIDIS ELEMENTORUM
+
+a. 23. 1.angulo BAC aequalis angulus EDGa3 ponatu'rque alterutri ipsarum
+b· 3· 1· AC, DF aequalis DG Ῑξ et EG, GF jungantur.
+
+Itaque quoniam AB quidem est aequalis DE, AC vero ipsi DG,
+
+duae BA, AC duabus ΕΙ), DG aequales sunt, altera alteri 5 et angu-
+
+lus BAC est aequalis angulo EDG; A D ·
+bafis igitur BC bafi EG cst ae-
+c.4.1. qualisC. rursus quoniam aequalis
+est DG ipfi DF, est angulus DFG
+d. 5. 1. angulo DGF aequalisd 3 major au-
+tem est angulus DG F angulo B C E G
+EGF, crit itaque DFG angulus Ε ”
+
+angulo EGF major 5 multo igitur major est EFG angulus ipso EGF.
+ct quoniam triangulum est EFG angulum EF G majorem habens an-
+e.19· 1- gulo EGF, majori autem angulo latus majus subtenditur& e'rit latus
+
+EG latere ΕΡ majus, sed EG latus est aequale lateri BC ,- crgo et BC
+ipso EF majus erit. fi igitur duo triangula &a Q E. D.
+
+PROP. XXV. THEOR.
+
+SI duo triangula duo latera duobus lateribus aequalia
+λ habeant, alterum alteri, bafim vero bafi majorem3 et:
+angulum angulo, qui aequalibus lateribus contineam) ma-
+jorem habebunt.
+
+Sint duo triangula ABC, DEF, quae duo latera AB, AC duobus
+lateribus DE, DF aequalia habeant, alterum alteri, videlicet latus AB
+aequale lateri DE, ct latus AC lateri DF; bafis autem BC bafi EF
+fit major. dico, ct angulum BAC angulo EDF majorem effe.
+
+Si enim non est major, vel aequalis est vel minor. aequalis autem
+non est angulus BAC angmjo EDF, effct enim et bafis BC bafi ΕΡ
+
+aequalis Ἰ.
+

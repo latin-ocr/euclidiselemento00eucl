@@ -1,0 +1,43 @@
+230
+
+EUCLIDIS ELEMENTORUM
+
+PROP. VII. THEOR.
+
+SI duae restae lineae parallelae fint, sumantur autem
+
+in utraque ipsarum quaelibet pun8ta3 quae dieta
+punem conjungit resta in eodem erit plano in quo et
+parallelae.
+
+Sint duae redae lineae parallelae AB, CD, ct in utraque ipsarum
+sumantur quaelibet puntsta E, F; dico reCIam lineam quae conjun-
+
+git E, F in eodem plano effe in quo sunt Α Ε Β
+parallelae. ἵ
+Non enirn sed, fi fieri potest, fit in su· H G·
+blimi, ut EGF; et in plano ABCD, in v
+quo sunt parallelae, ducatur a punfto E ad C F D
+
+F reeta linea EHF; et reeta ponitur EGF.
+Ergo duae redae lineae EHF, EGF spatium continebunt, quod fieri
+
+a. 10.AX· 1. non potest ²². non igitur quae a pum‘Io Ε ad F ducitur reeta linea In
+
+sublimi est, quare erit in plano quod per AB, CD parallelas tranfit.
+Si igitur duae restae &c. Q E. D.
+
+PROP. VIII. THEOR.
+
+Ι duae reetae lineae parallelae fint, altera autem ip-
+sarum plano alicui fit ad restos angulos3 et reliqua
+eidem plano ad reetos angulos erit.
+
+Sint duae reetae lineae parallelae AB, CD, ct altera ipsarum AB
+subje&0 plan'o sit ad redos angulos. Dico reliquam CD eidem plano
+
+ad reftos angulos effe.
+
+Occurrant enim AB, CD subjeeto plano in punffis B, D, et BD
+jungatur.
+

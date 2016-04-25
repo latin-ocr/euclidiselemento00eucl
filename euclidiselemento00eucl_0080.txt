@@ -1,0 +1,45 @@
+66
+
+ι. 12. 1.
+
+. tangulo bis ab ipfis BC, CD contento ι). com-
+
+EUCLIDIS ELEMENTORUM
+
+FH reliquo HD est aequale. et est HD quidem reetangulum ab AB,
+BH, est enim AB aequalis ipsi BD; FH vero est quadratum ex AH.
+reetangulum igitur contentum ab AB, BH quadrato ex AH aequale
+erit. quare data reela linea AB festa cst in H, ita ut contentum ab
+
+AB, BH reetangulum quadrato ex AH fit aequale. Q E. F.
+
+PROP. XII. THEOR.
+
+IN obtusangulis triangulis quadratum ex latere obtusum
+angulum subtendente, majus est quam quadrata ex la-
+teribus obtusum angulum continentibus, reetangulo con-
+tento bis ab uno laterum quae sunt circa obtusum an·
+gulum in quod produ6tum perpendicularis cadit, et reeta
+
+linea intercepta exterius a perpendiculari ad angulum ob·
+tusum.
+
+Sit obtufimgulum triangulum ABC, obtusum angulum habens ACB,
+et ducatur a pune'to A ad BC produstam perpendicularis ³ AD. dico
+quadratum ex AB majus effe quam quadrata A
+
+ex AC, CB, reelangulo bis a BC, CD con-
+tento. ’
+Qoniam enim reeta linea BD seeta est
+utcunque in punem C, erit quadratum ex
+BD aequale quadratis ex BC, CD, et rec· B C D
+
+mune apponatur quadratum ex DA; quadrata igitur ex BD, DA ae-
+quafia sunt et quadratis ex BC, CD, DA, et restangulo bis a BC, CD-
+contenta sed quadratis quidem ex BD, DA aequale est quadratmn ex
+
+t· 47- 1BAC, ree'tus enim cst angulus ad D ,· quadratis vero ex CD, DA ae-
+
+quale est quadratum cx CA ς. Qadratum igitur ex BA aequale est et
+quadratis
+

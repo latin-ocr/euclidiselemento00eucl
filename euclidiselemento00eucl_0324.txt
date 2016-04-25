@@ -1,0 +1,40 @@
+310 EUCLIDIS ELEMENTORUM
+
+jus cst quam dimidium ABCD circuli. et a quadrato ABCD erigatur
+pyramiS, verticem habens eundem quem conus 3 pyramis igitur cresta
+major est quam coni dimidium. quoniam, ut ante demonstravimus, fi
+circa circulum quadratum describatur, erit quadratum ABCD dimidium
+ejus quod circa circulum descriPtum est; et fi a quadratis erigantur so-
+lida parallelepipeda acque alta cono, quae et piismata sunt, erit quod a
+quadrato ABCD erigitur dimidium ejus quod erestum est a quadrato
+ι 32· 11 circa ci1culum descripto; etenim inter se sunt ut bascsss· ,quare et ter-
+tiae partes ipsarum. pyramis igitur cujus basis quadi-anim ABCD, di-
+midia est ejus pyramidis quae a quadrato circa circulum descripto eri·
+gitur. sed pyramis ered‘ta a quadrato descripto
+circa circulum major est con0, ipsam namque
+comprehendit ; ergo pyramis cujus bafis
+ABCD quadratum, vertex autem idem qui
+coni major est quam coni dimidium. secen-
+tur circumferentiae AB, BC, CD, DA bifa-
+riam in punffis E, F, G, H, et jungantur
+ΑΕ, ΕΒ, BF, FC, CG, GD, DH, HA. et
+unumquodque igitur triangulorum] AER, BFC, CGD, DHA majus cst
+quam dimidium portionis circuli in qua consistit. erigantur ab uno-
+quoque triangulorum ΑΕΒ, BFC, CGD, DHA pyramides verticem
+habentes eundem quem conus. Ergo unaquaeque pyramidum hoc
+
+ 
+
+modo crefftarurn major cst quam dimidium portionis coni quac est ad
+
+ipsam, quod eodem modo ostendetur, quo simile ostensum fuit de pris-
+
+matibus ct segmentis cylindri. itaque reliquas circumferentias secantes
+bifariam, -jungcntesquc rcc‘ras lineas, et ab unoquoque triangulorum eri-
+
+gentes pyramides verticem habentes cundem quem coum, ct hoc semper
+facientes, relinquemus tandem quasdam coni portiones quae minores
+
+ς. Lemma. erunt excessu quo conus tertiam cylindri partem superat C. relinquantur,
+¹5!
+

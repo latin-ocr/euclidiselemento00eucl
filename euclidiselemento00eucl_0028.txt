@@ -1,0 +1,49 @@
+ιιι·
+
+’ gulo BCD, quare FDC angulus major est an-
+
+EUCLIDIS ELEMENTORUM
+
+multo major erit. rursus quoniam CB est aequalis ipfi DB, et angu-
+
+θος· 1· lus BDC aequalis ³ erit angulo BCD; ostensus autem est ipso major ;
+
+quod fieri non potest.
+
+Sed fit alterutrius trianguli vertex, puta D, intra reliquum triangu-
+lum ACB; quoniam igitur AC est aequalis ipsi
+AD, erunt anguli ECD, FDC sub bafi inter se
+
+aequales³; cst autem angulus ECD major an-
+
+gulo BCD;.multo igitur angulus BDC major est
+angulo BCD. rursus quoniam CB aequalis est :x Β
+ipsi DB, erit angulus BDC aequalis angulo BCD ²¹ ; l
+
+ostensus autem est BDC angulus eodem BCD major. quod fieri non
+
+potest. casus autem in quo vertex unius trianguli cadit in latus alter-
+utrum reliqui demonstratione non eget.
+
+ 
+
+Non igitur super eadem basi, et ad easdem ejus partes constituentur
+duo triangula, quae habent ct latera quae ad altermn basis terminum,
+et ea quae ad reliquum terminum dueta sunt, inter se aequalia. QE. D.
+
+PROP. VIII„ THEOR.
+
+SI duo triangula duo latera duobus lateribus aequalia
+habeant, alterum alteri, habeant autem et baslm bafi
+
+aequalem3 angulum quoque, qui aequalibus lateribus con-
+tinetur, angulo aequalem habebunt.
+
+- Sint duo triangula ΑΒΕ, DEF quae duo latera AB, AC duobus
+lateribus DE, DF aequalia habeant, alterum alteri, AB quidem aequale
+DE, AC vcro ipfi DF 5 habeant autem et basim BC basi EF aequa-
+
+lem. dico anguium quoque BAC angulo EDF aequalem effe.
+Triangulo enim AB'C applicato ipsi DEF triangulo, ct punRO qui—
+dem
+

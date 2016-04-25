@@ -1,0 +1,57 @@
+150
+
+b. Ax.4. ς.
+
+a. 5. Def. 5.
+
+EUCLIDIS ELEMENTORUM
+
+que ipsarum Β, A quaedam aeque multiplices E, D, ita ut F superet E,
+non vero superet ipsam D. est igitur E minor quam D; et, quoniam
+
+E, D ipsarum Β, A sunt aeque multipliceS, erit b B minor quam A.
+ad eandem igitur &a Q E. D.·
+
+PROP. XI. THEOR.
+
+UAE eidem eaedem sunt rationes, et inter se eae-
+dem sunt.
+
+Sint enim ut A ad Β, ita C ad D ; ut autem C ad D, ita E ad
+F. Dico ut A ad B, ita E ad F.
+
+sumantur enim ipsamm quidem A, C, E aeque multiplices quaevis
+G, H, K; ipsarum vero Β, D, F aliae utcunque aeque multiplices, L,
+M, N. Quoniam igitur est ut A ad Β, ita C ad D, et sumptae sunt
+ipsarum A, C aeque multiplices G, H ; et ipsarum Β, D aliae aeque
+
+ 
+
+ 
+
+ 
+
+ 
+
+multiplices L, M; si G superat L, et H ipsam M superabit2¹3 et fi ae-
+G H K
+A e--- C E —····
+ss--- 12-ss 12-ae-
+L M N
+
+ 
+
+ 
+
+ 
+
+qualis, aequali83 ct fi minor, minor. rursus quoniam cst ut C ad D, ita
+E ad F, et sumptae sunt ipsarum C, E aeque multiplices H, K; Ipsarum
+vero D, F aliae aeque multiplices M, N, sl H superat M, et K ipsam
+N superabit ²¹3 ct fi aequalis, acqualis5 ct ss minor, minor. sed fi G
+superat L, ostensum est H superare M; ct fi aequaliS, aequalis ; et fi
+minor, minor; quare fi G superat L, et K ipsam N superabit ; et fi
+aequalis, aequalis; et si minor, minor. et sunt G, K quidem ipsarum
+
+A‚E
+

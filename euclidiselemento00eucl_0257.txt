@@ -1,0 +1,57 @@
+ 
+
+ 
+
+LIBER UNDECIMUS. 243
+
+ABQACD, ADB tres anguli sunt aequales duobus restis, erunt trium
+triangulorum ¹novem anguli CBA, BAC, ACB, ACD, CDA, DAC,
+ADB, DBA, BAD aequales sex rectis. quorum sex anguli CBA, ACB,
+ACD, CDA, ADB, DBA duobus reffis sunt majores. reliqui igitur
+tres anguli BAC, CAD, DAB, qui solidum continent angulum, qua-
+tuor ree'tis minores sunt.
+
+Sed fit solidus angulus ad A contentus quotcunque planis angulis
+ΒΑΕ, CAD, DAE, EAF, FAB; erunt hi omnes simul minores qua-
+tuor restis.
+
+Occurrat planum aliquod planis in quibus sunt anguli, sintque com-
+munes ejus senioncs cum hisce planis rectae BC, CD, DE, EF, FB.
+Qoniam igitur solidus angulus ad B, tribus planis angulis CBA, ABF ‚
+FBC continetur, duo quilibet reliquo majores
+sunt³; anguli igitur CBA, ABF, angulo FBC
+
+Α
+<fix
+sunt majores. eadem ratione et duo anguli plani s s XX
+ad unumquodque ex punftis C, D, E, F, qui an- Β β-ί l ΧᾉἘ,
+s *x l
+
+a· 20. ΙΙ,
+
+guli sunt ad bases triangulorum quorum ver-
+
+tex communis est A, majores sunt reliquo an—
+
+gulo ad idem punfftum, qui scilicet est angulus C 4 f E
+
+polygoni BCDEF. Omnes igitur anguli qui sunt Ι)
+
+ad bases triangulorum simul majores fiint omni-
+
+bus polygoni angulis. Quoniam vero omnes anguli triangulorum fimul
+
+aequales sunt bis tot reffls quot sunt triangula b, hoc est quot sunt la· b. 32.1.
+tera polygoni BCDEF; omnes autem anguli polygoni una cum quatuor
+
+rectis aequales etiam sunt bis tot renis quot sunt polygoni laterac;C·I.Cor.32.h
+
+ 
+
+erunt onmes triangulorum anguli aequales omnibus angulis polygoni
+una cum quatuor renis. Omnes vero anguli ad bases triangulorum ma-
+jores ostensi sunt omnibus polygoni angulis. Ergo triangulorum reliqui
+anguli, quibus scilicet solidus angulus ad A continetur minores sunt
+
+H h 2⁴ quatuor
+

@@ -1,0 +1,35 @@
+304 EUCLIDIS ELEMENTORUM
+
+PROP. VIII. THEOR.
+
+SIMUAES pyramides quae triangulares bases habent, in
+triplicata sunt ratione homologorum laterum.
+
+Sint similes et fimiliter positae pyramides, quarum bases quidem
+triangula ABC, DEF, vertices autem G, H puncta. Dico ABCG py-
+ramidem ad pyramidem DEFH, triplicatam rationem habere ejus quam
+
+BC habet ad latus homologum EF.
+Compleantur enim parallelogramma ABCM‚ GBCN, ABGK, et so-
+
+lidum parallelepipedum BGML quod hisce planis, ipsisque oppositis
+
+continetur. fimiliter compleatur solidum parallelepipedum EHPO con-
+tentum tribus parallelogrammis DEFP, HEFR, DEHX, ipsisque op-
+
+Κ L
+
+G NXHO
+A* νζ
+
+positis. et quoniam pyramis ABCG similis est pyramidi DEFH‚ erit
+a.11.1:›es.11.angulus ABC angulo DEF aequalis³¹, angulusque GBC aequalis angulo
+HEF, et angulus ABG angulo DEH. atque est ut AB ad BC, ita
+b· 1.Def.6. DE ad EF b, hoc est circum aequales angulos latera sunt proportio-
+nalia; parallelogrannnum igitur ΒΜ parallelogrammo ΕΡ simile erit.
+eadem ratione et parallelogrammum BN simile est parallelogrammo
+ER, et ΒΚ ipsi EX. tria igitur parallelogramma ΒΜ, BN, ΒΚ tribus
+
+ΕΡ, ER, EX sunt similia. sed tria quidem EM, BN, ΒΚ tribus op-
+positis
+

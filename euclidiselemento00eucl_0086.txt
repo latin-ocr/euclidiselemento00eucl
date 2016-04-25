@@ -1,0 +1,37 @@
+72 'EUCLIDIS ELEMENTORUM
+
+Similia circulorum segmenta sunt, quae an- &R
+gulos capiunt aequales, vel 111 quibus {R ὲ
+
+anguli sunt mter se aequales.
+
+PROP. I. PROB.
+
+DATI circuli centrum invenire.
+
+Sit datus circulus ABC; oportet circuli ABC centrum invenire.
+Ducatur in ipso quaedam resta linea AB utcunque, et 111 puncto D bi-
+2.10.1.fariam secetur³‚ a puncto autem D ipfi AB ad 166105 angulos ducatur
+b. 11.1.DC‚b‚ et ad E producatur, et secetur CE bifariam ’m F. dico punc-
+tum F centrum esse circuli ABC.
+Non enim; sed fi fieri potest fit G centrum, et jungantur GA, GD,
+(ΞΒ. itaque quoniam DA est aequalis DB, communis autem DG, e-
+runt duae AD, DG duabus BD, DG aequales, c
+altera alteri, et bafis GA aequalis est basi GB,
+sunt enim ex centro G; angulus igitur ADG
+εἰ,8 1 angulo GDB est aequalisc. cum autem reeta li-
+nea super rectam lineam infistens angulos dqui
+d. 10 0.eD f χ, deinceps sunt aequales mter se 1“666111,16ἑ1113(1 611 A
+uterque aequalitun angulorum; ergo angulus Ε
+
+  
+
+GDB est rectus. sed et reetus est FDB; ae-
+
+qualis igitur est angulus FDB angulo GDB, major minori, quod fieri
+non potest. quare G non est circuli ABC centrum. similiter ostende-
+mus neque aliud esse praeter ipsum F. ergo F centrum est circuli· ABC.
+
+Qod erat inveniendum.
+COR.
+

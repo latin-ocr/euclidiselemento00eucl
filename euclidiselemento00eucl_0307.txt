@@ -1,0 +1,40 @@
+LIBER DUODECIMUS. 293
+
+PROP. III. THEOR.
+OMNJS pyramis triangularem habens basim dividitur
+
+in duas pyramides aequales et slmiles inter se, quae
+triangulares bases habent, similesque toti3 et in duo pris-
+mata aequalia, quae quidem prismata dimidio totius py-
+ramidis sunt majora,
+
+Sit pyramis cujus basis quidem ABC triangulum, vertex autem pune-
+tum D. Dico pyramidem ABCD dividi in duas pyramides aequales
+et similes inter sc, triangulares bases habentes, et similes toti 3 et in
+duo prismata aequalia ; et duo prismata dimidio totius pyramidis effe
+majora.
+
+Seccntur enim AB, BC, CA, AD, DB, DC bifariam in punieris E,
+F, G, H, K, L, et EH, EG, GH, HK, KL, LH, ΕΚ, KF, FG
+
+“ jungantur. Qioniam igitur ΑΕ quidem est ae· D
+
+qualis ΕΒ, ΑΗ vero ipsi HD, erit HE ipsi Dss
+parallela ³. eadem ratione et HK est parallela ipsi
+AB. parallelogrammum igitur est HEBK; quare
+HK est aequalis ΕΒ b. sed ΕΒ ipsi AE est ae-
+qualis ; ergo et AE ipfi HK aequalis erit. est
+autem et AH aequalis HD; duae igitur EA, AH
+duabus KH, HD aequales sunt, altera alteri; et
+angulus EAH aequalis angulo KHD0; basis igi-
+tur ΕΗ basi KD est aequalis, ct triangulum AEH
+aequale d ct simile triangulo HKD. eadem ra· d·4· ι,
+
+ 
+
+tione ct triangulum AGH triangulo HLD aequale est et simile. ct
+quoniam duae reelac lineae ΕΗ, HG sese tangentes duabus reffls li-
+neis sese tangentibus RD, DL parallelae sunt, non autem in eodem.
+
+Plano)
+

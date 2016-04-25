@@ -1,0 +1,44 @@
+180
+
+a.31.x.
+
+b. 29. 1.
+
+EUCLIDIS ELEMENTORUM
+
+PROP. A. THEOR.
+
+SI trianguli, uno latere produeto, angulus exterior bifa-
+riam secetur, secans autem angulum recta linea secet
+etiam basim produ<stam3 basis productae segmenta inter
+secantem et basis terminos eandem rationem habebunt,
+quam reliqua trianguli latera. et fi basis produciae seg-
+menta eandem habeant rationem quam reliqua trianguli la-
+tera, quae a vertice ad sectionem ducitur recta linea, tri-
+anguli angulum exteriorem bifariam secabit.
+
+Sit triangulum ABC, et reela AD bifariam secet angulum tri-anguli
+exteriorem CAE, et basi BC productae occurrat in D. erit ut BD ad
+DC, ita BA ad AC.
+
+Ducatm· ³ enim per C reeta CF parallela ipsi AD. Qoniam igi-
+tur in parallelas AD, FC incidit reeta linea AC, erit b ACF angulus
+angulo alterno CAD aequalis. sed CAD
+angulus ponitur aequalis angulo DAE; A s
+ergo ct angulus DAE ipfi ACF angulo p ’ AN
+aequalis crit. Rursus quoniam in paral· ί χ s ἶ
+lelas AD, FC reeta linea FAE incidit, B C D
+exterior angulus DAE aequalis est b in-
+
+teriori et opposito CFA. ostensus autem est ct angulus ACF angulo r
+
+DAE aequalis ergo et ACF ipsi CFA aequalis erit, et propterea la-
+
+c. 6- 1- tus AF aequale lateri ACC. et quoniam uni laterum trianguli BCF,
+6-2 -·6 vid lice t ipsi FC, parallela dufta est AD3 erit d ut BD ad DC, ita BA
+
+ad AF; a: qualis autem est AF ῑμῖ ⁴AC3 est Igitur ut BD ad DC, ita
+
+Β A ad AC.
+Sit
+

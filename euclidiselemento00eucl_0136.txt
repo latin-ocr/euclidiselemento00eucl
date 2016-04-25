@@ -1,0 +1,38 @@
+122 EUCLIDIS ELEMENTORUM
+
+est ABD, habens utrumque angulorum qui sunt ad basim BD duplum
+reliqui. Q E. F.
+
+PROP. XI. PROB.
+
+IN dato circulo pentagonum aequilaterum et aequiangu=
+lum inscribere.
+
+Sit datus cisculus ABCDE; oportet in ABCDE circulo pentagoe·
+num aequilaterum et aequiangulum inscribere.
+Exponatur triangulum isosceles FGH habens unumque angulorum
+ι. 10.4. ad G, H duplum anguli ad F ³; et inscribatur in circulo ABCDE tri-
+b. 2. 4. angulo FGH aequiangulum triangulum b ACD‚ ita ut angulo quidem
+ad F aequalis fit CAD3 utrique vero ipsorum ad G, H, fit aequalis
+uterque ACD, CDA; et uterque igitur ipsorum ACD, CDA anguli
+²· 9· 1·CAD est duplus. secetur uterque ACD‚ CDA bifariam ς scetis lineis
+CE, DB, ct AB, BC, DE, EA jungantur.
+Quoniam igitur uterque angulorum ACD, CDA duplus est ipsius
+CAD, et sceti sunt bifariam reetis lineis CE, DB 3 quinque anguli DAC,
+ACE, ECD, CDB, BDA inter se sunt Α
+
+aequales. aequales autem anguli aequa· F Ὗ
+
+d. 26. 3. libus circumferentiis insistuntd ; quin- B
+que igitur circumferentiae AB, BC, CD, ἴ ‘j
+DE, EAaequales sunt inter se. sed ae—
+
+quales circumferentias aequales senae li- D
+
+e. 29. 3. neae subtendunte 3 ergo et quinque renae G H ’
+lineae AB, BC, CD, DE, EA inter se aequales sunt. aequilaterum igi-
+tur est ABCDE pentagonum. Dico et aequiangulum esse. Qioniam
+enim circumferentia AB aequalis est circumferentiae DE, communiS ap-
+ponatur BCD; tota igitur ABCD circumferentia toti EDCB est ae-
+qualis.
+

@@ -1,0 +1,32 @@
+278
+
+ἱ. ι3.ιι.
+
+EUCLIDIS ELEMENTORUM
+
+Corollarii alia Demonstratio.
+
+Sint duo anguli plani BAC, EDF inter se aequaleS, et reftae subli-
+mes et aequales AH, DM, cum ipsis BA, AC, et ED, DF aequales
+contineant angulos, alterum alteri, angulum scilicet HAB angulo MDE,
+et angulum HAC angulo MDF aequalem3 et ad plana BAC, EDF
+ducantur perpendiculares HK, MN; erit HK ipfi MN aequalis.
+
+Quoniam enim angulus solidus ad A contentus est tribus angulis
+planis BAC, BAH, HAC qui, singuli finguliS‚ sunt aequales tribus an-
+
+A D
+(sq A&
+Eg ssu} E {TV N
+
+gulis planis EDF, EDM, MDF quibus continetur angulus solidus ad
+D3 erunt anguli solidi ad A et D inter se aequales, et fibi mutuo con-
+gruent3 scilicet fi planus angulus BAC applicetur plano angulo EDF,
+congruet rena ΑΗ rectae DM, ut ostensum fuit in Prop. B. hujus Li-
+bri. et quoniam AH aequalis est ipsi DM, punemm H congruet punfto
+M. quare perpendicularis HK ad planum BAC congruet ³ perpendi-
+culari MN ad planum EDF, quia haec plana fibi mutuo congruunt.
+aequalis igitur est HK rectae MN. Q E. D.
+
+P R Ο Ρ. XXXVI.
+

@@ -1,0 +1,49 @@
+252
+2.A.11.
+b.8.Ax.1.
+
+EUCLIDIS ELEMENTORUM
+
+mum applicato plano angulo CAD ipsi F BG, punCto quidem A posito -
+in B, reeh} vero linea AC in ipsa BF3 reeta AD congruet rectae BG,
+quod angulus CAD aequalis sit angulo
+
+FBG. quoniam vero inclinatio plani CAE st B
+ad planum CAD aequalis est inclinatIOni
+plani FBH ad planum PBG-³, et congruit C END FQG
+
+planum CAD plano FBG, congruet et
+
+planum CAE plano FBH; ac propterea reeta linea AE congruet ipfi
+BH, qula scilicet angulus CAE est aequalis angulo FBH. et ostensa est
+refta AD congruere ipfi BG; quare planum EAD congruit plano
+HBG. Ergo solidus angulus ad A congruit solido angulo ad B, et 1112
+ter se sunt aequales b. Q E. D.
+
+PROP. C. THEOR.
+
+SOLIDAE figurae quae continentur planis similibus, mul-
+titudine et magnitudine aequalibus, et similiter pofi-
+tis, quarumque nullus angulus solidus pluribus quam tri-
+
+bus planis angulis continetur, sunt inter se aequales et fi*
+miles.
+
+Sint AG, KQ figurae solidae quae continentur planis similibus,
+
+multitudine et magnitudine ae· H G R Q
+qualibus, et similiter positis 3 fit· E Ι ¹ P· <
+que planum AC simile et ae· Γ- F Ε
+
+quale plano KM; planum AF D — N “
+
+ipsi KP; BG ipfi LQ GD ipsi ‘A Β K L
+
+(21:⁸13 DE ipsi NO; ct ΡΗ de-
+nique simile et aequale ipsi PR. Erit figura solida AG aequalis et fir*
+milis ipsi KQ
+
+Quoniam
+
+ 
+

@@ -1,0 +1,46 @@
+a. ²0·3·
+
+a.32.1.
+
+EUCLIDIS ELEMENTORUM
+
+Sit circulus ABCD, et in eodem segmento BAED anguli fint BAD,
+BED; dico eos inter se aequales effe. A
+
+Sumatur enim circuli ABCD centrum, fitque V Ε
+F. et primo, fit BAED segmentum majus semi-
+circulo, et jungantur BF, F D. et quoniam an-
+gulus quidem BFD est ad centrum, angulus vero B Α D
+BAD ad circumferentiam, et circumferentiam v
+
+eandem BCD pro bafi habent, erit BFD angu- C
+lus anguli BAD duplus ⁵¹. eadem ratione angulus BFD duplus est etiam
+anguli BED. angulus igitur BAD angulo BED aequalis erit.
+
+Sit vero segmentum BAED non majus semicirculo, et in ipso fint
+anguli BAD, BED, erunt hi inter se aequales. A Ε
+
+ad centrum enim F ducatur AF, et producatur “N
+ad C, et CE jungatur. segmentum igitur BAEC Β Δ μ D
+majus est semicirculo, quare anguli in eo BAC,
+
+BEC sunt inter se aequales, eadem ratione ae· ,
+quales inter se sunt anguli CAD, CED. totus ὴ
+
+igitur angulus BAD toti BED est aequalis in ⁷ C
+
+circulo igitur qui in eodem segmento sunt anguli, inter se aequales sunt²
+
+QE. D.
+PROP. xxn. THEOR.
+
+UADRILATERORUM quae in circulis sunt, anguli op-
+pofiti sunt duobus¹ reffis aequales.
+
+Sit circulus ABCD, et in ipso quadrilaterum ABCD 5 dico angulos
+ipsius oppositos duobus reelis aequales esse.
+Jungantur AC, BD; quoniam igitur omnis trianguli tres anguli
+
+duobus seclis sunt aequales ³, erunt trianguli ABC tres anguli CAR,
+ABG,
+

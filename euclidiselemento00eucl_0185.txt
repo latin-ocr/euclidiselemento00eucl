@@ -1,0 +1,38 @@
+LIBER QUINTUS.
+
+et C ad D, eadem fit rationi G ad K quae composita est ex rationibus
+G ad H, et H ad K. erit ratio D ad F quae composita est ex reliquis
+rationibus prioribus D ad E, ct E ad F, cadem rationi K ad M quae
+composita est ex reliquis rationibus posterioribus K ad L, et L ad M.
+Qoniam enim, ex hypothefi‚ cst A ad D, ut G ad K, erit inverten-
+
+dob‚ D ad A, ut K ad G; ut vero A ad F, ira cstG ad M3 ergogbstffj-
+
+ex aequali, erit D ad F, ut K ad M. fi igitur &a Q E, D,
+PROP. K. THEOR.
+
+SI fuerint quotcunque rationes, quae dicantur priores,
+
+fuerintque aliae quotcunque rationes, quae dicantur
+posteriores; fitque ratio quae composita est ex rationibus
+quae eaedem sunt rationibus prioribus, singulae singulis,
+eadem rationi quae compofita est ex rationibus quae, fin-
+gulae singulis, eaedem sunt rationibus posterioribus; una
+vero ratio ex prioribus, vel ratio quae composita est ex
+rationibus quae, fingulae fingulis, eaedem sunt totidem
+ex prioribus, eadem fit uni rationi ex posterioribus, vel
+rationi quae compofita est ex rationibus quae, singulae
+fingulis, eaedem sunt totidem ex posterioribus: erit reli-
+qua ratio ex prioribus, vel, fi plures fuerint, erit ratio
+quae composita est ex rationibus quae eaedem sunt reli-
+quis ex prioribus, singulae singulis, eadem rationi reliquae
+ex posterioribus, vel, si plures fuerint, rationi quae com-
+posita est ex rationibus quae, singulae singulis, eaedem
+sunt reliquis ex posterioribus.
+
+Sint rationes A ad B, C ad D, E ad F, priores 3 posteriores vcro
+sint rationes G ad H, K ad L, M ad N, O ad P, (ζειαὶ R. ct fit ut
+Y 1: A ad
+
+171
+

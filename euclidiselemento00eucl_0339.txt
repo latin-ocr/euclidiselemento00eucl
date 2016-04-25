@@ -1,0 +1,30 @@
+LIBER DUODECIMUS. 3²5
+
+LEMMA ΙΙ.
+
+SI duo trapezia ABCD, EFGH inscripta sint circulis quo-
+rum centra K L punssta, fuerint autem latera AB, DC
+ut et EF, HG parallela3 reliqua autem quatuor· AD BC,
+EH, FG inter se aequalia3 fit autem AB latus majus latere
+EF et DC majus HG. erit reela KA quae est ex centro cir-
+culi 1n quo majora sunt latera, major ea LE quae est ex
+
+„centro alterius circuli.
+
+Non enim, fi fieri potest, fit KA major reela LE; erit igitur KA
+vel aequalis ipsi LE vel minor effidem. sit prirno KA aequalis LE.
+quoniam igitur in aequalibus circulis reciae AD, BC aequales suut ipsis
+EH, FG, erunt circumferentiae AD, BC aequales circumferentiis EH,
+FG ²¹5 quoniam vero reciae AB, DC majores sunt ipfis EF, HG, altera a. 28. 3.
+
+ 
+
+altera, erunt circumferentiae AB. DC majores ipsis EF, HG. Ergo tota
+ABCD circumferentia major est tota EFGH; sed et aequalis, quod
+fieri non potest. non igitur reeta KA aequalis est ipsi LE.
+
+Sed fit ΚΑ minor LE, et ipsi KA aequalis ponatur LM, et centro
+
+L, intervallo LM describatur circulus MNOP, qui junclis LF, LG,
+LH,
+

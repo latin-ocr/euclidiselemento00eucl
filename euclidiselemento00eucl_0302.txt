@@ -1,0 +1,49 @@
+388
+
+EUCLIDIS ELEMENTORUM
+
+Etenim C multiplicata fiet aliquando major magnitudine AB. mul-
+tiplicetur, et fit DE ipsius quidem C multiplex, major autem quam
+AB ; dividaturque DE in partes ipfi C aequales DF,
+
+FG, GE. et ab ipsa AB auferatur majus quam A D
+
+dimidium BH, ab ipsa vero AH rursus majus quam di· ]
+midium auferatur HK, atque hoe semper fiat quoad di· K F
+visiones quae sunt in AB multitudine aequales fiant divi-
+sionibus quae in DE ς fint igitur divisiones ΑΚ, KH,
+
+ΗΒ divisionibus DF, FG, GE multitudine aequales. et
+quoniam major est DE quam AB, et ablatum est ab
+
+H .
+
+ipsa quidem DE minus quam dimidium EG, ab ipsa B Ο, Ε
+vero AB majus quam dimidium BH; erit reliquum
+
+<l
+
+ 
+
+GD reliquo HA majus. rursus quoniam major est GD quarn HA,
+et ablatum est ab ipsa quidem GD dimidium GF; ab ipsa vero HA
+majus quam dimidium HK, reliquum FD reliquo ΑΚ majus erit. est-
+que FD aequalis ipsi C; ergo C quam Al< est major. minor igitur
+est ΑΚ quam C. Ergo ex magnitudine AB relifta est magnitudo ΑΚ
+expolita minore magnitudine C minor. Q E. D.
+
+PROP. Ι. THEO R.
+
+SIM1L1A polygona circulis inscripta inter se sunt ut qua·
+drata ex diametris.
+
+Sint circuli ABCDE, F GHKL, et in ipsis fimilia polygona ABCDE,
+FGHKL 3 diametri autem circulorum fint ΒΜ, GN. Dico ut quadra-
+
+(tum ex ΒΜ ad quadratum ex GN, ita esse ABCDE polygonum ad
+
+polygonum FGHKL.
+Jungantur enim BE, AM, GL, FN. ct quoniam polygonum
+ABCDE simile est polygono FGHKL, erit >et angulus ΒΑΕ angulo
+GFL
+

@@ -1,0 +1,49 @@
+LIBER SEXTUS.
+
+ad' triangulum DEF‚ duplicatam habebit rationem ejus quam habet BC
+ad EF. Quare fimilia triangula &c. Q E. D.
+
+COR. Ex hoc manifestum est, fi tres refilae lineae· proportionales
+fuerint, ut prima ad tertiam, ita esse triangulum quod fit ἐι prima ad
+triangulum quod ὲ secunda simile, et similiter descriptum. Qioniam
+ostensum est ut CB ad BG, ita ABC triangulum ad triangulum DEF.
+
+PROP. XX. THEOR.
+
+SIM1L1A polygona in fimilia triangula dividuntur, et nu-
+
+mero aequalia, et homologa totis; et polygonum ad
+polygonum duplicatam rationem habet ejus quam latus-
+homologum habet ad homologum latus.
+
+Sint similia polygona ABCDE, FGHKL, et sit AB latus homolo-
+gum ipfi F G. Dico polygona ABCDE, F GHKL in fimilia triangula
+dividi, et numero aequalia et homologa totis 3 et polygonum ABCDE
+ad polygonum F GHKL duplicatam rationemhabere ejus quam habet-
+AB ad FG.
+
+Jungantur BE, EC, GL, LH. et quoniam simile est ABCDE po-
+lygonum polygono FGHKL, angulus ΒΑΕ angulo GF L est aequa-
+
+199
+
+lis ³, atque est ut BA ad ΑΕ, Α a. 1.Def. 6,
+
+ 
+
+ita GF ad FL ³. quoniam ⁸ 31 F
+
+igitur duo triangulafimtABE, E B L
+
+FGL unum angulum uni G
+angulo aequalem habentia,
+
+circum aequales autem an- D C K H
+gulos latera proportionalia; erit triangulum ABE triangulo FGL ac-
+
+quiangulumb3 ergo ct fimile 0. angulus igitur ABE aequalis est angulo b· 6- Ξ.
+c. 4. ,
+
+FGL. est autem ct totus ABC angulus aequalis toti F GH ³, propter
+snuilitudinem ’
+

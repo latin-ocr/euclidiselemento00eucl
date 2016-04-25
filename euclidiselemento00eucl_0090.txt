@@ -1,0 +1,39 @@
+EUCLIDIS ELEMENTORUM
+
+Duo enim circuli ABG, CDG se invicem secent in punctis Β, C.
+dico ipsortm1 idem centrum non effe.
+
+Si enim fieri potest, fit centrum E; jungaturque EC, et EFG ut-
+cunque ducatur. et quoniam E centrum est
+circuli ΑΒΕ, erit CE ipfi EF aequalis. rur—
+sus quoniam E centrum est CDG circuli, ae-
+qualis est CE ipsl EG. sed ostensa est CE
+aequalis EF3 ergo FE ipfi EG aequalis e-
+rit, minor majori, quod fieri non potest. non
+igitur punctum E centrum est circulorum
+
+ABG, CDG. fi igitur duo circuli &a Q E. D.
+
+ 
+
+PROP. VI. THEOR.
+
+SI duo circuli sese intra contingant, ipsorum idem cens-
+trum non ent„
+
+Duo enim circuli ABC, CDE‘ contingant sese intra in pun6to C.
+dico Ipsorum non esse idem centrum.
+
+Si enim fieri potest, fit F; jungaturque FC, et FEB utcunque du-
+catur. Quoniam igitur-F centrum est circuli 0
+
+ABC, aequalis est CF ipfi FB. rursus quoniam
+F > centrum est circuli CDE, erit CF aequalis ,
+FE. ostensa autem est CF aequalisFB3 ergo A B
+et FE ipfi FB est aequalis, minor majori, quod
+fieri non potest. non igitur F punctum cen-
+
+trum est circulorum ABC, CDE. fi igitur duo circuli &c. QEa Dc
+
+P R O P. VH..
+

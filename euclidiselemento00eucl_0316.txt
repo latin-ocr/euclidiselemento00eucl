@@ -1,0 +1,44 @@
+302 EUCLIDIS ELEMENTORUM
+
+basis ABCDE ad balim FGH, ita pyramis ABCDEM ad pyramidem
+FGHN; ut vero FGH basis ad baslm FGHKL, ita FGHN pyramis
+
+M N
+
+ 
+
+f fo
+B ο -C G H
+
+ 
+
+e. 22. 5. ad pyramidem FGHKLN; erit ex aequali ⁰ ut basis ABCDE ad ba‘
+sim FGHKL, ita ABCDEM pyramis ad pyramidem F GHKLN. Py-
+ramides igitur quae &c. Q E. D.
+
+PROP. VH. THEOR. ,
+ΟΜΝΕ prisma triangularem habens balim, dividitur in
+
+tres pyramides aequales inter se, quae triangulares
+
+bases habent.
+
+Sit prisma cujus bafis quidem triangulum ABC, oppositum autem
+ipsi DEF. Dico prisma ABCDEF dix-idi in tres pyramides aequales
+inter se, quae triangulares habent bases.
+
+Jungantur enim BD, EC, CD; et quoniam parallelogrammum est
+ABED cujus diameter BD, erit ABD triangulum triangulo EBD ae-
+
+a. 34. 1. quale ³ 3 ergo pyramis cujus basis triangulum ABD, vertex autern punc-
+b. 5. 12. tum C, aequalis est b pyramidi cujus basis EBD triangulum, er vertex
+pune‘mm C. sed pyramis cujus bafis EBD triangulum, et vertex punc—
+
+tum C, eadem est cum pyramide cujus basis triangulum EBC, et vertex
+
+D pumerum3 iisdem enim planis continentur. crgo et pyramis cujus
+
+basis triangulum ABD, vertex autem punelum C, aequalis est pyra-
+
+’ midi
+

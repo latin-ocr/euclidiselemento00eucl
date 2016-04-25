@@ -1,0 +1,41 @@
+LIBER PRIMUS. 39
+
+puncsto D terminata fuerint, manifestum est utrumque parallelogram-
+
+mum duplum effe trianguli BDC³; quare et inter st: sunt aequalia. a.34. 1.
+Non autem fint parallelogrammorum ABCD, EBCF latera AD,
+
+EF basi opposita, in eodem punc‘to terminata; et quoniam parallelo-
+
+grammum est ABCD, aequalis est AD ipsi BC³; eadem quoque ra-
+
+tione et EF aequalis est BC; quare et AD ipfi EF aequalis eritb; et b· Ax. 1-
+
+communis est DE; tota igitur vel reliqua AE toti vel reliquae DF est
+
+AWVDE FAE‘DF
+
+{Ul
+
+aequalisc. est autem et AB aequalis DC; ergo duae EA, AB duabus c.Ax. 2. 3.
+
+2 FD, DC aequales sunt, altera alteri; et angulus F DC aequalis est an-
+
+gulo EAB exterior interiori d3 basis igitur ΕΒ bafi FC est aequalis, et d. 29.1.
+ΕΑΒ triangulum aequale θ triangulo F DC. auferatur triangulum F DC e. 4- 1.
+e trapezio ABCF, et ex eodem trapezio auferatur triangulum ΕΑΒ, re-
+liquum igitur parallelogrammum ABCD aequale erit reliquo paralle—
+logrammo EBCF f. Ergo parallelogramma super eadem basi &c. f. Ax. 3·
+
+QE. D.
+PROP.XXXV1. THEOR.
+
+PARALLELOGRAMMA super aequalibus bafibus, et in eis-
+dem parallelis eonstituta‚ inter se aequalia sunt.
+
+Sint parallelogramma ABCD, EFGH super aequalibus bafibus BC,
+FG, et in eildem parallelis AH, BG constituta5 dico parallelogram-
+
+mum ABCD ipfi EF GH aequale effe.
+Jungantur
+

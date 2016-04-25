@@ -1,0 +1,44 @@
+,44 EUCLIDIS ELEMENTORUM
+
+Sit datum triangulum ΑΒΕ, datus autem reetilineus angulus D. ita-
+
+que oportet, dato trIangulo ΑΒΕ aequale parallelogrammum constituere
+in angulo reetilineo ipsi D aequali.
+
+2 10, Ι, Secetur BC bifariam ain Ε, jungatur AE, et acl ree‘tam lineam EC
+b‚23,1.atque ad punaum in ea Ε, constituatur angulus CEF aequalis ipfi Db;
+
+e. 31. 1. et per A quidem ipfi EC parallela dueatur AG ς, per C vero ipsi EF Ι
+ducatur parallela CG ς. parallelogrammum A F G.
+
+igitur est FECG. et quoniam BE est ae-
+qualis EC, erit et ABE triangulum trian-
+
+ἀ. 38. 1. gulo AEC aequale d, super aequalibus enim D
+sunt bafibus BE, EC, et in eisdem BC, AG s
+
+parallelis; ergo triangulum ABC trianguli B Ε C·
+AEC est duplum. est autem et parallelo-
+
+e.41. 1. grammum FECG duplum trianguli AEC⁰‚ basim enim candem habet,
+et in eisdem est parallelis. aequale igitur est F ECG parallelogrammum
+triangulo ABC, habetque CEF angulum aequalem angulo D dato.
+Dato igitur triangulo AEC aequale parallelogrammum FECG eonsti-
+tutum est, iu angulo CEF qui angulo D cst aequali& Q E. F.
+
+PROP. XLIII. THEOR.
+OMNIS parallelogrammi spatii eorum, quae circa dia· ”
+
+metrum sunt, parallelogrammorum complementa
+inter se sunt aequalia. “
+
+Sit parallelogrammum ABCD, cujus diameter AC, et circa ipsam
+AC parallelogramma quidem smt EH, F G, quae vero complementa di-
+
+cuntur ΒΚ, KD3 dico ΒΚ complementum complemento KD aequale
+effe.
+
+Qohiam enim parallelogramnum est ABCD, et ejus diameter AC,
+
+aequale
+

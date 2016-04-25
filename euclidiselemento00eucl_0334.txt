@@ -1,0 +1,44 @@
+320
+
+b. 15.Def. 1.
+
+c. 11. 12.
+
+EUCLIDIS ELEMENTORUM
+
+circuli Ass; quare et inter sc sunt aequales. linea igitur GH est circum-
+ferentia circuli b cujus centrum est punctum K. planum igitur GH cy-
+lindrum AD dividit in cylindros AH, GD; sunt enim iidem qui de-
+scriberentur revolutione parallelogrammorum AK, GF circa rectas ΕΚ,
+KF. Dico igittu· ut AH cylmdrus ad cylindrum HC, ita ΕΚ axem
+ad axem KF.
+
+Producatur enim EF axis ex utraque parte ad puncta L, M ; et
+ipsi quidem ΕΚ axi ponantur aequales quotcunque EN, NL ; ipsi
+vero FK aequales quotcunque FX, XM 3 et
+per puncta L, N, X, M ducantur plana ip—
+fis AB, CD parallela. igitur, ut de plano GH
+ostensum fuit, planorum illorum et superficiei
+cylindri productae communes sectiones erunt
+circuli quorum centra sunt L, N, X, M puncta,
+et abscindent plana cylindros PR, RB, DT,
+TQ Quoniam igitur axes LN, NE, ΕΚ in-
+ter se sunt aequaleS, erunt cylindri PR, RB, BG
+inter se ut bases0. aequales autem sunt bases ;
+crgo ct cylindri PR, RB, BG sunt aequales.
+quoniam vero axes LN, NE, ΕΚ sunt inter sc
+
+ 
+
+aequales, sunt autem et cylindri PR, RB, BG,
+aequales inter se, atque est ipsorum LN, NE, ΕΚ multitudo aequalis
+multitudini ipsorum PR, RB, BG; quam multiplex est axis KL ipsius
+ΚΕ axis, tam multiplex erit et PG cylindrus cylindri GB. eadem ra-
+tione et quam multiplex est ΜΚ axis ipsius axis ΚΡ, tarn multiplex est
+ct QG cylindrus cylindri GD. et si quidem axis KL sit aequalis axi
+ΚΜ, erit et PG cylindrus cylindro GQaeqtialis; si aurem axis KL
+major fit axe KM, et cylindrus PG major erit cylindro GQ 3 et fi
+
+minor, minor. quatuor igitur existentibus magnitudinibUS, videlicet
+axibus
+

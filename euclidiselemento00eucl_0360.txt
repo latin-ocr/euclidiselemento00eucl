@@ -1,0 +1,51 @@
+346
+
+NOTAE.
+
+rectis concipere potest. etenim una ipsarum AB non potest con=
+
+cipi vergere vel minimum versus alteram
+
+CD, ni simul concipiatur AB magis incli- A· B
+nari versus partes rectae AC ad quas est
+
+CD, quam versus partes contrarias; quod C
+
+fieri non potest, reeta enim AB ad rectos D
+
+angulos est ipsi AC. idemque dicendum est
+
+de duabus quibusvis rectis AB, CD quae cum aliqua rec‘ta EAC ae-
+quales angulos EAB, ECD ad easdem partes continent i narn hae cui-
+dam reftae sunt ad rectos angulos. secetur enim AC bifariam in F,
+
+ 
+
+et ducatur F G perpendicularis ad AB, oc· Ε
+curratque rectae CD in H. quoniam igitur G A Β
+in triangulis AF G, CFH, anguli GAF,
+
+AFG ipfis HCF, CFH sunt aequales, al· F
+
+ter alteri, ex hypothesi et Prop. 1 5. Lib. 1 .
+
+et latus AF aequale est lateri FC, erit AGF C Η D
+
+angulus aequalis ipsi CHF, ex Prop. 26. Lib. 1. rectus autem est
+AGF, quare et CHF rectus est. igitur rectae BG, DH ad rectos sunt
+angulos eidem rectae GH.
+
+Secundo, liquido patet duas recitas ab eodem puncto exeuntes, a se
+
+invicem magis et magis divaricare seu divergere‚ ita ut distantia earum
+minima, inter finem unius et alteram reelam, fiat dat& quavis major.
+in longitudine enim ex. gr. decem ped-um, sumpta in una rectarum a
+puncto a quo exeunt, si distantia ipsarum sit unius pedis, producta rect&
+in alios decem pedes, distantia ipsarum augebitur alio pede, eadem ra-
+tione qua in prima longitudine3 et ita magis et magis· pendet autem
+hoc ex natura seu defiuitione rectae lineae quae eandem semper servat
+directionem, et ex praecedentibus stricte demonstrari non potest.
+
+Hisce praemissis, fint duae rectae lineae AB„F D, ipsasque secet alia
+reeta
+

@@ -1,0 +1,40 @@
+342'
+
+NOTAE.
+
+“ quae quidem et bifariam circulum secat.'' haec autem omisimus, non
+enim sunt pars Definitionis, sed Corollarium ex ea. Proclus id osten-
+dit concipiendo unum ex segmentis in quae diameter circulum dividit,
+altero applicari 3 manifestum enim est ea necessario fibi mutuo con-
+gruere ; fi enirn non congruerent, restae a centro ad circumferentiam
+duetae non essent inter se aequales. idem etiam facile ostenditur ex
+Prop. 3 1. Lib. 3. et Prop. 24. ejusdem. ex prima enlm harum se-
+quitur semicirculos similia effe circuli segmenta5 et ex altera segmenta
+haec aequalia esse.
+
+Ad DEF. XXXIII. LIB. 1.
+
+Definitio haec affectionem continet superfluam rei definitae ; etenim
+omnis figura quadrilatera quae habet latera opposita inter se aequalia,
+habebit etiam angulos oppositos inter se aequales; et contra.
+
+Sit enim in quadrilatero ABCD, latus AB aequale lateri CD, et la-
+
+tus AD ipsi BC; ducta igitur BD, erunt AD, Α D
+DB aequales ipsis CB, BD, et basis AB bafi sss
+CD est aequalis. igitur ex Prop. 8. Lib. 1. erit B C
+angulus ADB angulo DBC aequalis3 unde per
+
+Prop. 4. Lib. 1. crit angulus BAD aequalis ipsi BCD, et ABD ipsi
+BDC; et propterea angulus ADC aequalis angulo ABC.
+
+Si vero angulus BAD aequalis fuerit angulo BCD, et angulus ABC
+angulo ADC; erunt et latera opposita inter sc aequalia. Quoniam
+enim ex Prop. 3 2. Lib. 1 . omnes anguli quadrilatcri ABCD simul
+conficiunt quatuor renos, quorum anguli BAD, ADC simul aequales
+sunt ipfis BCD, ABC; erunt BAD, ADC simul aequales duobus rectis.
+parallelae igitur sunt AB, CD ex Prop. 2 8. Lib. 1. similiter, quoniam
+anguli DAB, ABC aequales sunt duobus rcffis, parallelae crunt AD,
+
+BC„
+

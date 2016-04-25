@@ -1,0 +1,30 @@
+314
+
+g.1
+hio 1
+
+EUCLIDIS ELEMENTORUM
+
+ostensum. est. non igitur ut ABCD circulus ad circulum EFGH, ita
+conus AL ad aliquod solidum majus cono EN. ostensum autem est
+neque effe ad minus. Ergo ut ABCD circulus ad circulum EFGH,
+ita est conus AL ad EN conum. sed ut conus ad conum, ita est cy-
+
+ 
+
+f· ξ· lindrus ad cylindrumg; est enim uterque utriusque triplush. et igitur
+
+ut ABCD circulus ad circulum EFGH, ita sunt super ipsis cylindri
+acque alti. Ergo coni et cylindri qui eandem habent altitudinem, in·
+
+ter se sunt ut bases. Q E. D.
+PROP. XII. THEOR.
+
+SIM1LES coni et cylindri inter se sunt in triplicata ra·-
+tione diametrorum basium.
+
+Sint ssmiles coni ct cylindri, quorum bases quidem circuli ABCD,
+
+EFGH, diametri vcro balium AC, EG, et axes conorum vel cylindro-
+rum
+

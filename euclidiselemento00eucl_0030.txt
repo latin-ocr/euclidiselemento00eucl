@@ -1,0 +1,39 @@
+115 EUCLIDIS ELEMENTORUM
+
+DF est aequalis basi EF; angulus igitur DAF angulo EAF est aequa-
+
+0.8.1.lis0. quare datus angulus restilineus BAC a resta linea AF bifariam
+sefius est. Q E. F.
+
+PROP. X. PROB.
+DATAM reeiam lineam terminatam bifariam secare.
+
+Sit data rasta linea terminata AB 3 oportet ipsam AB bifariam se-
+carc.
+
+a.1.1- Constituatur super ea triangulum aequilaterum ²³ ΑΒΕ, et secetur
+5.9.1-ACB angulus bifariam b reeta linea CD. dico C
+
+AB restam lineam in punfto D bifariam secari.
+
+Qioniam enim AC est aequalis CB, commu-
+nis autem CD; duae AC, CD duabus BC, CD
+aequales sunt, altera alteri3 et angulus ACD cst
+
+aequalis angulo BCD; basis igitur AD basi DB A D B
+0-4- 1· est aequalisc. reeta igitur linea terminata AB bifariam seeta est in
+puncsto D. Q E. F.
+
+PROP. XI. PROB.
+DATAE reeiae lineae, a punem in ipsa dato, ad reeios
+
+angulos reeiam lineam ducere.
+
+Sit data reeta linea AB, et datum in ipsa pimc‘mm C ; oportet a
+puneio C ipfi AB ad mestos angulos reeiam lineam ducere.
+Sumatur in AC punc‘kum quodvis D, ipsique CD aequalis ponatur ³
+b. Ι, ι, CE, et super DE constituatur triangulum aequilaterum b DFE, ct FC
+jungatur. dico datae reeiae lineae AB a punRo C in ipsa dato, ad rec-
+tos angulos dustam esse FC.
+Qoniam
+

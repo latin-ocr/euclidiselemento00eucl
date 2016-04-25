@@ -1,0 +1,44 @@
+e LIBER QUARTUS. 119
+
+PROP. VIII. PROB-
+IN dato quadrato circulum inscribere.
+
+Sit datum quadratum ABCD,· oportet in quadrato ABCD clrculum
+
+inscribere.
+Secetur utraque ipsarum AB, AD bifariam ³ in punffis F, E, et per a. 10. 1.
+
+E quidem alterutri ipsarum AB, CD, parallela ducatur b EH, per Fb·31. 1.
+vero ducatur FK parallela alterutri AD, BC. parallelogrammum igi-
+
+tur est unumquodque ipsorum AK, KB, AH, HD, AG, GC, BG, GD,
+
+et latera ipsorum opposita sunt aequalia ⁰. et quoniam AD est aequalis c. 34· ιζ
+AB, et ipsius quidem AD dimidium est ΑΕ, ip· A Ε D
+
+fius vero AB dimidium AF; erit ΑΕ ipfi AF
+aequalis. quare et Oppofita latera sunt aequalia,
+ergo FG cst aequalis GE. similiter ostende· F K
+
+mus et utramque ipsarum GH, GK utrique FG, n A
+
+GE aequalem effe. quatuor igitur GE, GF,
+
+GH, GK inter se sunt aequaleS. itaque centro Β H C
+
+quidem G, intervallo autem unius ipsarum GE, GF, GH, GK circulus
+descriptus ctiam per reliqua transibit puncta, et reetas lineas AB, BC,
+
+CD, DA continget, propterea quod anguli ad E, F, H, K resti suutd3 d. 29. ε.
+quae cuim diametro circuli ad festos angulos ab extremitate ducitur cir·-
+
+culum contingit& circulum igitur contingit unaquaeque ipsarum AB, e. 16. 3.
+BC, CD, DA, atque erit circulus in quadrato ABCD inscriptus. In
+
+dato igitur quadrato circulus inscriptus est. Q E. F.
+
+P R ΟΡ. IX. PROB.
+CIR C A datum quadratum circulum circumscribere.
+
+Sit
+

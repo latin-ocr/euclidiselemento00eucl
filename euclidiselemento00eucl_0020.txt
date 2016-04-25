@@ -1,0 +1,34 @@
+EUCLIDIS ELEMENTORUM
+P OSTULATA.
+
+Ι.
+ΡΟετυιΕΊ-υκ, a quovis punfto ad quodvis punstum restam li-
+
+neam ducere.
+Et refftam lineam terminatam, in continuum ct diffluum producere.
+
+III.
+Et quovis centro et intervallo circulum describere.
+
+AXIOMATA.
+
+Ῑ.
+QUAE eidem aequalia, et inter se sunt aequalia.
+
+II.
+Et fi aequalibus aequalia adjiciantur, tota sunt aequalia.
+III.
+Et fi ab aequalibus aequalia auferantur, reliqua sunt inaequalia.
+IV.
+Et fi inaequalibus aequalia adjiciantur, tota sunt inaequalia.
+V.
+Et fi ab inaequalibus aequalia auferantur, reliqua sunt Inaequalia.
+VI.
+Et quae ejusdem sunt duplicia, inter se sunt aequalia.
+VII.
+Et quaa ejusdem sunt dimidia, inter se sunt aequalia.
+VIII.
+
+Et quae fibi mutuo congruunt, inter se sunt aequalia.
+Totum
+

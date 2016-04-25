@@ -1,0 +1,40 @@
+LIBER QUARTUS. ¹²9
+
+est ABCDEF hexagonum. ostensum autem est et aequilaterum esse;
+et inscriptum cst in circulo ABCDEF. In dato igitur circulo hexa-
+gonum aequilaterum et aequiangulum inscriptum est. Q E. F.
+
+COR. Ex hoc manifestum est hexagoni latus, ei quae est ex centro
+circuli aequale esse.
+
+Et fi per puncta A, B, C, D, E, F contingentes circulum ducamus,
+circa circulum hexagomm aequilaterum et aequiangulum circumscribe-
+tur, consequenter iis quae in pentagono dicta sunt; et praeterea fimili-
+ter in dato hexagono aequilatero et aequiangulo circulum inscribemus,
+
+et circa illud circumscribemus.
+
+P R ΟΡ. XVI. PROB.
+
+N dato circulo quindecagonum aequilaterum et aequi-
+angulum inscribere.
+
+Sit datus circulus ABCD; oportet in ABCD circulo quindecago-
+num aequilaterum et aequiangulum inscribere.
+
+Sit in circulo ABCD trianguli quidem aequilateri ipfi inscripti la-
+tus AC ³, pentagoni vero aequilateri et aequianguli latus b AB; q11alium'²·²·4-
+igitur partium est ABCD, tota scilicet circumferentia, quindecim, ea· b. 11'4'
+rum circumferentia quidem ABC tertia existens
+totius erit quinque ; circumferentia vero AB, A
+quae quinta est totius, erit trium3 reliqua igi· Ἰ x
+tur BC est duarum. secetur BC bifariam ⁶ in B
+E3 quare utraque ipsarum BE, EC circumfe- Ε
+rentiarum quintadecima pars est circumferentiae C X
+
+circuli ABCD. fi igitur jungentes BE, EC
+aequales ipfis in continuum rectas lineas in circulo ABCD aptemusd, d. 1. 4-
+R in
+
+   
+

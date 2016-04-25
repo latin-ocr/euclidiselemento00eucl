@@ -1,0 +1,46 @@
+{58
+
+EUCLIDIS ELEMENTORUM
+
+PROP XVIII. THEOR.
+
+SI divisae magnitudines sint proportionales, et compo-
+sitae proportionales erunt.
+
+51111 divisae magnitudines proportionales ΑΕ, ΕΒ ; CF, F D, hoc
+est ut AE ad ΕΒ, ita fit CF ad FD; dico etiam compositas propor-
+tionales effe, videlicet ut AB ad BE, ita esse CD acl DF.
+
+sumantur enim ipsarum AB, BE, CD, DF utcunque aeque multi-
+plices GH, HK, LM, MN; ipsarum autem ΒΕ, DF aliae rursus su-
+
+· mantur utcunque acque multiplices ΚΟ, ΝΡ. ct quoniam KO, ΝΡ ac-
+
+que multiplices sunt ipsarum BE, DF, et KH, ΝΜ earundem sunt ae-
+que multiplices, fi ΚΟ multiplex ipsius BE major sit KH multiplici ejus-
+dem BE, erit et NP multiplex ipsius DF major H
+NM multiplici ejusdem DF; et fi ΚΟ aequa-
+
+.
+lis fit KH, erit NP aequalis ΝΜ, et fi minor, Ο 3
+11111101. ’ ⁷ M
+
+Sit primum ΚΟ 11011 major KH, igitur erit K¹ P 3
+NP 11011 major NM. et quoniam GH, HK N.
+
+aeque multiplices sunt ipsarum AB, BE, ct cst
+
+Χ· · ΑΒ major BE, erit GH major KH; cst au- 3 Β D
+tem ΚΟ ’11011 major KH 3 (3113113 GH major cst Ε F
+ΚΟ. similiter ostendetur LM majorem effe 3 ci L
+
+NP. Ergo fi ΚΟ 11011 major fit KH, erit GH G A
+multiplex ipsius AB semper 11111301 ΚΟ multiplici
+ipsius BE, et simul LM multiplex ipsius CD major erit NP multiplici
+ipsius DF.
+
+Sed sit ΚΟ1301 01111· 1 1ΧΗ,· 311 “-1 19111131 111 oth 11,11“1111 ΝΡ major
+
+NM. et quoni. 111 cst toto Gna 13131,3 mr 11131111 Χ totius AB, atque ab-
+· lata
+

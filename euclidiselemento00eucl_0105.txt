@@ -1,0 +1,46 @@
+LIBER TERTIUS.
+PROP. XX. THEOR.
+IN circulo angulus qui ad centrum duplus est ejus qui
+ad circumferentiam, quando circumferentiam eandem
+pro basi habent.
+
+Sit circulus ΑΒΕ, et ad centrum quidem ejus sit angulus BEC, ad
+circumferentiam vero ΒΑΕ, habeant autem eandem circumferentiam
+BC pro bafi3 dico BEC angulum anguli BAC du· A
+plum esse.
+
+Primo, fit centrum E intra angulum BAC, et
+jungatur ΑΕ et ad F producatur. quoniam igitur Ἄ
+EA est aequalis ΕΒ, 'erit et angulus EAB angulo Δ
+ΕΒΑ aeqiialis?; anguli igitur EAB, EBA dupli B c a· ς. 1-
+
+sunt ipfius EAB; scd angulus BEF est aequalis an· F
+
+gulis EAB, EBAb; ergo et angulus BEF ipsius EAB est duplus. ea· b. 3²· ¹*
+
+dem ratione et angulus F EC duplus est Ipsius EAC. totus igitur BEC
+
+totius ΒΑΕ duplus erit. Α
+Rursus inflectatur BDC ad circumferentiam, '
+
+ita ut centrum E fit extra angulum BDC, juncta-
+
+que DE ad G producatur. similiter ostendemus i Ε
+
+angulum GEC anguli GDC duplum esse, quo- G
+
+rum GEB duplus est ipsius GDB; reliquus igi-
+
+tur BEC reliqui BDC est duplus. in circulo Β C
+
+igitur angulus &c. Q E. D.
+
+PROP. XXI. THEOR.
+
+IN circulo qui in eodem segmento sunt anguli inter se
+
+aequales sunt.
+M 2 Sit
+
+91
+

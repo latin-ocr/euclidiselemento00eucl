@@ -1,0 +1,48 @@
+56
+
+f. 34. 1.
+
+g-43·1·
+
+EUCLIDIS ELEMENTORUM
+
+teri GK, et CG ipsi BKf‚ ergo et GK est aequale KB 3 aequilate-
+rum igitur est CGKB. dico insuper etiam re&angtiltltn effe, quoniam
+enim CG parallela est ipsi BK, et in ipsas incidit CB, anguli KBC,
+GCB duobus reffis sunt aequales; maus autem est KBC angulus, rec-
+
+tus igitur est GCB; quare et anguli hisce opposui CGK, GKB reeti e-
+runtf3 reftangulum igitur est CGKB. scd ostensum fuit et aequilate-
+
+rum essc; quadratum igitur est, et est ex CB. Α C B
+
+eadem ratione et HF est quadratum, ct cst ex ¹
+HG, hoc cst ex AC. ergo HF, CK cx ipfis AC, H G K
+CB quadrata sunt. et quoniam AG cst aequale
+
+ipsl GE ἓ, atque est AG quod ab AC, CB con- l s l ⁷ l
+tinetur, est enim GC ipfi CB aequalis 3 erit et D ¹
+
+GE aequale ei quod continetur ab AC, CB; F Ε
+
+quare AG, GE aequalia sunt ei quod bis ab AC, CB continetur. sunt
+autem et HF, CK quadrata ex AC, (3133 quatuor igitur HF, CK, AG,
+GE aequalia sunt et quadratis ex AC, CB, et ei quod bis ab AC, CB
+continetur reetangulo. scd HF, CK, AG, GE sunt totum ADEB
+quod est quadratum ex AB. quadratum igitur ex AB aequale est et
+quadratis ex AC, CB, et reetangulo quod bis ab AC, CB continetur.
+fi 1gitur rena linea sc &a fuerit &o Q E. D.
+
+COR. Ex his manife stum est, in quadratis spatiis parallelogramma
+quae sunt circa diametrum quadrata effe.
+
+PROP. V. THEOR.
+
+SI recfta linea sedta fuerit in partes aequales, et in par-
+tes inaequales, refftangultim ab inaequalibus totius
+partibus contentum, una cum quadrato refrae lineae quae
+inter sefflmes interjicitur, aequale est quadrato ex di-
+
+midia.
+Retia
+

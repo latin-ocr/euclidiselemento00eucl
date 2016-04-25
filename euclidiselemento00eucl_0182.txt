@@ -1,0 +1,49 @@
+168
+
+a. A. et 14. ς.
+
+b.19.5‚
+c. A, 5.
+
+EUCLIDIS ELEMENTORUM
+
+monstratio eadem est cum ea Propofitionis dummodo vice componendo
+utatur dividendo. ⁷
+
+COR. 2. Ipsa autem Propofitio vera est de quotcunque magnitudin}
+bus, quarum priores ad communem secundam easdem habent rationes
+
+quas habent reliquae ad communem quartam, singulae sc. priorum ad
+secundam, eandem quam fingulae reliquarum ad quartam ; ut patet.
+
+PROP. XXV. THEOR,
+
+SI quatuor magnitudines fuerint proportionale8‚ maxia
+ma ipsarum et minima duabus reliquis majores e-
+runt.
+
+Sint quatuor magnitudines proportionales AB, CD, E, F; et fit ut
+AB ad CD, ita E ad F. fit autem maxima ipsarum AB, ct propterea
+² F minima. Dico AB et F ipfis CD et E majores esse.
+
+Ponatur enim ipfi quidem E aequalis AG, ipsi vero F aequalis CH.
+Qoniam igitur est ut AB ad CD, ita E ad F ς estque AG aequalis E,
+et CH aequalis F; crit ut AB ad CD, ita AG ad B
+CH. et quoniam est ut tota AB ad totam CD, G D
+ita ablata AG ad ablatam CH 3 erit et reliqua GB H
+ad reliquam HD, ut tota AB ad totam ¹³ CD. ma—
+jor autem est AB quam CD; ergo C ct GB major [
+
+ 
+
+ 
+
+erit quam HD. et quoniam AG aequalis est ipsi
+E, CH vero ipsi F; erunt AG et F aequales ipsis Α C Ε F
+CH ct E. inaequalibus igitur existentibus (ΞΒ, HD, quarum major est
+GE, fi addantur AG et F ipfi quidem (ΞΒ, ipsi vero HD addantur
+CH et E 3 fient AB et F ipsis CD ct E nmjores. fi igitur quatuor ἃς.
+Q E. D.
+
+PROP. F,
+

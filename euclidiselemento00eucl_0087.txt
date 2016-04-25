@@ -1,0 +1,42 @@
+LIBER TERTIUS. 73
+
+COR. Ex hoc manifestum est, fi in circulo recta linea, rectam lineam
+bifariam etad angulos rectos secet, in secante erit centrum circuli.
+
+PROP. ΙΙ. THEOR.
+
+SI in circumferentia circuli duo quaevis puncia suman-
+tur, quae ipsa conjungit recta linea intra circulum
+cadet.
+
+Sit circulus ABG, et in circumferentia ipsius sumantur duo quaevis
+puncta A, B3 dico rectam lincam a puncto A ad B ductam, intra cir-
+culum cadere.
+
+Non enim, sed si fieri potest cadat extra ut AEB; et sumatur cir-
+culi ABC centrum²‚ et fit D, jungamurque AD, C a.1.3.
+
+DB, occurratque DE circumferentiae in F. Qo-
+
+niam igitur DA est aequalis DB, erit et angulus
+
+DAB aequalis b angulo DBA 3 et quoniam trian— ‚ b. 5· ¹·
+guli DAE unum latus ΑΕΒ producitur, erit an- Δ
+
+gulus DEB angulo DAE maj0r⁰; angulus autem ’ 0- 16· 1·
+
+DAE aequalis est angulo DBE, ergo DEB angulus A Ε B
+
+angulo DBE est major. sed majori angulo majua latus subtenditurd3d.19.1.
+major igitur est DB ipsa DE. aequalis autem est DB ipfi DF; crgo
+
+DF est major DE, minor majore, quod fieri non potest. resta igitur
+
+linea a puncto A ducta ad Β non cadet extra circulum. similiter osten-
+
+demus neque in ipsam cadere circumferentiam. cadet igitur intus. {i
+
+igitur in circumferentia &c. Q E. D.
+
+K γ PROP. ΠΙ.
+

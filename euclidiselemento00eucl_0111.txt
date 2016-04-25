@@ -1,0 +1,31 @@
+LIBER TERTIUS.
+
+BKC reliquo ELF est aequale3 circumferentia igitur BKC circumfe-
+rentiae ELF aequalis erit. in aequalibus igitur circulis &c. Q E. D.
+
+PROP. XXVII. THEOR.
+
+IN aequalibus circulis anguli qui aequalibus insistunt cir-
+cumferentiis inter se aequales sunt, five ad centra, five
+ad circumferentias infistant.
+
+In aequalibus enim circulis ABC, DEF, aequalibus circumferentiis
+BC, EF infistant anguli ad centra quidem BGC‚ EHF, ad circumfe-
+rentias vero EAG, EDF. dico angulum BGC angulo EHF, et angu-
+· lum BAC angulo EDF aequalem effe.
+Si quidem igitur angulus BGC aequalis fit angulo EHF, manifestum
+est angulum quoque ΒΑΕ angulo EDF esse aequalem ³. sm minus unus a. 20. 3.
+
+ipsorum est major. fit major BGC‚ et constituatur ad rectam lisseam
+BG, et ad punctum in ipsa G, angulo EHF aequalis angulus b BGK; b. 23. 1.
+aequales autem anguli aequalibus insistunt circumferentiis quando ad
+centra fuerint03 aequalis igitur est circumferentia ΒΚ circumferentiae c. 26. 3Ε
+EF. sed EF aequalis est ipfi BC, ergo et ΒΚ ipfi BC cst aequalis, mi-
+nor majori, quod fieri non potest. non igitur inaequalis est angulus
+BGC angulo EHF3 ergo est aequalis. atque est anguli quidem BGC
+dimidium angulus qui ad A, anguli vero EHF dimidium qui ad Da.
+
+N angulus:-
+
+97
+

@@ -1,0 +1,39 @@
+218
+
+EUCLIDIS ELEMENTORUM
+
+e.4. ι. lis, et triangulum GBC triangulo GCK e aequale. et quoniam circum-
+
+ferentia BC ciretunferentIae CK est aequali8‚ et reliqua circumferentia
+quae complet totum circulum ABC aequalis est reliquae quae eundem
+
+a. 27. 3.circulum complet. quare et angulus BXC angulo COK est aequalis³;
+f. 11. Def.3· fimile igitur est BXC segmentum segmento COK f; et sunt super aequa-
+
+libus rcc‘tis lineis BC, CK. super aequalibus autem rectis lineis fimilia
+
+g. ²4- 3· circulorum segmenta, inter se aequalia suntg. Ergo segmentum BXC
+
+est aequale segmento COK. est autem et BGC triangulum triangulo
+CGK aequale. et totus igitur sector BGC toti sectori CGK aequalis
+crit. eadem ratione et KGL sector utrique ipsorum BGC, CGK ae-
+qualis erit. similiter ct sectores EHF, F HM MHN inter se sunt ae-
+
+Q„ Oe
+
+BXC
+
+quales. quam multiplex igitur est BL circumferentia circumferentiae
+BC, tam multiplex est BGL sector sectoris BGC. eadem ratione et
+quam multiplex est circumferentia EN circumferentiae EF, tam multi-
+plex est et EHN sector sectoris EHF. et fi circumferentia BL circum-
+ferentiae EN est aequali8‚ et sector BGL aequalis est sectori EHN; et
+fi circumferentia BL superat circumferentiam EN, superat et BGL sec-
+tor seetorem EH N 3 et fi minor, minor. quatuor igitur existentibus
+magnitudinibuS‚ duabus quidem BC, EF circumferentiis, duobus vero
+sectoribus BGC, EHF, sumpta sunt utcunque aeque multIplicia eircum-
+ferentiae quidem BC et BGC sectoris, circumferentia BL et BGL sec-
+tor 3 circumferentiae vero EF et sectoris EHF, alia utcunque aeque
+
+multiplicia,
+

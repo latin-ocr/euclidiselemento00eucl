@@ -1,0 +1,39 @@
+42
+
+EUCLIDIS ELEMENTORUM
+
+PROP. XXXIX. THEOR.
+
+TR1ANGULA aequalia super eadem basi, et ‘ad easdem
+partes constituta, in elsdem sunt parallelis.
+
+Sint· aequalia triangula ABG, DBC super eadem bafi BC constituta,
+et ad easdem partes 3 dico in eisdem effe parallelis.
+Jungatur enim AD, dico AD parallelam effe ipfi BC; si enim non
+a.31. 1. est, ducatur per A punc‘tum ipss BC parallela reaa linea AEss, et EC
+jungatur. aequale igitur est ABC triangulum tri· ,D
+b. 37.1. angulo EBCb‚ super eadem enim est bafi BC, et A
+in eisdem parallelis BC, AE. sed ABC triangulum
+triangulo DBC est aequale ; ergo ‚et triangulum
+DBC aequale est EBC triangulo, majus minori,
+quod fieri non potest. Non igitur AE ipfi BC B C
+parallela est. similiter ostendemus neque aliam quampiam parallelam
+effe, praeter ipsam AD3 ergo AD ipsi BC est‘parallela. Triangula igi-
+tur aequalia &c. Q E. D.
+
+PROP· XL. THEOR.
+TRIANGULA aequalia super bafibus aequalibus, et ad
+easdem partes constituta, in eisdem sunt parallelis.
+
+Sint aequalia trIangula ABG, DEF
+
+super aequalibus baslbus BC, EF con· A*-
+
+stituta, ct ad easdem partes ,- dico etiam Ἔχ
+
+in eisdem effe parallelis. Δ ι
+Jungatur enim AD, dico AD ipsi B C E F
+
+BF parallelam effe. Nam fi non est,
+ducatur
+

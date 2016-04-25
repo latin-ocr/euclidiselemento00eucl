@@ -1,0 +1,40 @@
+226 EUCLIDIS ELEMENTORUM
+
+Ergo restae lineae AB, CD in uno sunt plano. Igitur fi duae reetae Ιί-
+neae &a Q E. D.
+
+PROP. III. THEO R.
+
+SI duo plana seinvicem secent, communis ipsorum sec·-
+tio resta linea erit.
+
+Duo plana ΑΒ, BC se invicem secent, communis autem ipsorum
+seffio fit DB linea. Dico lineam DB esse renam.
+s1 enim non ita fit, ducatur a punfm D ad B in
+plano quidem AB reeta linea DEB; in plano au-
+tem BC resta linea DFB. Erunt igitur duarum
+reetarum linearum DEB, DFB iidem termini, et
+
+ 
+
+a. 10.Ax. 1. ipsae spatium continebunt, quod est absurdum ².
+igitur planorum AB, BC, communis festio BD non
+potest non effe reeta linea ; resta igitur est. Si igitur duo plana δερ. QE. D.
+
+PROP. 1v.‘ THEOR.
+
+SI reeta linea duabus reetis lineis seinvicem secantibus
+in communi sedtione ad reetos angulos insistat, etiam
+dudio per ipsas plano ad reftos angulos erit.
+
+Resta linea quaedam EF duabus reffis fineis AB, CD, se invicem
+secantibus in E punem, ab ipso E ad reetos angulos insistat. . Dico
+EF etiam plano per AB, CD dudio ad reetos angulos esse.
+
+Sumantur enIm metae lineae AE, ΕΒ, CE, ED inter se aequales 3
+et per E ducatur in plano per AB, CD, reeta linea GEH utcunque,
+jungamurque AD, Css; deinde a qu0vi8‚ in reeta EF, puneto F ducan-
+tur FA, FG, FD, FC, ΡΗ, FB. Et quoniam duae rectae lineae AE,
+
+ED
+
